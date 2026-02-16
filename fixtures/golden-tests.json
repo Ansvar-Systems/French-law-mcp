@@ -9,7 +9,7 @@
       "description": "Retrieve article L2321-1 from Code de la defense (cybersecurity)",
       "tool": "get_provision",
       "input": {
-        "document_id": "code-defense-cyber",
+        "document_id": "code-defense",
         "provision_ref": "artL2321-1"
       },
       "assertions": {
@@ -24,7 +24,7 @@
       "description": "Retrieve article 323-1 from Code penal (cybercrime)",
       "tool": "get_provision",
       "input": {
-        "document_id": "code-penal-cyber",
+        "document_id": "code-penal",
         "provision_ref": "art323-1"
       },
       "assertions": {
@@ -69,7 +69,7 @@
       "tool": "search_legislation",
       "input": {
         "query": "systeme",
-        "document_id": "code-penal-cyber",
+        "document_id": "code-penal",
         "limit": 10
       },
       "assertions": {
@@ -110,7 +110,7 @@
       "description": "Check currency status of Code de la defense cybersecurity provisions",
       "tool": "check_currency",
       "input": {
-        "document_id": "code-defense-cyber"
+        "document_id": "code-defense"
       },
       "assertions": {
         "result_not_empty": true,
@@ -123,7 +123,7 @@
       "description": "Check currency status of specific provision in Code penal",
       "tool": "check_currency",
       "input": {
-        "document_id": "code-penal-cyber",
+        "document_id": "code-penal",
         "provision_ref": "art323-1"
       },
       "assertions": {

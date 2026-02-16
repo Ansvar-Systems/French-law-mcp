@@ -1,36 +1,36 @@
 {
   "id": "nis2-transposition-france",
   "type": "statute",
-  "title": "Cadre de transposition de la directive NIS 2 en droit francais",
+  "title": "Cadre de transposition de la directive NIS 2 en droit français",
   "title_en": "Framework for NIS 2 Directive transposition into French law",
   "short_name": "NIS 2 FR transposition",
   "status": "not_yet_in_force",
   "url": "https://cyber.gouv.fr/la-directive-nis-2",
-  "description": "France's transposition of NIS 2 Directive (EU 2022/2555). ANSSI leads the implementation. Expected to designate ANSSI as the national competent authority and CSIRT, extend cybersecurity obligations to \"essential\" and \"important\" entities (estimated 10,000+ entities in France), establish incident notification requirements (24h early warning, 72h full report), and mandate risk management measures. The transposition deadline was October 17, 2024.",
+  "description": "France's transposition of NIS 2 Directive.",
   "provisions": [
     {
       "provision_ref": "art-scope",
       "section": "scope",
       "title": "Scope - Essential and Important Entities",
-      "content": "La transposition NIS 2 distingue les \"entites essentielles\" (EE) et les \"entites importantes\" (EI). Les EE comprennent les secteurs de l'energie, des transports, de la sante, de l'eau, des infrastructures numeriques, de l'administration publique et de l'espace. Les EI comprennent les services postaux, la gestion des dechets, la fabrication, les services numeriques et la recherche. Le critere de taille s'applique : moyennes entreprises (50+ salaries ou 10M+ CA) et grandes entreprises."
+      "content": "La transposition NIS 2 distingue les 'entités essentielles' (EE) et les 'entités importantes' (EI)."
     },
     {
       "provision_ref": "art-notification",
       "section": "notification",
       "title": "Notification d'incidents",
-      "content": "Les entites assujetties doivent notifier a l'ANSSI, sans retard injustifie, tout incident ayant un impact significatif sur la fourniture de leurs services. Une alerte precoce doit etre transmise dans les 24 heures suivant la detection de l'incident. Une notification complete doit etre soumise dans les 72 heures. Un rapport final est du dans un delai d'un mois."
+      "content": "Alerte précoce dans les 24h, notification complète dans les 72h, rapport final dans un mois."
     },
     {
       "provision_ref": "art-measures",
       "section": "measures",
       "title": "Mesures de gestion des risques",
-      "content": "Les entites doivent mettre en oeuvre des mesures techniques, operationnelles et organisationnelles appropriees et proportionnees pour gerer les risques qui menacent la securite des reseaux et des systemes d'information. Ces mesures comprennent au minimum : les politiques d'analyse des risques et de securite des systemes d'information ; la gestion des incidents ; la continuite des activites et gestion de crise ; la securite de la chaine d'approvisionnement ; la securite de l'acquisition, du developpement et de la maintenance des reseaux et des systemes d'information ; les politiques et procedures pour evaluer l'efficacite des mesures de gestion des risques ; les pratiques de base en matiere de cyber-hygiene et la formation a la cybersecurite ; les politiques et procedures relatives a l'utilisation de la cryptographie ; la securite des ressources humaines, les politiques de controle d'acces et la gestion des actifs."
+      "content": "Mesures techniques, opérationnelles et organisationnelles appropriées."
     },
     {
       "provision_ref": "art-sanctions",
       "section": "sanctions",
       "title": "Sanctions",
-      "content": "Les entites essentielles s'exposent a des amendes administratives pouvant atteindre 10 000 000 EUR ou 2% du chiffre d'affaires annuel mondial total de l'exercice precedent (le montant le plus eleve etant retenu). Les entites importantes s'exposent a des amendes pouvant atteindre 7 000 000 EUR ou 1,4% du chiffre d'affaires annuel mondial total."
+      "content": "EE: jusqu'à 10M EUR ou 2% CA. EI: 7M EUR ou 1,4% CA."
     }
   ]
 }

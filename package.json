@@ -20,6 +20,7 @@
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
     "ingest": "node --import tsx scripts/ingest.ts",
+    "ingest:legi": "node --import tsx scripts/ingest-legi.ts",
     "check-updates": "node --import tsx scripts/check-updates.ts",
     "test:contract": "vitest run __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",

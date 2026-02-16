@@ -15,12 +15,12 @@
  *         <ID>LEGIARTI000006417934</ID>
  *       </META_COMMUN>
  *       <META_SPEC>
- *         <META_ART>
+ *         <META_ARTICLE>
  *           <NUM>L323-1</NUM>
- *           <DATE_DEBUT>20040810</DATE_DEBUT>
- *           <DATE_FIN>29990101</DATE_FIN>
+ *           <DATE_DEBUT>2004-08-10</DATE_DEBUT>
+ *           <DATE_FIN>2999-01-01</DATE_FIN>
  *           <ETAT>VIGUEUR</ETAT>
- *         </META_ART>
+ *         </META_ARTICLE>
  *       </META_SPEC>
  *     </META>
  *     <BLOC_TEXTUEL>
@@ -109,16 +109,23 @@ export function parseLegiDate(raw: string | number | undefined): string | undefi
   if (!raw) return undefined;
 
   const s = String(raw).trim();
-  if (s.length !== 8 || !/^\d{8}$/.test(s)) return undefined;
 
-  const year = s.slice(0, 4);
-  const month = s.slice(4, 6);
-  const day = s.slice(6, 8);
+  // ISO date format: YYYY-MM-DD (used in current LEGI archives)
+  if (/^\d{4}-\d{2}-\d{2}$/.test(s)) {
+    if (s.startsWith('2999')) return undefined; // "no end date"
+    return s;
+  }
 
-  // 29990101 means "no end date"
-  if (year === '2999') return undefined;
+  // Compact format: YYYYMMDD (legacy)
+  if (s.length === 8 && /^\d{8}$/.test(s)) {
+    const year = s.slice(0, 4);
+    const month = s.slice(4, 6);
+    const day = s.slice(6, 8);
+    if (year === '2999') return undefined;
+    return `${year}-${month}-${day}`;
+  }
 
-  return `${year}-${month}-${day}`;
+  return undefined;
 }
 
 // ---------------------------------------------------------------------------
@@ -214,6 +221,34 @@ function findArticleNodes(obj: unknown, depth = 0): unknown[] {
 }
 
 /**
+ * Recursively extract text content from a parsed XML node.
+ * Handles strings, arrays, objects with #text, and nested structures.
+ */
+function extractTextContent(node: unknown): string {
+  if (node === null || node === undefined) return '';
+  if (typeof node === 'string') return node;
+  if (typeof node === 'number' || typeof node === 'boolean') return String(node);
+
+  if (Array.isArray(node)) {
+    return node.map(extractTextContent).join('\n\n');
+  }
+
+  if (typeof node === 'object') {
+    const record = node as Record<string, unknown>;
+    // If it has #text, use that
+    if (record['#text'] !== undefined) return String(record['#text']);
+    // Otherwise concatenate all child text content
+    return Object.values(record)
+      .filter((v) => typeof v !== 'string' || !v.startsWith('@_'))
+      .map(extractTextContent)
+      .filter(Boolean)
+      .join('\n\n');
+  }
+
+  return '';
+}
+
+/**
  * Extract a ParsedArticle from a single ARTICLE XML node.
  */
 function extractArticle(node: unknown): ParsedArticle | null {
@@ -224,7 +259,8 @@ function extractArticle(node: unknown): ParsedArticle | null {
   const meta = art.META as Record<string, unknown> | undefined;
   const metaCommun = meta?.META_COMMUN as Record<string, unknown> | undefined;
   const metaSpec = meta?.META_SPEC as Record<string, unknown> | undefined;
-  const metaArt = metaSpec?.META_ART as Record<string, unknown> | undefined;
+  // LEGI XML uses META_ARTICLE (not META_ART as some docs suggest)
+  const metaArt = (metaSpec?.META_ARTICLE ?? metaSpec?.META_ART) as Record<string, unknown> | undefined;
 
   const id = String(metaCommun?.ID ?? art['@_id'] ?? '');
   const num = String(metaArt?.NUM ?? '');
@@ -232,10 +268,10 @@ function extractArticle(node: unknown): ParsedArticle | null {
   const dateDebut = metaArt?.DATE_DEBUT;
   const dateFin = metaArt?.DATE_FIN;
 
-  // Extract content
+  // Extract content — CONTENU may be a string or an object (when it contains HTML tags)
   const blocTextuel = art.BLOC_TEXTUEL as Record<string, unknown> | undefined;
   const contenu = blocTextuel?.CONTENU;
-  const rawContent = typeof contenu === 'string' ? contenu : '';
+  const rawContent = extractTextContent(contenu);
   const content = stripHtml(rawContent);
 
   if (!content || !num) return null;
