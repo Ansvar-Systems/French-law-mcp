@@ -1,0 +1,86 @@
+{
+  "version": "1.0",
+  "mcp_name": "French Law MCP",
+  "tests": [
+    {
+      "id": "gb-001",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of Data Protection Act 2018",
+      "tool": "get_provision",
+      "input": { "document_id": "data-protection-act-2018", "section": "1" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "gb-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 3 of Computer Misuse Act 1990",
+      "tool": "get_provision",
+      "input": { "document_id": "computer-misuse-act-1990", "section": "3" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "gb-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of Online Safety Act 2023",
+      "tool": "get_provision",
+      "input": { "document_id": "online-safety-act-2023", "section": "1" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "gb-004",
+      "category": "search",
+      "description": "Search for 'data protection' across French statutes",
+      "tool": "search_legislation",
+      "input": { "query": "data protection", "limit": 5 },
+      "assertions": { "result_not_empty": true, "min_results": 1 }
+    },
+    {
+      "id": "gb-005",
+      "category": "search",
+      "description": "Search for 'cybersecurity' across French statutes",
+      "tool": "search_legislation",
+      "input": { "query": "cybersecurity", "limit": 5 },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "gb-006",
+      "category": "citation_roundtrip",
+      "description": "Validate citation for DPA 2018 Section 3",
+      "tool": "validate_citation",
+      "input": { "citation": "Section 3, Data Protection Act 2018" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "gb-007",
+      "category": "citation_roundtrip",
+      "description": "Format citation in short form",
+      "tool": "format_citation",
+      "input": { "citation": "Section 3, Data Protection Act 2018", "format": "short" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "gb-008",
+      "category": "negative_test",
+      "description": "Non-existent statute returns null",
+      "tool": "get_provision",
+      "input": { "document_id": "nonexistent-act-9999", "section": "1" },
+      "assertions": { "result_is_null": true }
+    },
+    {
+      "id": "gb-009",
+      "category": "negative_test",
+      "description": "Empty search query returns empty array",
+      "tool": "search_legislation",
+      "input": { "query": "" },
+      "assertions": { "result_empty": true }
+    },
+    {
+      "id": "gb-010",
+      "category": "eu_cross_reference",
+      "description": "Check EU basis for UK GDPR implementation",
+      "tool": "get_eu_basis",
+      "input": { "document_id": "data-protection-act-2018" },
+      "assertions": { "result_not_empty": true }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+schema_version: '1.0'
+mcp_name: 'French Law MCP'
+jurisdiction: 'FR'
+
+sources:
+  - name: 'Legifrance'
+    authority: 'DILA (Direction de linformation legale et administrative)'
+    official_portal: 'https://www.legifrance.gouv.fr'
+    canonical_identifier: 'NOR number or article reference (e.g., "Article L. 1332-1 du Code de la defense")'
+    retrieval_method: 'API'
+    api_documentation: 'https://piste.gouv.fr/'
+    update_frequency: 'daily'
+    last_ingested: '2026-02-16'
+    license_or_terms:
+      type: 'Licence Ouverte v2.0'
+      url: 'https://www.etalab.gouv.fr/licence-ouverte-open-licence/'
+      summary: 'French government open data license, free to use with attribution'
+    coverage:
+      scope: 'French codes and laws (cybersecurity and data protection scope)'
+      limitations: 'Initial release covers key cybersecurity legislation only'
+    languages:
+      - 'fr'
+
+data_freshness:
+  automated_checks: true
+  check_frequency: 'daily'
+  last_verified: '2026-02-16'

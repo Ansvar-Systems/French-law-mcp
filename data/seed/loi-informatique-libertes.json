@@ -1,0 +1,54 @@
+{
+  "id": "loi-informatique-libertes",
+  "type": "statute",
+  "title": "Loi n 78-17 du 6 janvier 1978 relative a l'informatique, aux fichiers et aux libertes",
+  "title_en": "Act No. 78-17 of 6 January 1978 on Information Technology, Data Files and Civil Liberties",
+  "short_name": "Loi Informatique et Libertes",
+  "status": "in_force",
+  "issued_date": "1978-01-06",
+  "in_force_date": "1978-01-06",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460/",
+  "description": "France's foundational data protection law, extensively amended to implement the GDPR. Establishes the CNIL (Commission nationale de l'informatique et des libertes) and governs processing of personal data.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L'informatique doit etre au service de chaque citoyen. Son developpement doit s'operer dans le cadre de la cooperation internationale. Elle ne doit porter atteinte ni a l'identite humaine, ni aux droits de l'homme, ni a la vie privee, ni aux libertes individuelles ou publiques.\n\nToute personne dispose du droit de decider et de controler les usages qui sont faits des donnees a caractere personnel la concernant, dans les conditions fixees par la presente loi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La presente loi s'applique aux traitements automatises en tout ou partie de donnees a caractere personnel, ainsi qu'aux traitements non automatises de donnees a caractere personnel contenues ou appelees a figurer dans des fichiers, a l'exception des traitements mis en oeuvre pour l'exercice d'activites exclusivement personnelles, lorsque leur responsable remplit les conditions prevues a l'article 5."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Titre Ier",
+      "section": "8",
+      "title": "Article 8 - CNIL",
+      "content": "La Commission nationale de l'informatique et des libertes est une autorite administrative independante. Elle exerce les missions suivantes :\n1) Elle informe toutes les personnes concernees et tous les responsables de traitements de leurs droits et obligations ;\n2) Elle veille a ce que les traitements de donnees a caractere personnel soient mis en oeuvre conformement aux dispositions de la presente loi et aux autres dispositions relatives a la protection des donnees personnelles prevues par les textes legislatifs et reglementaires, le droit de l'Union europeenne et les engagements internationaux de la France."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Titre Ier",
+      "section": "20",
+      "title": "Article 20 - Pouvoirs de sanction de la CNIL",
+      "content": "Lorsque le responsable de traitement ou son sous-traitant ne respecte pas les obligations decoulant du reglement (UE) 2016/679 du 27 avril 2016 ou de la presente loi, le president de la Commission nationale de l'informatique et des libertes peut, si le manquement constate est susceptible de faire l'objet d'une mise en conformite, prononcer a son egard une mise en demeure, dans le delai qu'il fixe, de :\n1) Satisfaire aux demandes presentees par la personne concernee en vue d'exercer ses droits ;\n2) Mettre les operations de traitement en conformite avec les dispositions applicables ;\n3) Communiquer a la personne concernee une violation de donnees a caractere personnel ;\n4) Rectifier ou effacer des donnees a caractere personnel, ou limiter le traitement de ces donnees."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "Titre II",
+      "section": "83",
+      "title": "Article 83 - Transferts de donnees",
+      "content": "Le responsable d'un traitement ne peut transferer des donnees a caractere personnel vers un Etat n'appartenant pas a l'Union europeenne ou a une organisation internationale que si cet Etat ou cette organisation assure un niveau de protection suffisant de la vie privee et des libertes et droits fondamentaux des personnes a l'egard du traitement dont ces donnees font l'objet ou peuvent faire l'objet."
+    },
+    {
+      "provision_ref": "art226-16",
+      "chapter": "Dispositions penales",
+      "section": "226-16",
+      "title": "Article 226-16 - Sanctions penales",
+      "content": "Le fait, y compris par negligence, de proceder ou de faire proceder a des traitements de donnees a caractere personnel sans qu'aient ete respectees les formalites prealables a leur mise en oeuvre prevues par la loi est puni de cinq ans d'emprisonnement et de 300 000 euros d'amende."
+    }
+  ]
+}
