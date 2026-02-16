@@ -41,7 +41,7 @@ export async function checkCurrency(
   }
 
   const doc = db.prepare(`
-    SELECT id, title, status, document_type, issued_date, in_force_date
+    SELECT id, title, status, type as document_type, issued_date, in_force_date
     FROM legal_documents
     WHERE id = ? OR title LIKE ?
     LIMIT 1

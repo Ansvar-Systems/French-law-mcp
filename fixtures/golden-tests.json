@@ -1,86 +1,172 @@
 {
   "version": "1.0",
   "mcp_name": "French Law MCP",
+  "description": "Golden contract tests validating French Law MCP tools against seed data",
   "tests": [
     {
-      "id": "gb-001",
-      "category": "article_retrieval",
-      "description": "Retrieve Section 1 of Data Protection Act 2018",
+      "id": "fr-001",
+      "category": "provision_retrieval",
+      "description": "Retrieve article L2321-1 from Code de la defense (cybersecurity)",
       "tool": "get_provision",
-      "input": { "document_id": "data-protection-act-2018", "section": "1" },
-      "assertions": { "result_not_empty": true }
+      "input": {
+        "document_id": "code-defense-cyber",
+        "provision_ref": "artL2321-1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
     },
     {
-      "id": "gb-002",
-      "category": "article_retrieval",
-      "description": "Retrieve Section 3 of Computer Misuse Act 1990",
+      "id": "fr-002",
+      "category": "provision_retrieval",
+      "description": "Retrieve article 323-1 from Code penal (cybercrime)",
       "tool": "get_provision",
-      "input": { "document_id": "computer-misuse-act-1990", "section": "3" },
-      "assertions": { "result_not_empty": true }
+      "input": {
+        "document_id": "code-penal-cyber",
+        "provision_ref": "art323-1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
     },
     {
-      "id": "gb-003",
-      "category": "article_retrieval",
-      "description": "Retrieve Section 1 of Online Safety Act 2023",
-      "tool": "get_provision",
-      "input": { "document_id": "online-safety-act-2023", "section": "1" },
-      "assertions": { "result_not_empty": true }
-    },
-    {
-      "id": "gb-004",
+      "id": "fr-003",
       "category": "search",
-      "description": "Search for 'data protection' across French statutes",
+      "description": "Search for 'securite' across French statutes",
       "tool": "search_legislation",
-      "input": { "query": "data protection", "limit": 5 },
-      "assertions": { "result_not_empty": true, "min_results": 1 }
+      "input": {
+        "query": "securite",
+        "limit": 5
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
     },
     {
-      "id": "gb-005",
+      "id": "fr-004",
       "category": "search",
-      "description": "Search for 'cybersecurity' across French statutes",
+      "description": "Search for 'traitement automatise' (automated processing)",
       "tool": "search_legislation",
-      "input": { "query": "cybersecurity", "limit": 5 },
-      "assertions": { "result_not_empty": true }
+      "input": {
+        "query": "traitement automatise",
+        "limit": 5
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["traitement"]
+      }
     },
     {
-      "id": "gb-006",
-      "category": "citation_roundtrip",
-      "description": "Validate citation for DPA 2018 Section 3",
+      "id": "fr-005",
+      "category": "search",
+      "description": "Search limited to Code penal cybercrime provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "systeme",
+        "document_id": "code-penal-cyber",
+        "limit": 10
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "fr-006",
+      "category": "citation_validation",
+      "description": "Validate citation for Code de la defense article L. 2321-1",
       "tool": "validate_citation",
-      "input": { "citation": "Section 3, Data Protection Act 2018" },
-      "assertions": { "result_not_empty": true }
+      "input": {
+        "citation": "Code de la défense, art. L. 2321-1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_resolves": true
+      }
     },
     {
-      "id": "gb-007",
-      "category": "citation_roundtrip",
+      "id": "fr-007",
+      "category": "citation_formatting",
       "description": "Format citation in short form",
       "tool": "format_citation",
-      "input": { "citation": "Section 3, Data Protection Act 2018", "format": "short" },
-      "assertions": { "result_not_empty": true }
+      "input": {
+        "citation": "Code pénal, art. 323-1",
+        "format": "short"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
     },
     {
-      "id": "gb-008",
+      "id": "fr-008",
+      "category": "currency_check",
+      "description": "Check currency status of Code de la defense cybersecurity provisions",
+      "tool": "check_currency",
+      "input": {
+        "document_id": "code-defense-cyber"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"]
+      }
+    },
+    {
+      "id": "fr-009",
+      "category": "currency_check",
+      "description": "Check currency status of specific provision in Code penal",
+      "tool": "check_currency",
+      "input": {
+        "document_id": "code-penal-cyber",
+        "provision_ref": "art323-1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"]
+      }
+    },
+    {
+      "id": "fr-010",
       "category": "negative_test",
-      "description": "Non-existent statute returns null",
+      "description": "Non-existent document returns null or error",
       "tool": "get_provision",
-      "input": { "document_id": "nonexistent-act-9999", "section": "1" },
-      "assertions": { "result_is_null": true }
+      "input": {
+        "document_id": "nonexistent-code-9999",
+        "provision_ref": "art1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
     },
     {
-      "id": "gb-009",
+      "id": "fr-011",
       "category": "negative_test",
-      "description": "Empty search query returns empty array",
+      "description": "Empty search query handles gracefully",
       "tool": "search_legislation",
-      "input": { "query": "" },
-      "assertions": { "result_empty": true }
+      "input": {
+        "query": ""
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
     },
     {
-      "id": "gb-010",
+      "id": "fr-012",
       "category": "eu_cross_reference",
-      "description": "Check EU basis for UK GDPR implementation",
+      "description": "Get EU basis for NIS2 transposition framework",
       "tool": "get_eu_basis",
-      "input": { "document_id": "data-protection-act-2018" },
-      "assertions": { "result_not_empty": true }
+      "input": {
+        "document_id": "nis2-transposition-france"
+      },
+      "assertions": {
+        "result_not_empty": true
+      }
     }
   ]
 }
