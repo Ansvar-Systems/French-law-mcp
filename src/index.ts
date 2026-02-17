@@ -3,7 +3,7 @@
 /**
  * French Law MCP Server — stdio entry point.
  *
- * Provides UK legislation search via Model Context Protocol.
+ * Provides French legislation search via Model Context Protocol.
  */
 
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';

@@ -17,6 +17,7 @@
     "dev": "node --import tsx src/index.ts",
     "start": "node dist/index.js",
     "test": "vitest run",
+    "test:mcp": "vitest run tests/integration/mcp-output.test.ts",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
     "ingest": "node --import tsx scripts/ingest.ts",

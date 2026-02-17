@@ -1,6 +1,33 @@
 {
+  "$schema": "./golden-hashes.schema.json",
   "version": "1.0",
   "mcp_name": "French Law MCP",
-  "note": "Populate after first successful database build",
-  "hashes": {}
+  "jurisdiction": "FR",
+  "description": "Drift detection anchors for stable French legal sources. Initialize expected_sha256 values after the first trusted run.",
+  "provisions": [
+    {
+      "id": "fr-hash-001",
+      "description": "Code pénal - Article 323-1 (unauthorized access offense)",
+      "upstream_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417945/",
+      "selector_hint": "Article 323-1",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "Le fait d'acceder ou de se maintenir"
+    },
+    {
+      "id": "fr-hash-002",
+      "description": "Code de la défense - Article L2321-1",
+      "upstream_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037289662/",
+      "selector_hint": "Article L. 2321-1",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "operateurs d'importance vitale"
+    },
+    {
+      "id": "fr-hash-003",
+      "description": "Loi Informatique et Libertés - Article 1",
+      "upstream_url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006528292/",
+      "selector_hint": "Article 1",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "l'informatique doit etre au service de chaque citoyen"
+    }
+  ]
 }

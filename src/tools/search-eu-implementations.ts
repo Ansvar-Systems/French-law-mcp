@@ -1,5 +1,5 @@
 /**
- * search_eu_implementations — Search EU directives/regulations with UK implementation info.
+ * search_eu_implementations — Search EU directives/regulations with French implementation info.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';

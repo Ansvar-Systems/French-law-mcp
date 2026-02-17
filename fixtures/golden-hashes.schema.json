@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ansvar.ai/schemas/french-law-mcp/golden-hashes.schema.json",
+  "title": "French Law MCP Golden Hashes",
+  "type": "object",
+  "required": ["version", "mcp_name", "provisions"],
+  "properties": {
+    "version": { "type": "string" },
+    "mcp_name": { "type": "string" },
+    "jurisdiction": { "type": "string" },
+    "description": { "type": "string" },
+    "provisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "description",
+          "upstream_url",
+          "selector_hint",
+          "expected_sha256",
+          "expected_snippet"
+        ],
+        "properties": {
+          "id": { "type": "string" },
+          "description": { "type": "string" },
+          "upstream_url": { "type": "string", "format": "uri" },
+          "selector_hint": { "type": "string" },
+          "expected_sha256": { "type": "string" },
+          "expected_snippet": { "type": "string" }
+        }
+      }
+    }
+  }
+}

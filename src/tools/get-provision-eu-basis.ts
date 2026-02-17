@@ -1,5 +1,5 @@
 /**
- * get_provision_eu_basis — Get EU legal basis for a specific UK provision.
+ * get_provision_eu_basis — Get EU legal basis for a specific French provision.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';

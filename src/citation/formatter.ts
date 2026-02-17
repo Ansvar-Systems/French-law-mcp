@@ -1,10 +1,10 @@
 /**
- * UK legal citation formatter.
+ * French legal citation formatter.
  *
  * Formats:
- *   full:     "Section 3, Data Protection Act 2018"
- *   short:    "s. 3 DPA 2018"
- *   pinpoint: "s. 3(1)(a)"
+ *   full:     "Code de la défense, art. L. 2321-1"
+ *   short:    "Code de la défense art. L. 2321-1"
+ *   pinpoint: "art. L. 2321-1"
  */
 
 import type { ParsedCitation, CitationFormat } from '../types/index.js';
@@ -17,30 +17,37 @@ export function formatCitation(
     return '';
   }
 
-  const pinpoint = buildPinpoint(parsed);
+  const article = buildArticleRef(parsed.section);
 
   switch (format) {
     case 'full':
-      return `Section ${pinpoint}, ${parsed.title ?? ''} ${parsed.year ?? ''}`.trim();
+      if (parsed.title) {
+        return `${parsed.title}, art. ${article}`;
+      }
+      return `art. ${article}`;
 
     case 'short':
-      return `s. ${pinpoint} ${parsed.title ?? ''} ${parsed.year ?? ''}`.trim();
+      if (parsed.title) {
+        return `${parsed.title} art. ${article}`;
+      }
+      return `art. ${article}`;
 
     case 'pinpoint':
-      return `s. ${pinpoint}`;
+      return `art. ${article}`;
 
     default:
-      return `Section ${pinpoint}, ${parsed.title ?? ''} ${parsed.year ?? ''}`.trim();
+      if (parsed.title) {
+        return `${parsed.title}, art. ${article}`;
+      }
+      return `art. ${article}`;
   }
 }
 
-function buildPinpoint(parsed: ParsedCitation): string {
-  let ref = parsed.section ?? '';
-  if (parsed.subsection) {
-    ref += `(${parsed.subsection})`;
+function buildArticleRef(section: string): string {
+  const normalized = section.replace(/\s+/g, '').replace(/\./g, '').toUpperCase();
+  const prefixed = normalized.match(/^([A-Z])(\d.*)$/);
+  if (prefixed) {
+    return `${prefixed[1]}. ${prefixed[2]}`;
   }
-  if (parsed.paragraph) {
-    ref += `(${parsed.paragraph})`;
-  }
-  return ref;
+  return normalized;
 }

@@ -87,6 +87,7 @@
       },
       "assertions": {
         "result_not_empty": true,
+        "text_contains": ["\"valid\":true", "\"document_exists\":true", "\"provision_exists\":true"],
         "citation_resolves": true
       }
     },

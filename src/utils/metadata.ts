@@ -42,6 +42,6 @@ export function generateResponseMetadata(
     disclaimer:
       'This data is derived from Legifrance open data. ' +
       'Verify against official publications when legal certainty is required.',
-    source_authority: 'The National Archives (Legifrance)',
+    source_authority: 'DILA / Legifrance (French Government)',
   };
 }

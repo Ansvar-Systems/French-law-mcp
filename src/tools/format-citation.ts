@@ -1,5 +1,5 @@
 /**
- * format_citation — Format a UK legal citation per standard conventions.
+ * format_citation — Format a French legal citation per standard conventions.
  */
 
 import { parseCitation } from '../citation/parser.js';

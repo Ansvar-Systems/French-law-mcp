@@ -39,12 +39,15 @@ export interface EUBasisDocument {
   articles?: string[];
 }
 
-export interface UKImplementation {
+export interface FrenchImplementation {
   document_id: string;
   title: string;
   reference_type: ReferenceType;
   is_primary: boolean;
 }
+
+// Backward-compatible alias kept for consumers generated from earlier templates.
+export type UKImplementation = FrenchImplementation;
 
 export interface ProvisionEUReference {
   id: string;
