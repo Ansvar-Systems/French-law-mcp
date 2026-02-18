@@ -2,7 +2,7 @@
   "name": "french-law-mcp",
   "display_name": "French Law MCP",
   "description": "French legislation search via Model Context Protocol. Provides full-text search, citation validation, EU cross-references, and compliance checks across 8 major French codes (29,935+ provisions) sourced from Legifrance open data.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": {
     "url": "https://github.com/Ansvar-Systems/France-law-mcp",
     "source": "github"
