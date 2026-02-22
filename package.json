@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/french-law-mcp",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "French Law MCP — French legislation via Model Context Protocol",
   "type": "module",
   "main": "dist/index.js",
@@ -50,7 +50,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ansvar-Systems/France-law-mcp.git"
+    "url": "git+https://github.com/Ansvar-Systems/French-law-mcp.git"
   },
   "bugs": {
     "url": "https://github.com/Ansvar-Systems/France-law-mcp/issues"
