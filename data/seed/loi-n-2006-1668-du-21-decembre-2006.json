@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2006-1668-du-21-decembre-2006",
+  "type": "statute",
+  "title": "Loi n° 2006-1668 du 21 décembre 2006",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000790702",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le titre IX du livre III de la quatrième partie du code de la santé publique est abrogé."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Dans les deux mois suivant la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif à la proposition de remplacement du Conseil supérieur des professions paramédicales issu du décret n° 73-901 du 14 septembre 1973 par une structure interdisciplinaire destinée à mettre en oeuvre les liens nécessaires entre tous les acteurs du système de santé."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ordonnance-n-2014-577-du-4-juin-2014",
+  "type": "statute",
+  "title": "Ordonnance n°2014-577\n du 4 juin 2014",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029044985",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le Premier ministre, le ministre du travail, de l'emploi et du dialogue social et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

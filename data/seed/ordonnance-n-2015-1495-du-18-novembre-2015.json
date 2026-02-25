@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2015-1495-du-18-novembre-2015",
+  "type": "statute",
+  "title": "ORDONNANCE n°2015-1495 du 18 novembre 2015",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031496903",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La loi du 8 juillet 1941 établissant une servitude de survol au profit des téléfériques est abrogée en tant qu'elle concerne le transport par câbles en milieu urbain.\n\nToutefois, les servitudes établies en milieu urbain sur le fondement de cette loi se poursuivent conformément aux dispositions de celle-ci.\n\nA abrogé les dispositions suivantes :\n\n- Loi du 8 juillet 1941"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable et de l'énergie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

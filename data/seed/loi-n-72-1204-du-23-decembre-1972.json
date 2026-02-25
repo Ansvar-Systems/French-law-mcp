@@ -1,0 +1,18 @@
+{
+  "id": "loi-n-72-1204-du-23-decembre-1972",
+  "type": "statute",
+  "title": "Loi n° 72-1204 du 23 décembre 1972",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000684277",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Sont validés, pour les périodes d'exercice de leurs fonctions ayant excédé trois mois, les pouvoirs des administrateurs provisoires désignés en application de l'article 26 du code de la mutualité, au cours de la période comprise entre le 1er septembre 1971 et la publication de la présente loi."
+    }
+  ]
+}

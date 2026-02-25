@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2009-1752-du-25-decembre-2009",
+  "type": "statute",
+  "title": "Ordonnance n° 2009-1752 du 25 décembre 2009",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021572820",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "I. - Sous réserve du II du présent article,les dispositions de la présente ordonnance entrent en vigueur au 1er janvier 2010.II. - Jusqu'aux dates des arrêtés par lesquels le ministre chargé des anciens combattants et victimes de guerre transfère les compétences des directions interdépartementales des anciens combattants, et au plus tard le 31 décembre 2011, ces directions font application des articles L. 18 et L. 28 du code des pensions militaires d'invalidité et des victimes de la guerre dans leur version en vigueur avant la date de publication de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre, le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat, le ministre de la défense et le secrétaire d'Etat à la défense et aux anciens combattants sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

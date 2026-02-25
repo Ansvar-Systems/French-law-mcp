@@ -1,0 +1,30 @@
+{
+  "id": "ordonnance-n-59-32-du-5-janvier-1959",
+  "type": "statute",
+  "title": "Ordonnance n° 59-32 du 5 janvier 1959",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000321890",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La délibération du conseil général portant création d'une régie dotée de la personnalité morale ou de l'autonomie financière n'est soumise à approbation que lorsque le réglement déroge à un règlement type."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Sont abrogés :a) Les articles 40 (deuxième alinéa), 41, 42, 57 (troisième alinéa), 59 (1°) et 80 de la loi du 10 août 1871 ;b) L'article 4 de la loi du 22 décembre 1940 ;c) L'article 29 de la loi n° 51-598 du 24 mai 1951 modifiant l'article 14 de la loi n° 48-1437 du 14 septembre 1948 en ce qui concerne les départements et les établissements publies départementaux ;La troisième phrase du premier alinéa de l'article 6 du décret n° 55-612 du 20 mai 1955."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+    }
+  ]
+}

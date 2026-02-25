@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2020-7-du-6-janvier-2020",
+  "type": "statute",
+  "title": "Ordonnance n° 2020-7 du 6 janvier 2020",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039780349",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "Les décisions de classement en opérations secrètes délivrées sur le fondement de l'article L. 123-2 du code de l'environnement ou de l'article L. 122-4 du code de l'expropriation pour cause d'utilité publique, intervenues avant la date d'entrée en vigueur de la présente ordonnance, demeurent régies, jusqu'à la fin des opérations auxquelles elles s'appliquent, par les dispositions de ces articles dans leur rédaction antérieure à la présente ordonnance."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "Le Premier ministre, la ministre des armées et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

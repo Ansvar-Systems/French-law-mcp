@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2011-867-du-20-juillet-2011",
+  "type": "statute",
+  "title": "LOI n° 2011-867 du 20 juillet 2011",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024389212",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "II.-Le 6° du I entre en vigueur à la date de publication des décrets prévus au II de l'article L. 4644-1 du code du travail et au plus tard le 1er juin 2012."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "II.-En l'absence d'accord étendu dans un délai de douze mois à compter de la date de promulgation de la présente loi, un décret en Conseil d'Etat pris après avis du Conseil national de l'ordre des médecins détermine les règles applicables à ces catégories de travailleurs.III.-Le Gouvernement remet au Parlement un rapport sur l'évaluation du recours à des médecins non spécialisés en médecine du travail prévu à l'article L. 4625-2 du code du travail, dans un délai de trois ans après l'entrée en vigueur de la présente loi."
+    }
+  ]
+}

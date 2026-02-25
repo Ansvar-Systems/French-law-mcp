@@ -1,0 +1,36 @@
+{
+  "id": "loi-n-2003-7-du-3-janvier-2003",
+  "type": "statute",
+  "title": "Loi n° 2003-7 du 3 janvier 2003",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000595061",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Article 38",
+      "content": "Les modalités d'application des dispositions du présent titre sont fixées par décret en Conseil d'Etat."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Article 39",
+      "content": "I. - Les dispositions des articles L. 811-5 et L. 812-3 du code de commerce, en tant qu'elles instituent un examen d'accès au stage professionnel, ne sont applicables qu'aux personnes qui, à la date de promulgation de la présente loi, ne sont pas encore inscrites sur le registre de stage.II. - Les mandataires judiciaires à la liquidation des entreprises inscrits sur les listes régionales à la date de promulgation de la présente loi sont inscrits d'office sur la liste nationale des mandataires judiciaires au redressement et à la liquidation des entreprises."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Article 48",
+      "content": "Les dispositions de la présente loi sont applicables à Mayotte et, en tant qu'elles concernent les administrateurs judiciaires, à Wallis et Futuna.Les dispositions des articles 40, 41 et 47 sont applicables en Polynésie française et en Nouvelle-Calédonie."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Article 50",
+      "content": "I. - Est ratifiée, sous réserve des modifications prévues au II, l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie Législative du code de commerce, prise en application de la loi n° 99-1071 du 16 décembre 1999 portant habilitation du Gouvernement à procéder, par ordonnances, à l'adoption de la partie Législative de certains codes.II. (Paragraphe modificateur)"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2017-1177-du-19-juillet-2017",
+  "type": "statute",
+  "title": "Ordonnance n°2017-1177 du 19 juillet 2017",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035250719",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente ordonnance entre en vigueur le 1er décembre 2017."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre, la ministre des outre-mer et la secrétaire d'Etat chargée des personnes handicapées sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "loi-n-46-451-du-19-mars-1946",
+  "type": "statute",
+  "title": "Loi n° 46-451 du 19 mars 1946",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000868445",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les colonies de la Guadeloupe, de la Martinique, de la Réunion et la Guyane française sont érigées en départements français."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les lois et décrets actuellement en vigueur dans la France métropolitaine et qui ne sont pas encore appliqués à ces colonies feront, avant le 1er janvier 1947, l'objet de décrets d'application à ces nouveaux départements."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Dès la promulgation de la présente loi, les lois nouvelles applicables à la métropole le seront dans ces départements, sur mention expresse insérée aux textes.La présente loi, délibérée et adoptée par l'Assemblée nationale constituante, sera exécutée comme loi de l'Etat."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2006-399-du-4-avril-2006",
+  "type": "statute",
+  "title": "Loi n° 2006-399 du 4 avril 2006",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000422042",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "Le Gouvernement dépose, tous les deux ans, sur le bureau des assemblées parlementaires, un rapport sur la politique nationale de lutte contre les violences au sein des couples, portant notamment sur les conditions d'accueil, de soin et d'hébergement des victimes, leur réinsertion sociale, les modalités de la prise en charge sanitaire, sociale ou psychologique des auteurs des faits ainsi que le nombre, la durée et le fondement juridique des mesures judiciaires tendant à leur ordonner de résider hors du domicile ou de la résidence du couple."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article 18",
+      "content": "Les dispositions de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+    }
+  ]
+}

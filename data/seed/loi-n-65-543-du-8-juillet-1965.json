@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-65-543-du-8-juillet-1965",
+  "type": "statute",
+  "title": "Loi n° 65-543 du 8 juillet 1965",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000320403",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les fonctionnaires titulaires et les agents contractuels à temps complet des communes ou syndicats de communes ainsi que les agents contractuels à temps complet du ministère de l'agriculture chargés des fonctions d'inspection et de surveillance prévues à l'article L. 231-2 du code rural seront, selon leur situation administrative, soit intégrés dans des corps de fonctionnaires relevant du ministère de l'agriculture, soit nommés ou maintenus en qualité d'agents contractuels de l'Etat.\n\nLes vétérinaires du service vétérinaire de Paris et du département de la Seine en fonctions sont, sur leur demande, soit intégrés dans les conditions ci-dessus, soit constitués en un corps d'Etat homologue dans lequel il ne sera effectué aucun recrutement. Dans l'un et l'autre cas, ils sont mis à la disposition du préfet de police pour exercer à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne les fonctions définies aux articles L. 231-1, L. 231-2, L. 231-5 et L. 232-3 du code rural et de la pêche maritime.\n\nUn décret en Conseil d'Etat fixe les conditions et modalités d'application du présent article."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20",
+      "content": "Sont abrogés les articles 256, 257 (alinéas 3, 6, 7 et 8), 260, 270, 275 (alinéas 2, 3, 4) du code rural, les articles 292 bis et 292 ter du code général des impôts, l'article 127 de l'ordonnance n° 58-1374 du 30 décembre 1958 portant loi de finances pour 1959, la loi locale du 3 juin 1900 relative à l'inspection des animaux et de la viande de boucherie dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle et, de manière générale, toutes dispositions contraires à la présente loi.L'abrogation des dispositions fiscales mentionnées au présent article prendra effet à partir de l'institution de la taxe sanitaire prévue à l'article 5 ci-dessus."
+    }
+  ]
+}

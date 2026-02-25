@@ -1,0 +1,30 @@
+{
+  "id": "ordonnance-n-2014-1567-du-22-decembre-2014",
+  "type": "statute",
+  "title": "ORDONNANCE n°2014-1567 du 22 décembre 2014",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029953919",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-A abrogé les dispositions suivantes :\n\n-Décret-loi du 1er septembre 1939 susvisé\n\nArt. 1\n\nA modifié les dispositions suivantes :\n\n-Décret-loi du 1er septembre 1939 susvisé\n\nArt. 2\n\n-Code de la défense."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Les personnes mentionnées aux articles L. 394 à L. 396 du code des pensions militaires d'invalidité et des victimes de la guerre qui ont été inscrites sur une liste d'aptitude régionale ou nationale à compter de la date d'entrée en vigueur de la loi n° 2008-492 du 26 mai 2008 relative aux emplois réservés et portant dispositions diverses relatives à la défense bénéficient d'une prorogation de la durée de leur inscription afin que celle-ci atteigne la durée spécifique prévue à l'article L. 401 du même code ou, si elles ont été déjà radiées d'une telle liste à la date d'entrée en vigueur de la présente ordonnance, sont, à leur demande, inscrites à nouveau sur une liste. Dans ce dernier cas, la durée cumulée des inscriptions ne peut excéder la durée spécifique prévue à l'article L. 401 du même code."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie, la garde des sceaux, ministre de la justice, le ministre des finances et des comptes publics, le ministre de la défense, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

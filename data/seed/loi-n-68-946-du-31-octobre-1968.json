@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-68-946-du-31-octobre-1968",
+  "type": "statute",
+  "title": "Loi n° 68-946 du 31 octobre 1968",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000317517",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Article 33",
+      "content": "La présente loi entrera en vigueur en même temps que le décret en Conseil d'Etat prévu à l'article précédent, lequel devra lui-même intervenir dans les six mois de la publication de la loi."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Article 34",
+      "content": "Il sera procédé, par décret en Conseil d'Etat pris après avis de la commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires, à la codification des textes portant statut de l'ordre des experts-comptables et des comptables agréés.Ce décret apportera aux textes en vigueur les adaptations de forme rendues nécessaires par le travail de codification, à l'exclusion de toute modification de fond."
+    }
+  ]
+}

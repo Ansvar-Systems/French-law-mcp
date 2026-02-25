@@ -1,0 +1,30 @@
+{
+  "id": "ordonnance-n-2003-1212-du-18-decembre-2003",
+  "type": "statute",
+  "title": "Ordonnance n° 2003-1212 du 18 décembre 2003",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000429994",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le code général des collectivités territoriales est modifié comme il est dit aux articles 2 à 6 et au II de l'article 7 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "I. - Les modifications introduites par la présente ordonnance dans la partie Législative du code général des collectivités territoriales sont applicables à Mayotte pour autant qu'elles portent sur des dispositions qui y sont déjà applicables et sous réserve des dispositions du II du présent article."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le Premier ministre, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, la ministre de l'outre-mer et le ministre délégué aux libertés locales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

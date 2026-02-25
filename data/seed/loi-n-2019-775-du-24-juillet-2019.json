@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2019-775-du-24-juillet-2019",
+  "type": "statute",
+  "title": "LOI n°2019-775 du 24 juillet 2019",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038821358",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "La présente loi s'applique trois mois après sa promulgation. Elle ne s'applique pas aux publications de presse publiées pour la première fois avant la date d'entrée en vigueur de la directive du Parlement européen et du Conseil sur le droit d'auteur dans le marché unique numérique."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15",
+      "content": "La présente loi est applicable dans les îles Wallis et Futuna.La présente loi sera exécutée comme loi de l'Etat."
+    }
+  ]
+}

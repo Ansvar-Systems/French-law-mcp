@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2016-1729-du-15-decembre-2016",
+  "type": "statute",
+  "title": "Ordonnance n°2016-1729 du 15 décembre 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033616692",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "I. - Sous réserve du II, les dispositions de la présente ordonnance entrent en vigueur le 1er juillet 2017.II. - Les conventions constitutives des groupements de coopération sanitaire conclues avant l'entrée en vigueur de la présente ordonnance ne sont pas soumises aux dispositions de l'article L. 5126-2 du code de la santé publique jusqu'à ce qu'elles aient été mises en conformité avec ces dispositions, et au plus tard le 1er janvier 2020."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé, le ministre de la défense, le garde des sceaux, ministre de la justice, et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

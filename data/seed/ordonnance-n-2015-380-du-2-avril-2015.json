@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2015-380-du-2-avril-2015",
+  "type": "statute",
+  "title": "ORDONNANCE n°2015-380 du 2 avril 2015",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030431093",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Un accord de branche étendu peut prévoir, pour les salariés portés mentionnées à l'article L. 1254-2 du code du travail issu de la présente ordonnance, l'adaptation du montant et de la répartition de la contribution versée par les employeurs de onze salariés et plus au titre de leur participation au financement de la formation professionnelle continue. Ce montant ne peut être inférieur à 1,6 % du montant des rémunérations versées pendant l'année en cours et la répartition de la contribution ne peut déroger aux parts minimales consacrées, en vertu de dispositions légales ou réglementaires, au financement du fonds paritaire de sécurisation des parcours professionnels, du congé individuel de formation, du compte personnel de formation, du plan de formation et de la professionnalisation."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Le Premier ministre et le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

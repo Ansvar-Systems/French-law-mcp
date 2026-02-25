@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-60-1371-du-21-decembre-1960",
+  "type": "statute",
+  "title": "Loi n° 60-1371 du 21 décembre 1960",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000313947",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les dispositions de l'ordonnance n° 59-24 du 3 janvier 1959 instituant, en matière de loyers, diverses mesures de protection en faveur des fonctionnaires affectés ou détachés hors du territoire européen de la France en application de la loi n° 57-871 du 1er août 1957 et en faveur de certains militaires sont étendues aux fonctionnaires maintenus par décision de l'autorité administrative hors du territoire européen de la France, par dérogation aux conditions normales d'affectation fixées par leur statut particulier.Pendant un délai de trois ans à compter de la publication de la présente loi, les mêmes dispositions s'appliqueront aux personnels civils et militaires qui seront appelés à servir hors du territoire européen de la France au titre de la coopération technique ou culturelle."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les dispositions de l'ordonnance n° 59-24 du 3 janvier 1959 et du premier alinéa de l'article 1er de la présente loi sont applicables aux instances en cours."
+    }
+  ]
+}

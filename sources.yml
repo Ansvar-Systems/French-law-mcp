@@ -16,8 +16,8 @@ sources:
       url: 'https://www.etalab.gouv.fr/licence-ouverte-open-licence/'
       summary: 'French government open data license, free to use with attribution'
     coverage:
-      scope: 'French codes and laws (cybersecurity and data protection scope)'
-      limitations: 'Initial release covers key cybersecurity legislation only'
+      scope: 'All consolidated French codes and laws from LEGI open data'
+      limitations: 'Full corpus coverage — all codes and consolidated laws (TNC) from DILA LEGI archive'
     languages:
       - 'fr'
 

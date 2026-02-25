@@ -1,0 +1,18 @@
+{
+  "id": "ordonnance-n-2023-285-du-19-avril-2023",
+  "type": "statute",
+  "title": "Ordonnance n°2023-285 du 19 avril 2023",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047465061",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer, le ministre de la santé et de la prévention et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

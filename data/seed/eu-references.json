@@ -7,7 +7,7 @@
       "number": 679,
       "community": "EU",
       "celex_number": "32016R0679",
-      "title": "GDPR",
+      "title": "General Data Protection Regulation (GDPR)",
       "short_name": "GDPR",
       "url_eur_lex": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
       "in_force": true
@@ -59,6 +59,42 @@
       "short_name": "Cybersecurity Act",
       "url_eur_lex": "https://eur-lex.europa.eu/eli/reg/2019/881",
       "in_force": true
+    },
+    {
+      "id": "regulation:2024/1689",
+      "type": "regulation",
+      "year": 2024,
+      "number": 1689,
+      "community": "EU",
+      "celex_number": "32024R1689",
+      "title": "EU AI Act",
+      "short_name": "AI Act",
+      "url_eur_lex": "https://eur-lex.europa.eu/eli/reg/2024/1689",
+      "in_force": true
+    },
+    {
+      "id": "regulation:2022/2554",
+      "type": "regulation",
+      "year": 2022,
+      "number": 2554,
+      "community": "EU",
+      "celex_number": "32022R2554",
+      "title": "Digital Operational Resilience Act (DORA)",
+      "short_name": "DORA",
+      "url_eur_lex": "https://eur-lex.europa.eu/eli/reg/2022/2554",
+      "in_force": true
+    },
+    {
+      "id": "directive:2002/58",
+      "type": "directive",
+      "year": 2002,
+      "number": 58,
+      "community": "EU",
+      "celex_number": "32002L0058",
+      "title": "ePrivacy Directive",
+      "short_name": "ePrivacy Directive",
+      "url_eur_lex": "https://eur-lex.europa.eu/eli/dir/2002/58",
+      "in_force": true
     }
   ],
   "eu_references": [
@@ -70,7 +106,7 @@
       "reference_type": "implements",
       "is_primary_implementation": true,
       "implementation_status": "complete",
-      "reference_context": "Articles 323-1 to 323-7 implement the Cybercrime Directive."
+      "reference_context": "Articles 323-1 to 323-7 implement the Cybercrime Directive requirements for criminalizing illegal access, system interference, and data interference."
     },
     {
       "source_type": "document",
@@ -80,7 +116,7 @@
       "reference_type": "supplements",
       "is_primary_implementation": true,
       "implementation_status": "complete",
-      "reference_context": "Amended in 2018 to supplement the GDPR."
+      "reference_context": "The Loi Informatique et Libertes was extensively amended in 2018 to supplement the GDPR."
     },
     {
       "source_type": "document",
@@ -90,7 +126,27 @@
       "reference_type": "implements",
       "is_primary_implementation": true,
       "implementation_status": "complete",
-      "reference_context": "OIV framework predates and exceeds NIS 1 requirements."
+      "reference_context": "The OIV framework (Articles L. 1332-1 et seq.) predates and exceeds NIS 1 requirements."
+    },
+    {
+      "source_type": "document",
+      "source_id": "code-postes-telecom",
+      "document_id": "code-postes-telecom",
+      "eu_document_id": "directive:2002/58",
+      "reference_type": "implements",
+      "is_primary_implementation": false,
+      "implementation_status": "complete",
+      "reference_context": "Telecommunications data retention and security provisions implement ePrivacy Directive requirements."
+    },
+    {
+      "source_type": "document",
+      "source_id": "code-monetaire-et-financier",
+      "document_id": "code-monetaire-et-financier",
+      "eu_document_id": "regulation:2022/2554",
+      "reference_type": "implements",
+      "is_primary_implementation": false,
+      "implementation_status": "partial",
+      "reference_context": "Financial sector provisions support DORA implementation for ICT risk management."
     }
   ]
 }

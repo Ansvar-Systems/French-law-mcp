@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2020-1590-du-16-decembre-2020",
+  "type": "statute",
+  "title": "Ordonnance n°2020-1590 du 16 décembre 2020",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042677071",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les licences globales et les licences individuelles de transfert à destination du Royaume-Uni, délivrées sur le fondement des 2° et 3° du I de l'article L. 2335-10 du code de la défense, sont réputées valoir, à compter du 1er janvier 2021 et jusqu'à leur terme, respectivement licences globales et licences individuelles d'exportation délivrées sur le fondement des 2° et 3° du I de l'article L. 2335-3 du même code.Les autorisations préalables de transfert à destination du Royaume-Uni délivrées sur le fondement du I de l'article L. 2335-18 du même code sont réputées valoir, à compter du 1er janvier 2021 et jusqu'à leur terme, selon le cas licences globales ou licences individuelles d'exportation délivrées sur le fondement des 2° ou 3° du I de l'article L. 2335-3 du même code.Les conditions et restrictions dont sont assorties les licences et autorisations préalables de transfert mentionnées au présent article demeurent applicables jusqu'au terme de ces licences et autorisations."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le Premier ministre est responsable de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

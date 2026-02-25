@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2009-833-du-7-juillet-2009",
+  "type": "statute",
+  "title": "LOI n° 2009-833 du 7 juillet 2009",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020828203",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "I. et II. - A modifié les dispositions suivantes :\n\nIII. - Les arrêtés pris en application du présent article font l'objet d'une publication au Journal officiel.\n\n- Code de l'éducation\n\n- Code de la santé publique"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi entre en vigueur à compter de l'année universitaire 2010-2011.La réorientation des étudiants à l'issue du premier semestre de la première année des études de santé ou au terme de celle-ci est mise en place au plus tard à compter de la rentrée universitaire 2012-2013."
+    }
+  ]
+}

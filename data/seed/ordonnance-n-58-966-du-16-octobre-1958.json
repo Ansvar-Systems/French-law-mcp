@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-58-966-du-16-octobre-1958",
+  "type": "statute",
+  "title": "Ordonnance n° 58-966 du 16 octobre 1958",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000517358",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "1°, 2°, 3° paragraphes abrogés.4° A compter d'une date fixée par décret pris sur le rapport du ministre de l'économie et des finances, toute caisse de crédit mutuel qui n'aura pas adhéré à une fédération régionale adhérente à la confédération nationale du crédit mutuel ou qui n'aura pas obtenu son inscription sur la liste des banques par le Conseil national du crédit devra arrêter ses opérations et entrer en liquidation ;5° Paragraphe abrogé."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le ministre des finances et des affaires économique, et le garde des sceaux, ministre de la justice, sont chargé de l'exécution du présent décret, qui sera publié au Journal officiel de la République française."
+    }
+  ]
+}

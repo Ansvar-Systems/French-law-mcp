@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-du-25-aout-1539",
+  "type": "statute",
+  "title": "Ordonnance du 25 août 1539",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000501354",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Article 110",
+      "content": "Et afin qu'il n'y ait cause de douter sur l'intelligence desdits arrêts, nous voulons et ordonnons qu'ils soient faits et écrits si clairement, qu'il n'y ait ni puisse avoir aucune ambiguïté ou incertitude ne lieu à demander interprétation."
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "Article 111",
+      "content": "Et pour ce que telles choses sont souvent advenues sur l'intelligence des mots latins contenus esdits arrests, nous voulons d'oresnavant que tous arrests, ensemble toutes autres procédures, soient de nos cours souveraines et autres subalternes et inférieures, soient de registres, enquestes, contrats, commissions, sentences testaments, et autres quelconques, actes et exploicts de justice, ou qui en dépendent, soient prononcés, enregistrés et délivrés aux parties en langage maternel françois et non autrement."
+    }
+  ]
+}

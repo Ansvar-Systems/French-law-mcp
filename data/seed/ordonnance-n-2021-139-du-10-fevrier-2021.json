@@ -1,0 +1,18 @@
+{
+  "id": "ordonnance-n-2021-139-du-10-fevrier-2021",
+  "type": "statute",
+  "title": "Ordonnance n°2021-139 du 10 février 2021",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043114559",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le Premier ministre, la ministre des armées, le ministre des outre-mer, le garde des sceaux, ministre de la justice, et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

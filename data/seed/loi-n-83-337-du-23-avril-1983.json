@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-83-337-du-23-avril-1983",
+  "type": "statute",
+  "title": "Loi n° 83-337 du 23 avril 1983",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000692247",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les attachés d'administration centrale admis à subir une formation probatoire à l'Ecole nationale de la magistrature participent, dans les mêmes conditions que les auditeurs de justice, aux activités des parquets et des juridictions de l'ordre judiciaire auprès desquels ils font leur stage."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les attachés d'administration centrale admis à subir une formation probatoire à l'Ecole nationale de la magistrature sont astreints au secret professionnel.Préalablement à toute activité, ils prêtent serment devant la cour d'appel en ces termes :Je jure de conserver le secret des actes du parquet, des juridictions d'instruction et de jugement dont j'aurai eu connaissance au cours de mon stage.Ils ne peuvent, en aucun cas, être relevés de ce serment."
+    }
+  ]
+}

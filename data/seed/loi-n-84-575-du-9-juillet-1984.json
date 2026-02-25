@@ -1,0 +1,42 @@
+{
+  "id": "loi-n-84-575-du-9-juillet-1984",
+  "type": "statute",
+  "title": "Loi n° 84-575 du 9 juillet 1984",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000320660",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les organismes attribuant soit des avantages contributifs et non contributifs de vieillesse et d'invalidité prévus par des dispositions législatives ou réglementaires ou organisés par des conventions collectives, soit des pensions réservées aux anciens combattants et aux personnes assimilées, sont tenus de transmettre au ministre chargé des affaires sociales et de la solidarité nationale les données nécessaires à l'élaboration d'un système d'informations sur les montants de retraites, basé sur l'exploitation d'un échantillon statistique anonyme et représentatif de retraités.\n\nUn acte réglementaire, pris après avis de la commission nationale de l'informatique et des libertés, fixe les conditions de la communication des données autorisées par l'alinéa précédent."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Les articles 8 et 9 entrent en application au 1er octobre 1984."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Article 35",
+      "content": "Les ordonnances n° 84-106 du 16 février 1984, relatives au revenu de remplacement des travailleurs involontairement privés d'emploi, et n° 84-198 du 21 mars 1984, relatives au revenu de remplacement des travailleurs involontairement privés d'emploi et portant modification du code de travail, prises en application de la loi n° 83-1097 du 20 décembre 1983 autorisant le Gouvernement, par application de l'article 38 de la Constitution, à prendre des mesures relatives au revenu de remplacement des travailleurs involontairement privés d'emploi et à la garantie des créances des salariés, sont ratifiées."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Article 43",
+      "content": "Les dispositions des articles 36 à 42 sont applicables à compter du 1er avril 1984.\n\nElles sont sans effet sur les droits à l'assurance maladie, maternité, invalidité et décès et à l'assurance vieillesse des personnes qui conservent, à titre individuel, le bénéfice des revenus de remplacement, indemnisations, allocations ou garanties de ressources antérieurement existant, ni sur l'obligation de cotiser afférente à la perception desdites ressources."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Article 49",
+      "content": "Les dispositions relatives à la cotisation sur les tabacs instituée par l'article 26 modifié de la loi n° 83-25 du 19 janvier 1983 portant diverses mesures relatives à la sécurité sociale sont abrogées à compter du 11 juillet 1984."
+    }
+  ]
+}

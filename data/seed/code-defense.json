@@ -1,12 +1,12 @@
 {
   "id": "code-defense",
   "type": "statute",
-  "title": "Code de la défense",
-  "title_en": "Defence Code",
-  "short_name": "Code de la défense",
+  "title": "Code de la défense.",
+  "title_en": null,
+  "short_name": null,
   "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071307/",
-  "description": "French Defence Code: ANSSI mandate, OIV protection, cybersecurity provisions.",
+  "description": null,
   "provisions": [
     {
       "provision_ref": "artD1131-1",

@@ -1,0 +1,36 @@
+{
+  "id": "ordonnance-n-2014-464-du-7-mai-2014",
+  "type": "statute",
+  "title": "Ordonnance n° 2014-464 du 7 mai 2014",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028910144",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "content": "III.-A l'article L. 251-1 du code de l'action sociale et des familles dans sa version applicable à Mayotte (1), la référence à l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte est remplacée par la référence au code de l'entrée et du séjour des étrangers et du droit d'asile."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Article 22",
+      "content": "L'observatoire prévu à l'article L. 111-11 du code de l'entrée et du séjour des étrangers et du droit d'asile est convoqué par le représentant de l'Etat à Mayotte dans un délai de six mois à compter de la publication de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Article 23",
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 26 mai 2014."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Article 24",
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'intérieur et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

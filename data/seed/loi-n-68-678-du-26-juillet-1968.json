@@ -1,0 +1,36 @@
+{
+  "id": "loi-n-68-678-du-26-juillet-1968",
+  "type": "statute",
+  "title": "Loi n° 68-678 du 26 juillet 1968",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000501326",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Sous réserve des traités ou accords internationaux, il est interdit à toute personne physique de nationalité française ou résidant habituellement sur le territoire français et à tout dirigeant, représentant, agent ou préposé d'une personne morale y ayant son siège ou un établissement de communiquer par écrit, oralement ou sous toute autre forme, en quelque lieu que ce soit, à des autorités publiques étrangères, les documents ou les renseignements d'ordre économique, commercial, industriel, financier ou technique dont la communication est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels de la France ou à l'ordre public, précisés par l'autorité administrative en tant que de besoin."
+    },
+    {
+      "provision_ref": "art1bis",
+      "section": "1bis",
+      "title": "Article 1bis",
+      "content": "Sous réserve des traités ou accords internationaux et des lois et règlements en vigueur, il est interdit à toute personne de demander, de rechercher ou de communiquer, par écrit, oralement ou sous toute autre forme, des documents ou renseignements d'ordre économique, commercial, industriel, financier ou technique tendant à la constitution de preuves en vue de procédures judiciaires ou administratives étrangères ou dans le cadre de celles-ci."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les personnes visées aux articles 1er et 1er bis sont tenues d'informer sans délai le ministre compétent lorsqu'elles se trouvent saisies de toute demande concernant de telles communications."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Sans préjudice des peines plus lourdes prévues par la loi, toute infraction aux dispositions des articles 1er et 1er bis de la présente loi sera punie d'un emprisonnement de six mois et d'une amende de 18000 euros ou de l'une de ces deux peines seulement."
+    }
+  ]
+}

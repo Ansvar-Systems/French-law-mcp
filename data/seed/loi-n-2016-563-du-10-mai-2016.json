@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2016-563-du-10-mai-2016",
+  "type": "statute",
+  "title": "LOI n°2016-563 du 10 mai 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032510733",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L'ordonnance n° 2015-1127 du 10 septembre 2015 portant réduction du nombre minimal d'actionnaires dans les sociétés anonymes non cotées est ratifiée."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "L'article 2 et le II de l'article 3 de la présente loi sont applicables dans les îles Wallis et Futuna.La présente loi sera exécutée comme loi de l'Etat."
+    }
+  ]
+}

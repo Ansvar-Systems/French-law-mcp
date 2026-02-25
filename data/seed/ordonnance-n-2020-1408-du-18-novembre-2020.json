@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2020-1408-du-18-novembre-2020",
+  "type": "statute",
+  "title": "Ordonnance n°2020-1408 du 18 novembre 2020",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042532931",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente ordonnance entre en vigueur à des dates fixées par décret et au plus tard le 31 décembre 2024, en tenant compte des professions concernées, de leurs conditions d'exercice, ainsi que des catégories de soins, produits ou prestations prescrites."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le Premier ministre et le ministre des solidarités et de la santé sont responsables de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

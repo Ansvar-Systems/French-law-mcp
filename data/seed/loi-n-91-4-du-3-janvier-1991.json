@@ -1,0 +1,30 @@
+{
+  "id": "loi-n-91-4-du-3-janvier-1991",
+  "type": "statute",
+  "title": "Loi n° 91-4 du 3 janvier 1991",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533879",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée la ratification de la quatrième convention entre les Etats membres de la Communauté européenne et la Communauté européenne, d'une part, des Etats d'Afrique, des Caraïbes et du Pacifique, d'autre part, signée à Lomé le 15 décembre 1989 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Est autorisée l'approbation de l'accord interne de 1990 relatif au financement et à la gestion des aides de la Communauté européenne, fait à Bruxelles le 17 juillet 1990 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Est autorisée l'approbation de l'accord interne relatif aux mesures à prendre et aux procédures à suivre pour l'application de la troisième convention A.C.P.-C.E.E., fait à Bruxelles le 17 juillet 1990 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+    }
+  ]
+}

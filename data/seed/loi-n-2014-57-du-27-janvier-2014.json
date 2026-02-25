@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2014-57-du-27-janvier-2014",
+  "type": "statute",
+  "title": "LOI n°2014-57\n du 27 janvier 2014",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028526285",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "I. - A créé les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\nII. - Le I s'applique aux conventions conclues ou renouvelées à compter de la date de promulgation de la présente loi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Chaque année pour une période de trois ans, le Gouvernement remet au Parlement, avant le 30 septembre, un rapport dressant un bilan et une évaluation des conventions mentionnées à l'article L. 863-8 du code de la sécurité sociale. Il porte notamment sur les garanties et prestations que ces conventions comportent, leurs conséquences pour les patients, en particulier en termes d'accès aux soins et de reste à charge, et leur impact sur les tarifs et prix pratiqués par les professionnels, établissements et services concernés."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2017-1388-du-22-septembre-2017",
+  "type": "statute",
+  "title": "Ordonnance n°2017-1388 du 22 septembre 2017",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035607456",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les conventions et accords conclus antérieurement au 1er janvier 2018 demeurent régis, pour leur extension, par les dispositions des articles L. 2261-19 et L. 2261-25 du code du travail dans leur rédaction antérieure à la présente ordonnance."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Le Premier ministre et la ministre du travail sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

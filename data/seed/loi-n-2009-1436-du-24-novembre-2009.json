@@ -1,0 +1,30 @@
+{
+  "id": "loi-n-2009-1436-du-24-novembre-2009",
+  "type": "statute",
+  "title": "LOI n° 2009-1436 du 24 novembre 2009",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021312171",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Article 60",
+      "content": "Les mineurs détenus, lorsqu'ils ne sont pas soumis à l'obligation scolaire, sont tenus de suivre une activité à caractère éducatif."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Article 61",
+      "content": "Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Article 99",
+      "content": "La présente loi est applicable, dans sa rédaction résultant de l'ordonnance n° 2022-478 du 30 mars 2022 portant partie législative du code pénitentiaire, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+    }
+  ]
+}

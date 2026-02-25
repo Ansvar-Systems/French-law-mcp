@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-96-300-du-10-avril-1996",
+  "type": "statute",
+  "title": "Loi n° 96-300 du 10 avril 1996",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000741838",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Pour l'élection des conseillers municipaux dont le dépôt des candidatures a été antérieur au 5 février 1996, l'interdiction faite par l'article L. 52-5 du code électoral à un candidat d'être membre de sa propre association de financement ne s'applique qu'au candidat tête de la liste. Pour la même élection, un candidat tête de liste peut avoir désigné un des membres de la liste comme mandataire financier.Ces dispositions de portée interprétative s'appliquent aux instances en cours devant les juridictions administratives ; elles ne portent pas atteinte à la validité de décisions juridictionnelles devenues définitives."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les dispositions de la présente loi sont applicables dans les territoires d'outre-mer et à Mayotte."
+    }
+  ]
+}

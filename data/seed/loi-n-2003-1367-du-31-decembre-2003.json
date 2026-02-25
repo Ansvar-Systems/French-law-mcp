@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2003-1367-du-31-decembre-2003",
+  "type": "statute",
+  "title": "Loi n° 2003-1367 du 31 décembre 2003",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000609920",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée l'approbation de l'accord sur les privilèges et immunités de la Cour pénale internationale, fait à New York le 9 septembre 2002, et dont le texte est annexé à la présente loi (1).(1) Le texte sera publié ultérieurement au Journal Officiel de la République française."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Sous réserve des décisions de justice passées en force de chose jugée ayant statué au fond, est validé le décret du 26 avril 1947 relatif à l'exécution de la convention sur les privilèges et immunités des Nations unies en tant que sa légalité serait contestée par le moyen tiré de ce que la ratification de ladite convention devait être autorisée par la loi."
+    }
+  ]
+}

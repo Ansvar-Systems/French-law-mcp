@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2023-816-du-23-aout-2023",
+  "type": "statute",
+  "title": "Ordonnance n°2023-816 du 23 août 2023",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047989236",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "La présente ordonnance entre en vigueur le 10 novembre 2023, à l'exception de son article 6, qui entre en vigueur le lendemain de sa publication."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer et la ministre de la transition énergétique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

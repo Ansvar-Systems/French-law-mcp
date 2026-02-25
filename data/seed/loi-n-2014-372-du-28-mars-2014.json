@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2014-372-du-28-mars-2014",
+  "type": "statute",
+  "title": "LOI n°2014-372\n du 28 mars 2014",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028790796",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-693 DC du 25 mars 2014.]"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Nouvelle-Calédonie et en Polynésie française."
+    }
+  ]
+}

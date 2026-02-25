@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-88-1201-du-23-decembre-1988",
+  "type": "statute",
+  "title": "Loi n° 88-1201 du 23 décembre 1988",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509065",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Article 42",
+      "content": "I. et II (Paragraphes modificateurs)\n\nIII.-Les produits des parts émises par les fonds communs de créances peuvent être soumis au prélèvement libératoire prévu au paragraphe I de l'article 125 A du code général des impôts au taux de 25 % si leur durée à l'émission est supérieure à cinq ans ou au taux de 32 % si cette durée est inférieure ou égale à cinq ans. Le boni de liquidation peut être soumis à ce prélèvement au taux de 45 %.\n\nLes articles 92 B, 238 septies A, et 238 septies B du code général des impôts s'appliquent aux parts des fonds communs de créances lorsque leur durée à l'émission est supérieure à cinq ans. Les articles 124 B et 124 C du même code s'appliquent lorsque cette durée est inférieure ou égale à cinq ans."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Article 50",
+      "content": "Les dispositions des chapitres Ier à VI entreront en vigueur le 1er octobre 1989."
+    }
+  ]
+}

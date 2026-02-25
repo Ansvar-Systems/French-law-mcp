@@ -1,0 +1,54 @@
+{
+  "id": "loi-locale-du-29-novembre-1873",
+  "type": "statute",
+  "title": "Loi locale du 29 novembre 1873",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037224003",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le chapitre de la fondation protestante Saint-Thomas à Strasbourg, assumera, au lieu et place du séminaire protestant de Strasbourg, l'administration des fondations relevant de ce dernier. Le droit de surveillance continuera à être exercé comme par le passé par les autorités ecclésiastiques supérieures de la confession d'Augsbourg."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le chapitre de la fondation Saint-Thomas se composera de onze membres, à savoir :\n\n1. – Le président du directoire de l'église de la confession d'Augsbourg ;\n\n2-4. – Le pasteur le plus ancien de chacune des églises protestantes de :\n\nSaint-Thomas,\n\nSainte-Aurélie,\n\nSaint-Nicolas,\n\nà Strasbourg ;\n\n5-8, – Quatre professeurs titulaires, de religion protestante, près l'Université de Strasbourg, à savoir les deux plus anciens professeurs de la faculté de théologie protestante, le plus ancien professeur titulaire de la faculté de droit, le plus ancien professeur titulaire de la faculté de philosophie. Pour déterminer l'ancienneté on s'en rapportera à l'époque de la nomination comme professeur titulaire auxdites facultés de l'Université de Strasbourg ; en cas de nomination simultanée, la priorité de nomination comme professeur titulaire dans une faculté quelconque décidera et, en cas de parité, le plus âgé sera préféré.\n\n9-11. – Trois chanoines qui seront nominés par le directoire de l'église de la confession d'Augsbourg, sur la présentation du chapitre."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les membres désignés à l'article 2 sous 5 à 8 seront maintenus même après leur admission à l'éméritat.\n\nLes membres désignés à l'article 2 sous 9 à 11 sont nommés à vie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les membres désignés à l'article 2 sous 1 à 4 toucheront, sur les revenus de la fondation, les émoluments statutaires inscrits au budget relatif à l'administration des biens de la fondation. Les autres membres n'auront droit qu'à l'usage gratuit d'une maison du chapitre."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "La fondation Saint-Thomas est obligée de verser à l'Université de Strasbourg, sur les revenus de la fondation, une somme représentant la moyenne des traitements de six professeurs titulaires à la faculté de théologie protestante, sans être tenue toutefois de débourser à cet effet plus de 45 000 francs.\n\nLa fondation Saint-Thomas est, d'autre part, obligée de tenir régulièrement à jour les collections de la bibliothèque servant à l'enseignement de la faculté de théologie protestante."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Les anciens professeurs du séminaire protestant qui sont passés à l'Université de Strasbourg sont membres du chapitre et continueront à toucher les émoluments confonnément à l'ancien usage. Au fur et à mesure des vacances produites par la disparition desdits professeurs les chanoines appelés en vertu de l'article 2 sous 5 à 10 entreront dans le chapitre dans l'ordre indiqué à l'article 2 sous 5 à 10. Toutefois le plus jeune des deux professeurs de la faculté de théologie protestante ne viendra qu'après le plus ancien professeur de la faculté de philosophie."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Les anciens professeurs du séminaire protestant qui sont passés à l'Université de Strasbourg sont membres du chapitre et continueront à toucher les émoluments confonnément à l'ancien usage. Au fur et à mesure des vacances produites par la disparition desdits professeurs les chanoines appelés en vertu de l'article 2 sous 5 à 10 entreront dans le chapitre dans l'ordre indiqué à l'article 2 sous 5 à 10. Toutefois le plus jeune des deux professeurs de la faculté de théologie protestante ne viendra qu'après le plus ancien professeur de la faculté de philosophie."
+    }
+  ]
+}

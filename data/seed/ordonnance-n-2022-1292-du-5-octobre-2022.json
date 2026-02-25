@@ -1,0 +1,36 @@
+{
+  "id": "ordonnance-n-2022-1292-du-5-octobre-2022",
+  "type": "statute",
+  "title": "Ordonnance n°2022-1292 du 5 octobre 2022",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046368405",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le titre VIII du livre premier du code civil est modifié conformément aux articles 3 à 24 de la présente ordonnance et comporte cinq chapitres."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article 26",
+      "content": "I. - La présente ordonnance est applicable sur tout le territoire de la République, sauf en Nouvelle-Calédonie.II. - Pour l'application de la présente ordonnance à Saint-Pierre-et-Miquelon, Wallis-et-Futuna et la Polynésie française, les références au : « tribunal judiciaire » sont remplacées par les références au : « tribunal de première instance »."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Article 27",
+      "content": "Les dispositions de la présente ordonnance entreront en vigueur le 1er janvier 2023 et s'appliquent aux instances introduites à compter de cette date."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article 28",
+      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2021-650-du-26-mai-2021",
+  "type": "statute",
+  "title": "Ordonnance n°2021-650 du 26 mai 2021",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043534846",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Article 59",
+      "content": "La présente ordonnance entre en vigueur le lendemain de sa publication, à l'exception du g du 1° de son article 3, qui entre en vigueur le 21 juin 2022."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Article 60",
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, le ministre de l'outre-mer et le secrétaire d'État auprès du ministre de l'économie, des finances et de la relance et de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la transition numérique et des communications électroniques, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2005-412-du-3-mai-2005",
+  "type": "statute",
+  "title": "Loi n° 2005-412 du 3 mai 2005",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000420100",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "I. - Paragraphe modificateur.II. - Le budget de l'Etat compense la mesure ainsi prévue par abondement de la subvention d'équilibre à l'Etablissement national des invalides de la marine."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Article 35",
+      "content": "Un rapport d'évaluation portant sur la mise en oeuvre de la présente loi est établi chaque année par le Gouvernement et soumis au Conseil supérieur de la marine marchande et à la Commission nationale de l'emploi maritime. Un rapport de synthèse établi dans les mêmes conditions est présenté au Parlement tous les trois ans, et pour la première fois avant le 31 mars 2007."
+    }
+  ]
+}

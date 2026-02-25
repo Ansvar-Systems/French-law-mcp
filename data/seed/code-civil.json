@@ -2,11 +2,11 @@
   "id": "code-civil",
   "type": "statute",
   "title": "Code civil",
-  "title_en": "French Civil Code",
-  "short_name": "Code civil",
+  "title_en": null,
+  "short_name": null,
   "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/",
-  "description": "Contract law, liability, digital rights.",
+  "description": null,
   "provisions": [
     {
       "provision_ref": "art1",

@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2016-492-du-21-avril-2016",
+  "type": "statute",
+  "title": "Ordonnance n°2016-492 du 21 avril 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032439575",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La présente ordonnance entre en vigueur à une date fixée par décret, et au plus tard six mois après la date de sa publication.Les procédures d'institution d'une servitude dont l'arrêté d'ouverture d'enquête publique a été publié avant l'entrée en vigueur de la présente ordonnance demeurent régies par les dispositions applicables antérieurement à cette entrée en vigueur."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le Premier ministre et le ministre de l'économie, de l'industrie et du numérique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

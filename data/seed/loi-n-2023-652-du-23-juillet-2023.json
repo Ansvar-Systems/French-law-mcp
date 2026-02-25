@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2023-652-du-23-juillet-2023",
+  "type": "statute",
+  "title": "LOI n°2023-652 du 23 juillet 2023",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047879048",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée l'approbation du premier amendement à la convention adoptée à Espoo le 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, adopté à Sofia le 27 février 2001, et dont le texte est annexé à la présente loi (2)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Est autorisée l'approbation du protocole à la convention adoptée à Espoo le 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière relatif à l'évaluation stratégique environnementale (ensemble cinq annexes), signé à Kiev le 21 mai 2003, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat."
+    }
+  ]
+}

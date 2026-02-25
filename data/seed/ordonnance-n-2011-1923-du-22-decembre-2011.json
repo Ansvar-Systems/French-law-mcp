@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2011-1923-du-22-decembre-2011",
+  "type": "statute",
+  "title": "Ordonnance n°2011-1923\n du 22 décembre 2011",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025015879",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article 26",
+      "content": "Sauf lorsqu'elle en dispose autrement, les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2012."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article 28",
+      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, le ministre du travail, de l'emploi et de la santé, la ministre du budget, des comptes publics et de la réforme de l'Etat, porte-parole du Gouvernement, la ministre des solidarités et de la cohésion sociale et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

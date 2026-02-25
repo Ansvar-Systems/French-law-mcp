@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-58-346-du-3-avril-1958",
+  "type": "statute",
+  "title": "Loi n° 58-346 du 3 avril 1958",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000511672",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Sont abrogés, pour le territoire métropolitain, les textes législatifs annexés (annexes non reproduites) à la présente loi auxquels se sont substitués le code des pensions militaires d'invalidité et des victimes de la guerre, le code des pensions civiles et militaires de retraite, le code des instruments monétaires et des médailles, le code des caisses d'épargne, le code de l'artisanat, le code des postes, télégraphes et téléphones, le code de la santé publique, le code de l'urbanisme et de l'habitation, le code des mesures concernant les débits de boissons et la lutte contre l'alcoolisme, le code rural, le code de la mutualité, le code de l'aviation civile et commerciale, le code de la famille et de l'aide sociale, le code de l'industrie cinématographique, le code des ports maritimes.Les dispositions contenues dans ces codes ont force de loi à compter de la date de publication de la présente loi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les dispositions qui précèdent ne sont applicables aux départements dans lesquels une législation locale est actuellement en vigueur que dans la mesure où elles ne dérogent pas à cette législation."
+    }
+  ]
+}

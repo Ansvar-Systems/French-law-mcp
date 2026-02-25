@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-du-12-novembre-1823",
+  "type": "statute",
+  "title": "Ordonnance du 12 novembre 1823",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021821043",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "A l'avenir, les effets publics des emprunts des gouvernements étrangers seront cotés sur le cours authentique de la Bourse de Paris."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "L'arrêt du Conseil du 7 août 1785 est rapporté, en ce qu'il renferme de contraire à la présente ordonnance."
+    }
+  ]
+}

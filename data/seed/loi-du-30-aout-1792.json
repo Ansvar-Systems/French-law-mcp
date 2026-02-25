@@ -1,0 +1,72 @@
+{
+  "id": "loi-du-30-aout-1792",
+  "type": "statute",
+  "title": "Loi du 30 août 1792",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051854484",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "artII",
+      "section": "II",
+      "title": "Article II",
+      "content": "Les conventions faites avant le décret du 13 janvier 1791, entre les auteurs & les directeurs des spectacles, seront exécutées."
+    },
+    {
+      "provision_ref": "artIII",
+      "section": "III",
+      "title": "Article III",
+      "content": "Les règlemens & arrêts du conseil qui avaient été faits pour les théâtres de Pairs ayant été abrogés par le décret du 13 janvier, & ayant donné lieu, à cette époque, à divers traités entre les théâtres de Paris & les auteurs, ces traités seront suivis dans toutes l’étendue de leurs dispositions ; en conséquence, nul autre théâtre de Paris, que celui ou ceux auxquels l’auteur ou ses ayant-causes auront permis la représentation de ses pièces, ne pourra les jouer, sous les peines de la loi."
+    },
+    {
+      "provision_ref": "artIV",
+      "section": "IV",
+      "title": "Article IV",
+      "content": "Pour prévenir toutes réclamations à l’avenir, les auteurs seront tenus, en vendant leurs pièces aux imprimeurs ou aux graveurs, de stipuler formellement la réserve qu’ils entendront faire de leurs droits de faire représenter lesdites pièces."
+    },
+    {
+      "provision_ref": "artIX",
+      "section": "IX",
+      "title": "Article IX",
+      "content": "L’assemblée nationale n’entend rien préjuger sur les décrets ou règlemens de police qu’elle pourra donner dans le code de l’instruction publique, sous le rapport de l’influence des théâtres sur les mœurs & les beaux-arts."
+    },
+    {
+      "provision_ref": "artPremier",
+      "section": "Premier",
+      "title": "Article Premier",
+      "content": "Les pièces imprimées ou gravées mises en vente avant le décret du 13 janvier 1791, qui ont été jouées avant cette époque sur les théâtres autres que ceux de Paris, sans convention écrite des auteurs, & cependant sans aucune réclamation légalement constatée de leur part, pourront être jouées sur ces mêmes théâtres sans aucune rétribution pour les auteurs."
+    },
+    {
+      "provision_ref": "artV",
+      "section": "V",
+      "title": "Article V",
+      "content": "Le traité portant ladite réserve sera déposé chez un notaire, & imprimé à la tête de la pièce."
+    },
+    {
+      "provision_ref": "artVI",
+      "section": "VI",
+      "title": "Article VI",
+      "content": "En conséquence de cette réserve, aucun spectacle ne pourra jouer lesdites pièces imprimées ou gravées, qu’en vertu d’un consentement écrit & signé par l’auteur."
+    },
+    {
+      "provision_ref": "artVII",
+      "section": "VII",
+      "title": "Article VII",
+      "content": "Les spectacles qui contreviendront au précédent article, encourront la peine de confiscation du produit total des représentations."
+    },
+    {
+      "provision_ref": "artVIII",
+      "section": "VIII",
+      "title": "Article VIII",
+      "content": "La réserve faite en vertu de l’article IV, n’aura d’effet que pour dix ans ; au bout de ce temps, toutes pièces imprimée & gravée seront librement jouées par tous les spectacles."
+    },
+    {
+      "provision_ref": "artX",
+      "section": "X",
+      "title": "Article X",
+      "content": "Elle déroge aux décrets antérieurs, en tout ce qui n’est pas conforme au présent décret."
+    }
+  ]
+}

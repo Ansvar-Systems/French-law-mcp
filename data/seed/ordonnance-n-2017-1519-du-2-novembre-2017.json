@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2017-1519-du-2-novembre-2017",
+  "type": "statute",
+  "title": "Ordonnance n°2017-1519 du 2 novembre 2017",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035943870",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "I. - Les articles 1er et 3 ne sont pas applicables à Saint-Pierre-et-Miquelon et à Saint-Barthélemy. L'article 3 n'est pas applicable à Saint-Martin, en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.\n\nII. à VI. - A abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nVII. - La présente ordonnance n'est pas applicable dans les Terres australes et antarctiques françaises.\n\n- Code de commerce\n\n- Code de commerce"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

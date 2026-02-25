@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-59-273-du-4-fevrier-1959",
+  "type": "statute",
+  "title": "Ordonnance n° 59-273 du 4 février 1959",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000687695",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le détenteur d'un appareil récepteur /A/DECR. 201 1980-03-10 :de radiophonie ou// de télévision doit en faire la déclaration et acquitter une redevance pour droit d'usage, fixée conformément aux dispositions de l'article 10 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Le taux des redevances pour droit d'usage sur les appareils récepteurs /A/DECR. 201 1980-03-10 : de radiophonie et// de télévision est fixé par décret pris en Conseil d'Etat. Nonobstant le caractère de taxes parafiscales de ces redevances, leur produit en principal est soumis à la taxe sur la valeur ajoutée au taux intermédiaire."
+    }
+  ]
+}

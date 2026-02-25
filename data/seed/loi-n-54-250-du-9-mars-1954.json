@@ -1,0 +1,18 @@
+{
+  "id": "loi-n-54-250-du-9-mars-1954",
+  "type": "statute",
+  "title": "Loi n° 54-250 du 9 mars 1954",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000316520",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "artunique",
+      "section": "unique",
+      "title": "Article unique",
+      "content": "Les bénéficiaires de l'ordonnance n° 45-875 du ler mai 1945 qui antérieurement à leur éviction les fonctions d'administrateur d'une société anonyme et y assumaient en même temps des fonctions directoriales pourront être réintégrés, même en surnombre, nonobstant toutes dispositions législatives ou statutaires contraires, conformément aux modalités d'application de l'ordonnance précitée."
+    }
+  ]
+}

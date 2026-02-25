@@ -1,0 +1,36 @@
+{
+  "id": "loi-n-94-6-du-4-janvier-1994",
+  "type": "statute",
+  "title": "Loi n° 94-6 du 4 janvier 1994",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000363223",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "Jusqu'à la publication de la première décision d'agrément prise en application des dispositions de l'article 530 ter du code général des impôts, la direction nationale de la garantie et des services industriels et le centre technique de l'industrie horlogère exercent les attributions dévolues aux organismes de contrôle agréés."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "Le Gouvernement déposera, avant le 1er juillet 1994, un rapport sur les modalités d'assouplissement de l'obligation de tenue du registre défini à l'article 537 du code général des impôts ; ce rapport précisera notamment comment l'administration entend préserver et consolider les assouplissements déjà accordés, tenir compte de l'application des techniques informatiques aux documents comptables et assurer la confidentialité des informations nominatives que pourrait contenir ce registre."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Article 30",
+      "content": "Les ouvrages d'or aux titres de 920 millièmes et 840 millièmes, légalement revêtus du poinçon de titre avant la date de publication de la présente loi, pourront valablement être commercialisés après l'entrée en vigueur de celle-ci."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Article 31",
+      "content": "Les dispositions du présent titre Ier entrent en vigueur le 13 décembre 1993."
+    }
+  ]
+}

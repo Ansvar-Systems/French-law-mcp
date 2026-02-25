@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2008-67-du-21-janvier-2008",
+  "type": "statute",
+  "title": "LOI n° 2008-67 du 21 janvier 2008",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000017942034",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L'ordonnance n° 2007-329 du 12 mars 2007 relative au code du travail (partie législative) est ratifiée dans sa rédaction modifiée par les articles 2, 3, 4, 6 et 7 de la présente loi."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "En 2008, en sus de l'obligation prévue au second alinéa de l'article L. 514-3 du code du travail, les employeurs sont tenus d'accorder aux salariés de leur entreprise, membres d'un conseil de prud'hommes, sur leur demande et pour les besoins de la formation prévue au premier alinéa de l'article précité, des autorisations d'absence, dans la limite de six jours."
+    }
+  ]
+}

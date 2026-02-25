@@ -1,0 +1,18 @@
+{
+  "id": "loi-n-2001-340-du-19-avril-2001",
+  "type": "statute",
+  "title": "Loi n° 2001-340 du 19 avril 2001",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000390846",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée la ratification de la convention de sécurité sociale entre la République française et la République du Chili, signée à Santiago le 25 juin 1999, et dont le texte est annexé à la présente loi (1)."
+    }
+  ]
+}

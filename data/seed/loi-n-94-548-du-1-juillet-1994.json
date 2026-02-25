@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-94-548-du-1-juillet-1994",
+  "type": "statute",
+  "title": "Loi n° 94-548 du 1 juillet 1994",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000547135",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les traitements automatisés de données nominatives entrant dans le champ d'application du chapitre V bis de la loi n° 78-17 du 6 janvier 1978 précitée, fonctionnant à la date de publication de la présente loi et n'ayant pas reçu d'avis de la Commission nationale de l'informatique et des libertés, doivent, dans un délai d'un an à compter de la publication du décret prévu à l'article 40-10 de la loi n° 78-17 du 6 janvier 1978 précitée, faire l'objet d'une demande d'autorisation dans les conditions prévues à l'article 40-2 de la même loi.Pour l'avis du comité consultatif relatif à ces demandes d'autorisation, le délai prévu au deuxième alinéa de l'article 40-2 de ladite loi est porté à quatre mois non renouvelables."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les dispositions des articles 1er et 2 de la présente loi s'appliquent dans les territoires d'outre-mer et à Mayotte."
+    }
+  ]
+}

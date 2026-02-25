@@ -1,0 +1,18 @@
+{
+  "id": "ordonnance-n-2010-379-du-14-avril-2010",
+  "type": "statute",
+  "title": "Ordonnance n° 2010-379 du 14 avril 2010",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022098128",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Article 29",
+      "content": "Le Premier ministre, la ministre d'Etat, garde des sceaux, ministre de la justice et des libertés, la ministre de la santé et des sports et la secrétaire d'Etat chargée des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2016-353-du-25-mars-2016",
+  "type": "statute",
+  "title": "Ordonnance n°2016-353 du 25 mars 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032294441",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les circonscriptions des centres régionaux de la propriété forestière restent fixées dans leurs limites territoriales antérieures au 1er janvier 2016 jusqu'au prochain renouvellement général des membres de leurs conseils et au plus tard jusqu'au 1er avril 2017."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le Premier ministre et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

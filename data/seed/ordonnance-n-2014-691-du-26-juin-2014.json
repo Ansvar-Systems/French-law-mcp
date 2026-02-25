@@ -1,0 +1,30 @@
+{
+  "id": "ordonnance-n-2014-691-du-26-juin-2014",
+  "type": "statute",
+  "title": "ORDONNANCE n°2014-691 du 26 juin 2014",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029139765",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Article 23",
+      "content": "V.-Les articles 1er à 4, 21, 22 et 24 sont applicables en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis-et-Futuna."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Article 24",
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er septembre 2015. Les procédures en cours à cette date devant les formations contentieuses et disciplinaires des conseils académiques de l'éducation nationale, du Conseil supérieur de l'éducation et de la commission des titres d'ingénieur restent régies par les dispositions antérieurement applicables."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Article 25",
+      "content": "Le Premier ministre, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

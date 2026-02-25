@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2019-3-du-4-janvier-2019",
+  "type": "statute",
+  "title": "Ordonnance n° 2019-3 du 4 janvier 2019",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037952563",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La présente ordonnance entre en vigueur le 1er janvier 2020. Toutefois, les arrêtés prévus aux IV des articles 36, 37 et 38 de la loi du 18 décembre 2013 précitée dans leur rédaction issue de la présente ordonnance sont publiés avant le 31 décembre 2019."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le Premier ministre, la ministre des armées et le ministre de l'action et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

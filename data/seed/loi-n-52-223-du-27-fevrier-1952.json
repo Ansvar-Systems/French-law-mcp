@@ -1,0 +1,30 @@
+{
+  "id": "loi-n-52-223-du-27-fevrier-1952",
+  "type": "statute",
+  "title": "Loi n° 52-223 du 27 février 1952",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000698658",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il sera procédé à la codification des textes législatifs concernant le service des postes, télégraphes et téléphones par décret en Conseil d'Etat pris sur le rapport du ministre des postes, télégraphes et téléphones et du ministre chargé de la réforme administrative, après avis de la commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Ce décret apportera aux textes en vigueur les adaptations de forme rendues nécessaires par le travail de codification à l'exclusion de toute modification de fond."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Il sera procédé tous les ans et dans les mêmes conditions à l'incorporation dans le code des postes, télégraphes et téléphones des textes législatifs modifiant certaines dispositions de ce code sans s'y référer expressément."
+    }
+  ]
+}

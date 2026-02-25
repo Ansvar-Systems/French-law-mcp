@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2021-961-du-19-juillet-2021",
+  "type": "statute",
+  "title": "Ordonnance n°2021-961 du 19 juillet 2021",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043814566",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les dispositions de la présente ordonnance s'appliquent à compter du 1er janvier 2023.Par dérogation au I de l'article L. 4022-2 du code de la santé publique, les médecins, chirurgiens-dentistes, sages-femmes, pharmaciens, infirmiers, masseurs-kinésithérapeutes et pédicures-podologues en exercice au 1er janvier 2023 dispose d'un délai de neuf ans pour établir avoir réalisé les actions requises au titre de l'obligation de certification professionnelle périodique pour leur première période de certification qui commence à compter de cette date."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre, la ministre des armées, le ministre des solidarités et de la santé et la ministre de l'enseignement supérieur, de la recherche et de l'innovation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

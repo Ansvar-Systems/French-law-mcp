@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2020-705-du-10-juin-2020",
+  "type": "statute",
+  "title": "Ordonnance n°2020-705 du 10 juin 2020",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041983045",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "L'article 1er de la présente ordonnance est applicable sur l'ensemble du territoire de la République.Son article 2 est applicable à Wallis-et-Futuna."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre, le ministre de l'économie et des finances, le ministre de l'action et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

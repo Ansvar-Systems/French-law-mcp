@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2021-1325-du-13-octobre-2021",
+  "type": "statute",
+  "title": "Ordonnance n°2021-1325 du 13 octobre 2021",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044201935",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2022."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre de l'économie, des finances et de la relance, la ministre des armées, le ministre des solidarités et de la santé, la ministre de l'enseignement supérieur, de la recherche et de l'innovation et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

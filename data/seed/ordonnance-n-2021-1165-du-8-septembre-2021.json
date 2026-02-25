@@ -1,0 +1,30 @@
+{
+  "id": "ordonnance-n-2021-1165-du-8-septembre-2021",
+  "type": "statute",
+  "title": "Ordonnance n°2021-1165 du 8 septembre 2021",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044030723",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le code des transports est modifié conformément aux articles 2 à 16 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "A créé les dispositions suivantes :\n\n-Code des transports"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17",
+      "content": "Le Premier ministre, la ministre de la transition écologique, la ministre de la mer et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

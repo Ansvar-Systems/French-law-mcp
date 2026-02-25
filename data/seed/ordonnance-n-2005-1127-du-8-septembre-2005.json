@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2005-1127-du-8-septembre-2005",
+  "type": "statute",
+  "title": "Ordonnance n° 2005-1127 du 8 septembre 2005",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000239315",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "L'article L. 640-3 du code rural devient l'article L. 611-6."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17",
+      "content": "Le Premier ministre, le ministre des transports, de l'équipement, du tourisme et de la mer et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

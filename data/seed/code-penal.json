@@ -2,11 +2,11 @@
   "id": "code-penal",
   "type": "statute",
   "title": "Code pénal",
-  "title_en": "French Criminal Code",
-  "short_name": "Code pénal",
+  "title_en": null,
+  "short_name": null,
   "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/",
-  "description": "The French Criminal Code, including cybercrime provisions (Articles 323-1 to 323-8).",
+  "description": null,
   "provisions": [
     {
       "provision_ref": "art111-1",

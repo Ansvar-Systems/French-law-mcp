@@ -1,0 +1,18 @@
+{
+  "id": "loi-n-60-1204-du-17-novembre-1960",
+  "type": "statute",
+  "title": "Loi n° 60-1204 du 17 novembre 1960",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000314670",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les infractions à la réglementation concernant l'émission et l'introduction en France de parts de fonds communs de placement régis par une législation étrangère seront punies d'une amende de 9000 euros et, en cas de récidive, de 90000 euros.\n\nLe tribunal pourra ordonner la publication, aux frais des condamnés, du jugement de condamnation, intégralement ou par extraits, au Bulletin des Annonces légales obligatoires et dans les journaux que ledit tribunal désignera.\n\nLa présente loi sera exécutée comme loi de l'Etat."
+    }
+  ]
+}

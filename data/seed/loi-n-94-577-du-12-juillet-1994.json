@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-94-577-du-12-juillet-1994",
+  "type": "statute",
+  "title": "Loi n° 94-577 du 12 juillet 1994",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000183664",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L'article 1er de la loi n° 70-631 du 15 juillet 1970 relative à l'Ecole polytechnique est complété par deux alinéas ainsi rédigés :\" Pour l'accomplissement de cette mission, à vocation nationale et internationale, l'école dispense des formations de toute nature et organise des activités de recherche. Elle assure une formation de troisième cycle à des étudiants diplômés de l'école ou titulaires d'un diplôme de deuxième cycle ou équivalent.\" Elle peut engager des actions de coopération avec des établissements français et étrangers d'enseignement ou de recherche. \""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le premier alinéa de l'article 8 de la loi n° 70-631 du 15 juillet 1970 précitée est abrogé."
+    }
+  ]
+}

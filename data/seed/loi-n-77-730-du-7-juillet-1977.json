@@ -1,0 +1,30 @@
+{
+  "id": "loi-n-77-730-du-7-juillet-1977",
+  "type": "statute",
+  "title": "Loi n° 77-730 du 7 juillet 1977",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000338794",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les personnes privées d'emploi pour cause économique, inscrites comme demandeurs d'emploi et ayant la qualité de cadre au sens de la convention collective de travail dont elles relèvent, pourront jusqu'à la fin de l'année 1985 prendre part jusqu'à l'âge de cinquante ans aux concours de recrutement ouverts aux candidats n'appartenant pas à l'administration:1) Des corps de fonctionnaires des catégories A et B et des corps assimilés;2) Des corps et emplois de même niveau des collectivités locales, des établissements publics, des entreprises publiques et des services concédés."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les personnes visées à l'article 1er pourront prendre part aux concours de recrutement ouverts aux candidats n'appartenant pas à l'administration sans avoir justifié des titres ou diplômes requis par les statuts particuliers des corps et emplois visés à l'article 1er, à condition d'avoir eu pendant 5 ans au moins la qualité de cadre au sens de la ou des conventions collectives de travail dont elles relevaient.\n\nL'organisation de ces concours fera l'objet d'une publicité systématique par l'intermédiaire de l'institution mentionnée à l'article L. 311-7 du code du travail et de l'Association pour l'emploi des cadres."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les années accomplies en qualité de cadre par les personnes visées à l'article 1er pourront être prises en compte partiellement pour leur classement dans le grade de début du corps auquel elles accéderont. Un décret en Conseil d'Etat fixera les conditions d'application du présent article.La présente loi sera exécutée comme loi d'Etat."
+    }
+  ]
+}

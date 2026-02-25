@@ -1,0 +1,36 @@
+{
+  "id": "loi-n-2005-1550-du-12-decembre-2005",
+  "type": "statute",
+  "title": "Loi n° 2005-1550 du 12 décembre 2005",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000419821",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L'ordonnance n° 2004-1374 du 20 décembre 2004 relative à la partie législative du code de la défense est ratifiée."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Paragraphe modificateurLes dispositions du présent article produisent effet à compter de l'entrée en vigueur des dispositions réglementaires désignant l'autorité administrative compétente."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article 19",
+      "content": "Les délégations par l'Etat de la réalisation de certaines opérations à des entreprises publiques en matière de production, d'importation, d'exportation et de commerce des poudres et substances explosives, qui ont été accordées avant la promulgation de la présente loi, valent autorisation au sens de l'article L. 2352-1 du code de la défense."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "content": "Les dispositions des articles 2 à 19 sont applicables à Mayotte, dans les îles Wallis-et-Futuna et en Nouvelle-Calédonie. Les dispositions de la présente loi sont applicables en Polynésie française, à l'exception des 1°, 2°, 5° à 8° de l'article 12 et de l'article 19. Les dispositions des articles 1er à 17 et 19 sont applicables dans les Terres australes et antarctiques françaises."
+    }
+  ]
+}

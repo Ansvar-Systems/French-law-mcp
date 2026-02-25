@@ -1,0 +1,36 @@
+{
+  "id": "loi-n-82-689-du-4-aout-1982",
+  "type": "statute",
+  "title": "Loi n° 82-689 du 4 août 1982",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000504206",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les chefs des entreprises mentionnées à l'article L. 122-33 du code du travail devront, dans un délai d'un an à compter de la promulgation de la présente loi, établir un règlement intérieur conforme aux dispositions de la sous-section I de la section VI du chapitre II du titre II du livre Ier de ce code .\n\nLes dispositions de la sous-section II de ladite section VI relatives aux garanties disciplinaires sont applicables dès l'entrée en vigueur de la présente loi."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Les négociations en vue de la conclusion de l'accord prévu à l'article L. 461-3 du code du travail doivent être engagées dans un délai de six mois à compter de la promulgation de la présente loi. Dans les entreprises visées au premier alinéa du même article, l'employeur qui refuse d'engager des négociations est passible des peines prévues à l'article L. 471-2 du même code."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Dans les entreprises et établissements visés à l'article L. 461-1 du code du travail et comptant au moins cinquante salariés, le chef d'entreprise ou d'établissement procède à l'analyse des résultats obtenus, en application du titre VI du livre IV du même code, à l'expiration d'un délai de deux ans à compter de la date de promulgation de la présente loi. Il recueille l'avis des délégués syndicaux et du comité d'entreprise ou, à défaut, des délégués du personnel.\n\nCette analyse est transmise, accompagnée, le cas échéant, de ces avis aux inspecteurs du travail compétents par l'employeur."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Le Gouvernement adressera au Parlement, avant le 30 juin 1985, un rapport relatif à l'application des articles L. 461-1 à L. 461-3 du code du travail.\n\nCompte tenu des conclusions de ce rapport, une loi déterminera, avant le 31 décembre 1985, les modalités d'exercice du droit d'expression des salariés dans les entreprises mentionnées à l'article L. 461-1."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ordonnance-n-2008-1301-du-11-decembre-2008",
+  "type": "statute",
+  "title": "Ordonnance n° 2008-1301 du 11 décembre 2008",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019907009",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la propriété intellectuelle"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "I. et II. - A modifié les dispositions suivantes :\n\nIII. - Les dispositions de la présente ordonnance sont applicables dans les îles Wallis et Futuna et en Nouvelle-Calédonie.\n\n- Code de la propriété intellectuelle"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le Premier ministre et la ministre de l'économie, de l'industrie et de l'emploi sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

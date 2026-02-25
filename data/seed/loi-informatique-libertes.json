@@ -1,12 +1,12 @@
 {
   "id": "loi-informatique-libertes",
   "type": "statute",
-  "title": "Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés",
-  "title_en": "Data Protection Act (Loi Informatique et Libertés)",
-  "short_name": "Loi Informatique et Libertés",
+  "title": "Loi n° 78-17 du 6 janvier 1978",
+  "title_en": null,
+  "short_name": null,
   "status": "in_force",
-  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460/",
-  "description": "France's foundational data protection law, amended to implement the GDPR.",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460",
+  "description": null,
   "provisions": [
     {
       "provision_ref": "art1",

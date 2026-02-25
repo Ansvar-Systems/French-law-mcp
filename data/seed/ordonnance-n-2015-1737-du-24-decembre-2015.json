@@ -1,0 +1,24 @@
+{
+  "id": "ordonnance-n-2015-1737-du-24-decembre-2015",
+  "type": "statute",
+  "title": "Ordonnance n°2015-1737 du 24 décembre 2015",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031689278",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente ordonnance entre en vigueur le 1er janvier 2016."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable et de l'énergie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

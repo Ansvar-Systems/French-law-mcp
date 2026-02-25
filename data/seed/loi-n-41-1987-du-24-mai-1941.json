@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-41-1987-du-24-mai-1941",
+  "type": "statute",
+  "title": "Loi n° 41-1987 du 24 mai 1941",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571397",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Un décret contresigné par le ministre secrétaire d'Etat à l'économie et aux finances, le ministre secrétaire d'Etat à l'agriculture et le secrétaire d'Etat à la production industrielle fixera le statut réglementaire de la normalisation."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Toutes les mesures reconnues nécessaires à l'établissement et à l'application de la normalisation pourront être édictées par le décret prévu à l'article premier ci-dessus, nonobstant toutes dispositions législatives ou réglementaires contraires."
+    }
+  ]
+}

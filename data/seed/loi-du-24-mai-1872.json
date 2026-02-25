@@ -1,0 +1,90 @@
+{
+  "id": "loi-du-24-mai-1872",
+  "type": "statute",
+  "title": "Loi du 24 mai 1872",
+  "title_en": null,
+  "short_name": null,
+  "status": "repealed",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000521091",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les conflits d'attribution entre la juridiction administrative et la juridiction judiciaire sont réglés par un Tribunal des conflits composé en nombre égal de membres du Conseil d'Etat et de la Cour de cassation."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les membres mentionnés aux 1° et 2° de l'article 2 choisissent parmi eux, pour trois ans, un président issu alternativement du Conseil d'Etat et de la Cour de cassation, au scrutin secret à la majorité des voix.En cas d'empêchement provisoire du président, le tribunal est présidé par le membre le plus ancien appartenant au même ordre de juridiction.En cas de cessation définitive des fonctions du président, le tribunal, alors complété dans les conditions prévues au dernier alinéa de l'article 2, est présidé par un membre du même ordre, choisi dans les conditions prévues au premier alinéa du présent article, pour la durée du mandat restant à courir."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Sous réserve de l'article 6, le Tribunal des conflits ne peut délibérer que si cinq membres au moins sont présents."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Les débats ont lieu en audience publique après une instruction contradictoire."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le délibéré des juges est secret."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Les décisions sont rendues au nom du peuple français. Elles sont motivées et comportent le nom des membres qui en ont délibéré.Elles sont rendues en audience publique."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Lorsque la solution de la question soumise au Tribunal des conflits s'impose avec évidence, le président, conjointement avec le membre le plus ancien appartenant à l'autre ordre de juridiction, peut statuer par voie d'ordonnance dans les cas prévus par décret en Conseil d'Etat."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "Les décisions du Tribunal des conflits s'imposent à toutes les juridictions de l'ordre judiciaire et de l'ordre administratif."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "Le Tribunal des conflits règle le conflit d'attribution entre les deux ordres de juridiction, dans des conditions prévues par décret en Conseil d'Etat :1° Lorsque le représentant de l'Etat dans le département ou la collectivité a élevé le conflit dans le cas prévu à l'article 13 ;2° Lorsque les juridictions de l'un et l'autre ordre se sont déclarées respectivement incompétentes pour connaître d'un litige ayant le même objet ;3° Lorsqu'une juridiction de l'un ou l'autre ordre lui a renvoyé la question de compétence soulevée dans un litige."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "Lorsque le représentant de l'Etat dans le département ou la collectivité estime que la connaissance d'un litige ou d'une question préjudicielle portée devant une juridiction de l'ordre judiciaire relève de la compétence de la juridiction administrative, il peut, alors même que l'administration ne serait pas en cause, demander à la juridiction saisie de décliner sa compétence."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "Le conflit d'attribution entre les juridictions judiciaires et administratives ne peut être élevé en matière pénale.Il peut être élevé en toute autre matière, sauf sur l'action civile dans les cas mentionnés à l'article 136 du code de procédure pénale."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15",
+      "content": "Le Tribunal des conflits peut être saisi des décisions définitives rendues par les juridictions administratives et judiciaires dans les instances introduites devant les deux ordres de juridiction, pour des litiges portant sur le même objet, lorsqu'elles présentent une contrariété conduisant à un déni de justice.Sur les litiges qui lui sont ainsi déférés, le Tribunal des conflits juge au fond, à l'égard de toutes les parties en cause. Ses décisions ne sont susceptibles d'aucun recours."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "Le Tribunal des conflits est seul compétent pour connaître d'une action en indemnisation du préjudice découlant d'une durée totale excessive des procédures afférentes à un même litige et conduites entre les mêmes parties devant les juridictions des deux ordres en raison des règles de compétence applicables et, le cas échéant, devant lui."
+    }
+  ]
+}

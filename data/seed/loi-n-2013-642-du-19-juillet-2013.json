@@ -1,0 +1,30 @@
+{
+  "id": "loi-n-2013-642-du-19-juillet-2013",
+  "type": "statute",
+  "title": "LOI n°2013-642\n du 19 juillet 2013",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027730576",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La République française institue une journée nationale de la Résistance."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Cette journée, ni fériée, ni chômée, est fixée au 27 mai, jour anniversaire de la création du Conseil national de la Résistance."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Dans le cadre de cette journée anniversaire, les établissements d'enseignement du second degré sont invités à organiser des actions éducatives visant à assurer la transmission des valeurs de la Résistance et de celles portées par le programme du Conseil national de la Résistance."
+    }
+  ]
+}

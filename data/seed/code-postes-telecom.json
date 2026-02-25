@@ -2,11 +2,11 @@
   "id": "code-postes-telecom",
   "type": "statute",
   "title": "Code des postes et des communications électroniques",
-  "title_en": "Postal and Electronic Communications Code",
-  "short_name": "CPCE",
+  "title_en": null,
+  "short_name": null,
   "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070987/",
-  "description": "Electronic communications regulation, security obligations, data retention.",
+  "description": null,
   "provisions": [
     {
       "provision_ref": "art54-5",

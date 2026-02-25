@@ -1,0 +1,18 @@
+{
+  "id": "ordonnance-n-2016-665-du-25-mai-2016",
+  "type": "statute",
+  "title": "Ordonnance n° 2016-665 du 25 mai 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032584074",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le Premier ministre, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, et le secrétaire d'Etat chargé des transports, de la mer et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

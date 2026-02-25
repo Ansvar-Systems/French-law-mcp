@@ -1,0 +1,24 @@
+{
+  "id": "loi-n-2014-773-du-7-juillet-2014",
+  "type": "statute",
+  "title": "LOI n°2014-773 du 7 juillet 2014",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029210384",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "IV.-Les modalités d'application du présent article sont fixées par arrêté du ministre chargé de l'économie."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "I. - A modifié les dispositions suivantes :"
+    }
+  ]
+}
