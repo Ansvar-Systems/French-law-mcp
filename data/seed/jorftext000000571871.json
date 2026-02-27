@@ -1,0 +1,78 @@
+{
+  "id": "jorftext000000571871",
+  "type": "statute",
+  "title": "Loi du 17 décembre 1941",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571871",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La réfection du cadastre s'accompagnera toujours d'une délimitation des immeubles dans les conditions qui seront fixées par un arrêté du secrétaire d'Etat à l'économie nationale et aux finances."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Lorsqu'elle n'est pas reconnue indispensable par le secrétaire d'Etat à l'économie nationale et aux finances, la réfection du cadastre ne peut être entreprise qu'aux frais des communes intéressées.Ces communes pourront toutefois bénéficier d'une subvention de l'Etat, en conformité de l'article 2 de la loi du 17 mars 1898, si la réfection de leur cadastre, sans être indispensable, présente néanmoins un intérêt général."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "L'exécution et le contrôle des travaux de rénovation des plans cadastraux et de conservation du cadastre sont assurés par l'administration des contributions directes et du cadastre, dans les conditions ci-après :"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les travaux visés à l'article précédent sont effectués soit en règle soit à l'entreprise, suivant les règles tracées par le décret du 5 août 1929."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le service du renouvellement ou de la révision et de la conservation du cadastre et le service temporaire chargé de la révision des évaluations foncières sont supprimés.Il est créé un service du cadastre au secrétariat d'Etat à l'économie nationale et aux finances (direction générale de contributions directes et du cadastre)."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Le service du cadastre comprend :Un chef du service du cadastre ;Un cadre d'inspecteurs du cadastre ;Un cadre d'inspecteurs régionaux des travaux cadastraux ;Un cadre d'ingénieurs des travaux cadastraux.Il comprend, en outre, des agents détachés du cadre normal du service des contributions directes."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Il est créé au secrétariat d'Etat à l'économie nationale et aux finances (direction générale des contributions directes et du cadastre, service du cadastre) un emploi de chef du service du cadastre."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Pour la situation du service du cadastre, le personnel sera choisi soit parmi les agents ayant appartenu au service du renouvellement ou de la révision et de la conservation du cadastre ou au service chargé de la révision des évaluations foncières, soit parmi les agents appartenant aux autres services de l'administration des contributions directes et du cadastre désignés à titre de titulaires ou seulement chargés de fonctions."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Dans un délai de six mois à dater de la publication du présent décret au Journal officiel, un décret rendu dans les formes prévues par l'article 2 de la loi n° 3982 du 14 septembre 1941 fixera le statut du personnel du service du cadastre."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Sont abrogées toutes dispositions contraires au présent décret et notamment l'article 7 de la loi du 7 août 1850."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "Le présent décret sera publié au Journal officiel et exécuté comme loi de l'Etat."
+    }
+  ]
+}

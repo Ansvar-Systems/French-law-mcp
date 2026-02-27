@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000241811",
+  "type": "statute",
+  "title": "Ordonnance n° 2007-392 du 22 mars 2007",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000241811",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article 19",
+      "content": "Les demandes présentées antérieurement à l'entrée en vigueur de la présente ordonnance demeurent régies par les textes en vigueur à la date à laquelle elles ont été présentées tant en ce qui concerne la procédure applicable que les effets produits par les admissions."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le garde des sceaux, ministre de la justice, et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

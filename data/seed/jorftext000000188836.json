@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000188836",
+  "type": "statute",
+  "title": "Loi n° 95-865 du 2 août 1995",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000188836",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée l'approbation de la convention sur la sûreté nucléaire, signée à Vienne le 20 septembre 1994, et dont le texte est annexé à la présente loi.Nota :Il sera publié ultérieurement au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000031560621",
+  "type": "statute",
+  "title": "ORDONNANCE n°2015-1576 du 3 décembre 2015",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031560621",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "I.-A.-Les articles L. 451-1-1, L. 451-2-1, L. 621-14, L. 621-14-1 A et L. 621-15 du code monétaire et financier sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, dans leur rédaction issue de la présente ordonnance.\n\nI.-B, C et D.-A modifié les dispositions suivantes :\n\nII.-Les articles L. 225-102-3, L. 233-3, L. 233-7 et L. 233-9 du code de commerce sont applicables dans les îles Wallis et Futuna, dans leur rédaction issue de la présente ordonnance.\n\n-Code monétaire et financier"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre des finances et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

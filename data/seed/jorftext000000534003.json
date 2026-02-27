@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000534003",
+  "type": "statute",
+  "title": "Loi n° 90-548 du 2 juillet 1990",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000534003",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée la ratification de la convention relative aux droits de l'enfant, faite à New York le 26 janvier 1990, dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+    }
+  ]
+}

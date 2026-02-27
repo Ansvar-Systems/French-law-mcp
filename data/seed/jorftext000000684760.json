@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000684760",
+  "type": "statute",
+  "title": "Loi n° 64-1278 du 23 décembre 1964",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000684760",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20",
+      "content": "Il est ouvert dans les écritures du Trésor un compte spécial de commerce géré par le ministre des finances et des affaires économiques et intitulé : \"Lancement de certains matériels de guerre et matériels assimilés et de certains matériels d'armement complexes\".\n\nCe compte retrace en dépenses, le versement des avances mentionnées au I de l’article 5 de la loi n° 63-1293 du 21 décembre 1963.\n\nIl retrace, en recettes, le produit du remboursement en capital et intérêts des avances consenties, ainsi que toute autre recette perçue au titre de ces avances."
+    }
+  ]
+}

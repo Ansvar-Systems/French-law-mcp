@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000886584",
+  "type": "statute",
+  "title": "Ordonnance n° 58-1274 du 22 décembre 1958",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886584",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Les articles 4, 12, 23, alinéas 1er, 2 et 24, alinéas 4 et 5, de l'ordonnance du 2 février 1945 sont abrogés."
+    },
+    {
+      "provision_ref": "artExecution",
+      "section": "Execution",
+      "title": "Article Execution",
+      "content": "La présente ordonnance sera publiée au journal officiel de la république française et exécutée comme loi."
+    }
+  ]
+}

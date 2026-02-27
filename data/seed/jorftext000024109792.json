@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000024109792",
+  "type": "statute",
+  "title": "LOI n° 2011-617 du 1er juin 2011",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024109792",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les projets de construction ou de rénovation des enceintes sportives destinées à accueillir l'UEFA Euro 2016 ainsi que des équipements connexes permettant le fonctionnement de celles-ci, réalisés sous le régime du bail emphytéotique administratif, sont éligibles aux mêmes subventions, redevances et autres participations financières que s'ils étaient soumis au régime de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée.Les modalités de l'échéancier de versement de ces subventions, redevances et autres participations financières peuvent être adaptées à la durée du bail emphytéotique administratif."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Par dérogation aux dispositions de l'article L. 1511-2 du code général des collectivités territoriales, les collectivités territoriales et leurs groupements peuvent apporter des aides aux projets de construction ou de rénovation des enceintes sportives destinées à accueillir l'UEFA Euro 2016 ainsi que des équipements connexes permettant le fonctionnement de celles-ci. Les articles L. 113-1 à L. 113-3 et L. 122-11 du code du sport ne s'appliquent pas aux aides accordées à ce titre."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Par dérogation aux dispositions du code de justice administrative déterminant les compétences des juridictions de premier ressort, les contrats passés par les personnes morales de droit public en lien avec la construction ou la rénovation des enceintes sportives destinées à accueillir l'UEFA Euro 2016 et des équipements connexes permettant le fonctionnement de celles-ci ainsi qu'avec l'organisation et le déroulement de cette même compétition peuvent prévoir le recours à l'arbitrage avec application de la loi française."
+    }
+  ]
+}

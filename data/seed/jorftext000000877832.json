@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000877832",
+  "type": "statute",
+  "title": "Loi du 4 août 1903",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000877832",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Seront punis des peines prévues par l'article L. 214-2 du code de la consommation ceux qui, au moment de la vente ou de la livraison de produits cupriques anticryptogamiques, matières premières ou composées, n'auront pas fait connaître à l'acheteur, sur le bulletin de vente en même temps que sur la facture, la teneur en cuivre pur contenu par 100 kilos de matière facturée telle qu'elle est livrée. La même indication devra être inscrite d'une façon apparente sur les enveloppes et récipients dans lesquels la marchandise est livrée à l'acheteur, sur les emballages et récipients dans lesquels la marchandise est préparée à l'avance pour être livrée à l'acheteur, ainsi que sur les prospectus, réclames, prix-courants et papiers de commerce.\n\nSeront punis des mêmes peines ceux qui, au moment de la vente ou de la livraison des produits insecticides, anticryptogamiques et, en général, de tous produits utilisés dans la lutte contre les ravageurs de cultures, matières premières ou composées, n'auront pas fait connaître à l'acheteur la teneur en éléments utiles du produit tel qu'il est livré, dans les mêmes conditions que celles ci-dessus énoncées."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Un décret déterminera les procédés analytiques à suivre pour la détermination du cuivre pur dans les produits anticryptogamiques cupriques.Des décrets détermineront les conditions d'application de la présente loi en ce qui concerne les produits mentionnés au dernier paragraphe de l'article précédent autres que les produits cupriques anticryptogamiques."
+    }
+  ]
+}

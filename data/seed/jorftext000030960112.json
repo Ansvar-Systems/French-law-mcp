@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000030960112",
+  "type": "statute",
+  "title": "ORDONNANCE n°2015-952 du 31 juillet 2015",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030960112",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente ordonnance entre en vigueur le 1er septembre 2016."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

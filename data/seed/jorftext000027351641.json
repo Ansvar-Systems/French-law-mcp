@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000027351641",
+  "type": "statute",
+  "title": "LOI n°2013-343 du 24 avril 2013",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027351641",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "artunique",
+      "section": "unique",
+      "title": "Article unique",
+      "content": "II. - La présente loi entre en vigueur à une date fixée par décret et au plus tard un an après sa promulgation."
+    }
+  ]
+}

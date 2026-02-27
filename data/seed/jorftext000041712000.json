@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000041712000",
+  "type": "statute",
+  "title": "Ordonnance n° 2020-232 du 11 mars 2020",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041712000",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Article 45",
+      "content": "La présente ordonnance n'est pas applicable en Nouvelle-Calédonie."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Article 46",
+      "content": "La présente ordonnance entre en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er octobre 2020.Elle est applicable aux mesures de protection juridique en cours au jour de son entrée en vigueur et aux situations dans lesquelles aucune décision n'a été prise au jour de son entrée en vigueur."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Article 47",
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre des solidarités et de la santé et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

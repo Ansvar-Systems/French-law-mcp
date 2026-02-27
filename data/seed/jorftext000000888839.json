@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000888839",
+  "type": "statute",
+  "title": "Loi n° 75-1256 du 27 décembre 1975",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000888839",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la vente forcée des immeubles compris dans le patrimoine d'un débiteur dont la liquidation des biens a été prononcée par décision de justice a lieu suivant les formes prescrites dans ces départements pour les ventes de biens de mineurs."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les ventes forcées d'immeubles mentionnées à l'article 1er et effectuées dans ces mêmes départements depuis le 1er janvier 1968 sont réputées l'avoir été conformément aux dispositions de l'article 84 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes."
+    }
+  ]
+}

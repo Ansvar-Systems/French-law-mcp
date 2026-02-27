@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000025560648",
+  "type": "statute",
+  "title": "Ordonnance n°2012-395 du 23 mars 2012",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000025560648",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les demandes d'aide juridictionnelle présentées avant la publication de la présente ordonnance demeurent régies par les textes en vigueur à la date à laquelle elles ont été présentées tant en ce qui concerne la procédure applicable que les effets produits par les admissions."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration et la ministre du budget, des comptes publics et de la réforme de l'Etat, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000027478077",
+  "type": "statute",
+  "title": "LOI n°2013-442\n du 30 mai 2013",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027478077",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L'ordonnance n° 2010-49 du 13 janvier 2010 relative à la biologie médicale est ratifiée."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "I.-Plus de la moitié du capital social et des droits de vote d'une société d'exercice libéral de biologistes médicaux doit être détenue, directement ou par l'intermédiaire de sociétés de participations financières des professions libérales, par des biologistes médicaux en exercice au sein de la société.\n\nII.-A modifié les dispositions suivantes :\n\n-Code de la santé publique"
+    }
+  ]
+}

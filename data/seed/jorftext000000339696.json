@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000339696",
+  "type": "statute",
+  "title": "Ordonnance n° 59-75 du 7 janvier 1959",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339696",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "En ce qui concerne les institutions relevant de l'article L. 4 du Code de la sécurité sociale ou de l'article 1050 du Code rural, un    décret en Conseil d'Etat peut prévoir, notamment, une compensation obligatoire."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+    }
+  ]
+}

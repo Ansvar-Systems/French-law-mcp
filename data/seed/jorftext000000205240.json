@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000205240",
+  "type": "statute",
+  "title": "Loi n° 98-261 du 6 avril 1998",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000205240",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "L'article 55 de la loi n° 59-1472 du 28 décembre 1959 portant réforme du contentieux fiscal et divers aménagements fiscaux est abrogé."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'application du présent titre."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "content": "Les articles 11 à 19 de la présente loi entreront en vigueur le premier jour du sixième mois suivant le mois de la publication au Journal officiel de la République française du décret en Conseil d'Etat pris pour son application et au plus tard le 1er juillet 1998."
+    }
+  ]
+}

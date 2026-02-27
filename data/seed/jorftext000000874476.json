@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000874476",
+  "type": "statute",
+  "title": "Loi n° 86-1298 du 23 décembre 1986",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000874476",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée l'approbation de la convention pour la sauvegarde du patrimoine architectural de l'Europe, faite à Grenade le 3 octobre 1985 et dont le texte est annexé à la présente loi (Il sera publié ultérieurement au journal officiel de la République Française.)."
+    }
+  ]
+}

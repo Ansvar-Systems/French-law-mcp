@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000633164",
+  "type": "statute",
+  "title": "Ordonnance n° 2005-855 du 28 juillet 2005",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000633164",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "I. - Les modifications introduites par la présente ordonnance aux articles L. 2223-1 et L. 2223-40 du code général des collectivités territoriales sont applicables aux communes de Mayotte.II. - Alinéa modificateurIII. - Alinéa modificateurIV. - Alinéa modificateur"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

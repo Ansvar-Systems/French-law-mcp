@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000504425",
+  "type": "statute",
+  "title": "Loi n° 48-403 du 10 mars 1948",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000504425",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les fonctionnaires, ouvriers et agents de l'Etat, soumis aux régimes spéciaux de retraites institués par les lois du 14 avril 1924, 29 juin 1927, 21 mars 1928 et les textes qui les ont modifiées ou complétées, ont droit ou ouvrent droit aux avantages prévus par l'ordonnance du 2 février 1945 modifiée dans les conditions fixées par un décret pris sur le rapport du ministre du travail et de la sécurité sociale et du ministre des finances."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Est expressément constatée la nullité de l'acte dit loi du 18 septembre 1941, sous réserve du maintien, dans les conditions fixées par le décret prévu à l'article 1er ci-dessus, de droits acquis par les fonctionnaires, ouvriers et agents ayant atteint l'âge de 65 ans avant le 1er janvier 1945."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les avantages résultant du décret prévu à l'article 1er prendront effet de la même date que ceux qui sont accordés aux vieux travailleurs par la législation générale."
+    }
+  ]
+}

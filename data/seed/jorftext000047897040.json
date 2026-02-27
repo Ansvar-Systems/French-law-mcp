@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000047897040",
+  "type": "statute",
+  "title": "LOI n°2023-668 du 27 juillet 2023",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047897040",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-853 DC du 26 juillet 2023.]"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code de l'action sociale et des familles"
+    }
+  ]
+}

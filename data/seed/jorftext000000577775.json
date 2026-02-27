@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000577775",
+  "type": "statute",
+  "title": "Loi n° 99-505 du 18 juin 1999",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000577775",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "I. - (paragraphe modificateur).\n\nII. - Abrogé"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les articles L. 29 à L. 29-11 du code de la route seront applicables aux enseignants et aux établissements d'enseignement à titre onéreux de la conduite des véhicules terrestres à moteur d'une catégorie donnée, ainsi qu'aux établissements de formation des candidats pour l'exercice de la profession d'enseignant déjà existants, à l'issue d'un délai et selon des modalités fixés par le décret en Conseil d'Etat prévu par l'article L. 29-11 dudit code.Le délai prévu à l'alinéa précédent ne peut excéder deux ans après la promulgation de la présente loi."
+    }
+  ]
+}

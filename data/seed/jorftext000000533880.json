@@ -1,0 +1,36 @@
+{
+  "id": "jorftext000000533880",
+  "type": "statute",
+  "title": "Loi n° 91-5 du 3 janvier 1991",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533880",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article 26",
+      "content": "I. - L'article L. 411-9 du code rural est abrogé.II. - L'article L. 411-17 du code rural est abrogé."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Article 30",
+      "content": "L'indemnité annuelle d'attente versée aux agriculteurs âgés de plus de cinquante-cinq ans et de moins de cinquante-neuf ans dont l'exploitation a été reconnue non viable n'est pas saisissable par les créanciers des bénéficiaires quels qu'ils soient."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Article 32",
+      "content": "I. - (paragraphe modificateur).II. - Les distributions payées en certificats coopératifs d'investissement conformément aux dispositions du paragraphe I. ne sont pas retenues pour l'application des dispositions du c du I. de l'article 219 du code général des impôts, dans les conditions et limites prévues pour les distributions payées en actions ou parts sociales par les sociétés ou coopératives à capital variable autres que celles qui sont régies par le code de commerce."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Article 37",
+      "content": "Pour les années 1991 et 1992, les esters d'huiles de colza et de tournesol peuvent être utilisés en substitution du fioul domestique, dans les mêmes conditions que celui-ci.Ils ne sont pas soumis dans ces différentes utilisations à la taxe intérieure de consommation sur les produits pétroliers prévus à l'article 265 du code des douanes."
+    }
+  ]
+}

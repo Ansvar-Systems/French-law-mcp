@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000257569",
+  "type": "statute",
+  "title": "Ordonnance n° 2005-459 du 13 mai 2005",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000257569",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente ordonnance est applicable aux procédures introduites et aux voies d'exécution diligentées à compter du 1er janvier 2006."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

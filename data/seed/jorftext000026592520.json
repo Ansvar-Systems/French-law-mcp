@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000026592520",
+  "type": "statute",
+  "title": "Ordonnance n°2012-1240\n du 8 novembre 2012",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000026592520",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les modifications apportées par la présente ordonnance aux articles L. 411-3, L. 412-1, L. 451-1-4 et L. 621-8 du code monétaire et financier sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Les dispositions de l'article 3 ne s'appliquent pas aux émetteurs dont les titres de créance ont été admis à la négociation sur un marché réglementé de l'Union européenne avant le 31 décembre 2010 lorsque ces titres de créance sont en cours."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Le Premier ministre et le ministre de l'économie et des finances sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

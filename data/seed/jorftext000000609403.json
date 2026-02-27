@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000609403",
+  "type": "statute",
+  "title": "Ordonnance n° 2006-1207 du 2 octobre 2006",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000609403",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Le Premier ministre et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

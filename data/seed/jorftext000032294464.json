@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000032294464",
+  "type": "statute",
+  "title": "Ordonnance n°2016-354 du 25 mars 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032294464",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les dispositions de l'article 1er ne sont pas applicables aux projets pour lesquels les demandes de permis et les déclarations préalables ont été déposées antérieurement à la date d'entrée en vigueur de la présente ordonnance.Les dispositions du ii du b du 2° de l'article 2 sont applicables aux projets pour lesquels des permis de démolir ont été demandés ou délivrés mais n'ont pas encore été exécutés antérieurement à la date d'entrée en vigueur de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, et la ministre du logement et de l'habitat durable sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

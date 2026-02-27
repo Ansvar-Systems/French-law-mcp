@@ -1,0 +1,48 @@
+{
+  "id": "jorftext000000445487",
+  "type": "statute",
+  "title": "Ordonnance n° 2004-1253 du 24 novembre 2004",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000445487",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La loi du 15 juillet 1971 susvisée est modifiée conformément aux articles 2 à 4 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "L'ordonnance n° 2000-371 du 26 avril 2000 susvisée est modifiée conformément aux articles 6 à 36 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Article 37",
+      "content": "L'ordonnance n° 2000-372 du 26 avril 2000 susvisée est modifiée conformément aux articles 38 à 72 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Article 73",
+      "content": "L'ordonnance n° 2000-373 du 26 avril 2000 susvisée est modifiée conformément aux articles 74 à 104 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Article 105",
+      "content": "L'ordonnance du 20 mars 2002 susvisée est modifiée conformément aux articles 106 à 137 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art143",
+      "section": "143",
+      "title": "Article 143",
+      "content": "Le Premier ministre, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le ministre de l'emploi, du travail et de la cohésion sociale, le garde des sceaux, ministre de la justice, le ministre des affaires étrangères et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000758032",
+  "type": "statute",
+  "title": "Loi n° 98-993 du 5 novembre 1998",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000758032",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée la ratification de l'accord concernant les personnes participant aux procédures devant la Cour européenne des droits de l'homme, fait à Strasbourg le 5 mars 1996, et dont le texte est annexé à la présente loi.Il sera publié ultérieurement au Journal officiel de la République française."
+    }
+  ]
+}

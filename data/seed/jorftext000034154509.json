@@ -1,0 +1,36 @@
+{
+  "id": "jorftext000034154509",
+  "type": "statute",
+  "title": "LOI n°2017-289 du 7 mars 2017",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034154509",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "I.-L'ordonnance n° 2016-1561 du 21 novembre 2016 complétant et précisant les règles budgétaires, financières, fiscales et comptables applicables à la collectivité de Corse est ratifiée.\n\nII.-A modifié les dispositions suivantes :\n\n-Code général des collectivités territoriales"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "I. - L'ordonnance n° 2016-1562 du 21 novembre 2016 portant diverses mesures institutionnelles relatives à la collectivité de Corse est ratifiée.\n\nII. - A modifié les dispositions suivantes :\n\n- Code général des collectivités territoriales\n\n- Ordonnance n° 2016-1562 du 21 novembre 2016"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "L'ordonnance n° 2016-1563 du 21 novembre 2016 portant diverses mesures électorales applicables en Corse est ratifiée."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "A modifié les dispositions suivantes :\n\n- Code général des collectivités territoriales"
+    }
+  ]
+}

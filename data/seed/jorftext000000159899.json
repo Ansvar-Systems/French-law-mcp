@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000159899",
+  "type": "statute",
+  "title": "Loi n° 90-1140 du 19 décembre 1990",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000159899",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée l'approbation de la convention pour la répression d'actes illicites contre la sécurité de la navigation maritime, faite à Rome le 10 mars 1988, et dont le texte est annexé à la présente loi (2).Nota :(2) Il sera publié ultérieurement au Journal officiel de la République française."
+    }
+  ]
+}

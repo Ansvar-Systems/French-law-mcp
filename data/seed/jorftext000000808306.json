@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000808306",
+  "type": "statute",
+  "title": "Ordonnance n° 2005-658 du 8 juin 2005",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000808306",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les dispositions du présent titre, à l'exception de celles de l'article 2, ne s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le garde des sceaux, ministre de la justice, et le ministre des transports, de l'équipement, du tourisme et de la mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

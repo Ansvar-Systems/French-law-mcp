@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000509287",
+  "type": "statute",
+  "title": "Loi n° 63-1316 du 27 décembre 1963",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509287",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Article 49",
+      "content": "Les infractions aux lois et règlements relatifs à l'organisation du marché du vin et concernant les obligations fixées par ces textes pour les sorties des vins de la propriété, les quantités hors quantum et les mesures prises pour l'amélioration de la qualité des vins sont constatées et poursuivies, comme en matière de contributions indirectes, par les agents de la direction générale des impôts, les agents chargés de la répression des fraudes commerciales et les agents de l'institut des vins de consommation courante ayant au moins le grade de contrôleur."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Article 58",
+      "content": "Les modalités d'application de la présente loi seront, en tant que de besoin, fixées par décrets en Conseil d'Etat.\n\nLe Gouvernement est également autorisé à apporter par décrets en Conseil d'Etat aux dispositions du code général des impôts et du code du domaine de l'Etat les compléments et adaptation rendus nécessaires par la présente loi, sans qu'il puisse en résulter aucune modification de fond."
+    }
+  ]
+}

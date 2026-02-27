@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000691993",
+  "type": "statute",
+  "title": "Loi n° 82-847 du 6 octobre 1982",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000691993",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art12bis",
+      "section": "12bis",
+      "title": "Article 12bis",
+      "content": "Dans les conditions définies au présent titre, un office est créé par décret en Conseil d'Etat dans le secteur des produits de la mer et de l'aquaculture.Ce décret définit la composition du conseil de direction de l'office et prévoit une représentation équilibrée de l'amont et de l'aval de la filière.Il précise également les modalités selon lesquelles les avis mentionnés aux articles 3, 5 et 7 sont donnés pour le secteur des produits de la mer et de l'aquaculture."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article 28",
+      "content": "L'article 5 de la loi susvisée n° 80-502 du 4 juillet 1980 d'orientation agricole est abrogé."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Article 31",
+      "content": "Pour tenir compte des spécificités des départements d'outre-mer, les décrets pris en application de la présente loi en préciseront les adaptations nécessaires ainsi que les modalités particulières d'intervention de chaque office pour ces départements."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000641179",
+  "type": "statute",
+  "title": "Ordonnance n° 2006-1548 du 7 décembre 2006",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000641179",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "Les établissements de l'élevage mentionnés à l'article L. 653-7 du code rural demeurent chargés de l'enregistrement et du contrôle des performances des ruminants jusqu'à la désignation des opérateurs mentionnés à l'article L. 653-10 de ce code et au plus tard jusqu'au 31 décembre 2008."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "Le Premier ministre et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

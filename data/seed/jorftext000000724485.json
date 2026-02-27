@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000724485",
+  "type": "statute",
+  "title": "Loi n° 96-62 du 29 janvier 1996",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000724485",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Dans l'ensemble des dispositions législatives non visées par la présente loi, toute référence à la première ou à la seconde session ordinaire du Parlement est remplacée par une référence à la session ordinaire du Parlement telle qu'elle a été instituée par la loi constitutionnelle n° 95-880 du 4 août 1995."
+    }
+  ]
+}

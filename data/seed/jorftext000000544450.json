@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000544450",
+  "type": "statute",
+  "title": "Loi n° 93-992 du 10 août 1993",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000544450",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les dispositions des sixième et septième alinéas de l'article 78-2 du code de procédure pénale, dans leur rédaction issue de la présente loi, sont applicables à Mayotte."
+    }
+  ]
+}

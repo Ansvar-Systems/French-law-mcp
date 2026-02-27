@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000246802",
+  "type": "statute",
+  "title": "Ordonnance n° 2003-1188 du 11 décembre 2003",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000246802",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L'Office national des forêts peut, pour les adjudications publiques à intervenir au cours du premier semestre 2004 en vue de la location du droit de chasse dans les forêts et terrains à boiser figurant sur les listes prévues par l'article L. 121-2 du code forestier, accorder à l'ancien titulaire d'une licence de chasse sur le lot soumis à adjudication la priorité reconnue par l'article L. 137-3 du même code au locataire sortant, au prix de l'enchère la plus élevée, si, au cours des six années précédant l'adjudication, l'intéressé a été, sans interruption, l'attributaire de cette licence.Un décret en Conseil d'Etat fixe les conditions d'application du présent article."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le Premier ministre, la ministre de l'écologie et du développement durable et le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

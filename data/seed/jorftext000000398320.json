@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000398320",
+  "type": "statute",
+  "title": "Loi n° 2000-121 du 16 février 2000",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000398320",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi entrera en vigueur à compter du prochain renouvellement général de l'Assemblée nationale."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000615822",
+  "type": "statute",
+  "title": "Ordonnance n° 2006-1224 du 5 octobre 2006",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000615822",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Article 62",
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le garde des sceaux, ministre de la justice, et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

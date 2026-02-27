@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000159278",
+  "type": "statute",
+  "title": "Loi n° 90-397 du 11 mai 1990",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000159278",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "artunique",
+      "section": "unique",
+      "title": "Article unique",
+      "content": "Est autorisée la ratification du protocole fait à Paris le 16 novembre 1982 portant modification de la convention du 29 juillet 1960 sur la responsabilité civile dans le domaine de l'énergie nucléaire, amendée par le protocole additionnel du 28 janvier 1964, et le protocole fait à Paris le 16 novembre 1982 portant modification de la convention du 31 janvier 1963 complémentaire à la convention de Paris du 29 juillet 1960 sur la responsabilité civile dans le domaine de l'énergie nucléaire, amendée par le protocole additionnel du 28 janvier 1964 (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000522261",
+  "type": "statute",
+  "title": "Ordonnance n° 45-26 du 8 janvier 1945",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522261",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est expressément constatée la nullité de l'acte de l'autorité de fait se disant Gouvernement de l'Etat français dit loi n° 3338 du 15 août 1944, relatif aux rétributions scolaires dans les établissements publics de l'enseignement secondaire. Cette constatation de nullité ne porte pas atteinte aux effets résultant de l'application antérieure à l'entrée en vigueur de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+    }
+  ]
+}

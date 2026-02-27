@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000020176274",
+  "type": "statute",
+  "title": "Ordonnance n° 2009-105 du 30 janvier 2009",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020176274",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Les articles 2 à 5 entrent en vigueur six mois après la publication de la présente ordonnance, à l'exception du 1° de l'article 2 qui entre en vigueur neuf mois après cette publication."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi et la garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

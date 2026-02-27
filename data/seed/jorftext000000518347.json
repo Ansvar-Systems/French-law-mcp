@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000518347",
+  "type": "statute",
+  "title": "Loi n° 73-970 du 18 octobre 1973",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000518347",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Sont validés les arrêtés pris par le ministre chargé de l'agriculture à l'effet de prononcer l'extension de conventions collectives ou accords instituant ou modifiant un régime de retraite et de prévoyance en faveur des salariés mentionnés à l'article 1er."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000032918268",
+  "type": "statute",
+  "title": "Ordonnance n°2016-982 du 20 juillet 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032918268",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article 18",
+      "content": "Le Premier ministre, le ministre de la défense, le ministre de l'intérieur et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000447486",
+  "type": "statute",
+  "title": "Ordonnance n° 2005-804 du 18 juillet 2005",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000447486",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "Les dispositions de l'article 1er de la présente ordonnance sont applicables à compter du 1er janvier 2007."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17",
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le ministre de la santé et des solidarités et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

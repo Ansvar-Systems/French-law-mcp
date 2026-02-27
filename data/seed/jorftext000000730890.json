@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000730890",
+  "type": "statute",
+  "title": "Loi n° 96-87 du 5 février 1996",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000730890",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance, avant le 15 septembre 1996, les mesures législatives nécessaires à la détermination d'un statut général des fonctionnaires de la collectivité territoriale, des communes et des établissements publics de Mayotte, en vue de tenir compte des adaptations nécessitées par sa situation particulière.Le projet d'ordonnance est soumis pour avis au conseil général de Mayotte ; cet avis est émis dans le délai d'un mois ; ce délai expiré, l'avis est réputé avoir été donné."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Un projet de loi de ratification de l'ordonnance prévue à l'article 1er de la présente loi, accompagné de l'avis du conseil général de Mayotte, sera déposé devant le Parlement au plus tard le 2 novembre 1996."
+    }
+  ]
+}

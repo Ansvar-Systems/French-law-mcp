@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000049602933",
+  "type": "statute",
+  "title": "LOI n°2024-475 du 27 mai 2024",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049602933",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi entre en vigueur à la rentrée scolaire 2024."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Dans un délai de dix-huit mois à compter de l'entrée en vigueur de la présente loi, le Gouvernement remet au Parlement un rapport sur la situation des accompagnants des élèves en situation de handicap intervenant pendant le temps scolaire et le temps de pause méridienne. Ce rapport indique notamment le nombre d'élèves concernés par ces accompagnements ainsi que le nombre d'élèves ne bénéficiant pas d'un accompagnement en dépit d'une prescription de la maison départementale des personnes handicapées. Il fait également un état des lieux des prescriptions des maisons départementales des personnes handicapées pour le temps scolaire et le temps de pause méridienne.La présente loi sera exécutée comme loi de l'Etat."
+    }
+  ]
+}

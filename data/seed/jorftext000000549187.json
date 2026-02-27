@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000549187",
+  "type": "statute",
+  "title": "Loi n° 94-585 du 13 juillet 1994",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000549187",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée la ratification du protocole d'adhésion de la République hellénique à l'Union de l'Europe occidentale, fait à Rome le 20 novembre 1992, et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000361983",
+  "type": "statute",
+  "title": "Loi n° 93-1420 du 31 décembre 1993",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000361983",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Les dispositions des articles 1er à 9 de la présente loi entreront en vigueur à la date d'entrée en vigueur de l'accord sur l'Espace économique européen."
+    }
+  ]
+}

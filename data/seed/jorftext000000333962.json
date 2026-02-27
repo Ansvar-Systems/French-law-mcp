@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000333962",
+  "type": "statute",
+  "title": "Loi n° 75-1258 du 27 décembre 1975",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000333962",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Il sera procédé, dans un délai maximum d'un an à compter de la promulgation de la présente loi, à la revision du taux d'invalidité des sapeurs-pompiers non professionnels titulaires d'une pension d'invalidité au titre de l'article 13 de la loi de finances rectificative n° 62-873 du 31 juillet 1962. Dans un délai dont la durée est fixée par décret, l'intéressé peut opter pour le maintien des avantages acquis au titre de ladite loi."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Les dispositions de l'article 13 de la loi n° 62-873 du 31 juillet 1962 sont abrogées."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "Les modalités d'application de la présente loi sont fixées par décret en Conseil d'Etat."
+    }
+  ]
+}

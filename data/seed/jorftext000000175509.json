@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000175509",
+  "type": "statute",
+  "title": "Loi n° 92-575 du 1 juillet 1992",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000175509",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée la ratification du traité d'amitié et de solidarité entre la République française et la République de Pologne, signé à Paris le 9 avril 1991 et dont le texte est annexé à la présente loi (2)."
+    }
+  ]
+}

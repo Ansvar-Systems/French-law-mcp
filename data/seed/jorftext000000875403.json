@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000875403",
+  "type": "statute",
+  "title": "Loi n° 72-1138 du 22 décembre 1972",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000875403",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les aérodromes dont l'emprise s'étend sur le ressort de plusieurs juridictions répressives de même catégorie peuvent être rattachés par décret au ressort de l'une de ces juridictions pour l'application des dispositions concernant la compétence territoriale en matière pénale.Lorsqu'un aérodrome s'étendant sur plusieurs départements a été rattaché au ressort d'un tribunal correctionnel dans les conditions prévues à l'alinéa précedant, la cour d'assises du département dans lequel le tribunal a son siège est territorialement compétente."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les juridictions d'instruction ou de jugement dont la compétence territoriale se trouvera réduite à la date d'entrée en vigueur d'un décret pris en application de l'article précédent demeureront compétentes pour connaître des procédures introduites devant elles antérieurement à cette date.Lorsque ces procédures auront été soumises à une juridiction d'instruction, elles seront, en cas de renvoi, déférées à la juridiction de jugement qui aurait été compétente antérieurement à la même date."
+    }
+  ]
+}

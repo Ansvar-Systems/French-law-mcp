@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000029785572",
+  "type": "statute",
+  "title": "ORDONNANCE n° 2014-1380 du 21 novembre 2014",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029785572",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les dispositions relatives à la formation initiale et continue des conducteurs routiers prévues aux articles L. 3314-1 à L. 3314-3 du code des transports sont applicables à Mayotte à compter du 1er janvier 2016.Les conducteurs mentionnés à l'article L. 3521-4 du même code satisfont à l'obligation de formation continue prévue par le décret pris en application de l'article L. 3314-3 de ce code avant le 1er janvier 2019."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

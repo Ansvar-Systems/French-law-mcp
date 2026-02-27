@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000051376542",
+  "type": "statute",
+  "title": "LOI n°2025-272 du 25 mars 2025",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051376542",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée l'approbation de l'accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres, d'une part, et la République d'Arménie, d'autre part, signé à Bruxelles le 15 novembre 2021, et dont le texte est annexé à la présente loi (2)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Est autorisée l'approbation de l'accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres, d'une part, et l'Ukraine, d'autre part, signé à Kiev le 12 octobre 2021, et dont le texte est annexé à la présente loi (2)."
+    }
+  ]
+}

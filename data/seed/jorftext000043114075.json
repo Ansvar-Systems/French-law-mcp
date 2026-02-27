@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000043114075",
+  "type": "statute",
+  "title": "Ordonnance n°2021-134 du 10 février 2021",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043114075",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les dispositions du I et, s'agissant des adjoints de sécurité, du III de l'article 45 de la loi du 17 juin 2020 susvisée sont rétablies à compter de la date d'entrée en vigueur de la présente ordonnance. Pour leur application, la période mentionnée au I de l'article 45 est celle comprise entre cette date et la fin de la période de l'état d'urgence sanitaire déclaré par le décret du 14 octobre 2020 susvisé et prorogé dans les conditions prévues à l'article L. 3131-14 du code de la santé publique augmentée d'une durée de six mois."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le Premier ministre, le ministre de l'intérieur, le ministre des outre-mer et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

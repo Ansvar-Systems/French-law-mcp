@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000029140364",
+  "type": "statute",
+  "title": "ORDONNANCE n°2014-699 du 26 juin 2014",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029140364",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "content": "Le Premier ministre et le ministre du travail, de l'emploi et du dialogue social sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

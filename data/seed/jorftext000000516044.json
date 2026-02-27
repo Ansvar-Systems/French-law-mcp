@@ -1,0 +1,48 @@
+{
+  "id": "jorftext000000516044",
+  "type": "statute",
+  "title": "Loi n° 81-82 du 2 février 1981",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000516044",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Article 52",
+      "content": "Toute référence faite, dans les textes en vigueur, à la procédure de flagrant délit prévue aux articles 71-1, 72-2 et 393 à 397 du code de procédure pénale vise désormais la procédure de la saisine directe prévue par les articles 393 à 397-7 du même code."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Article 66",
+      "content": "(Les dispositions de cet article ont été déclarées contraires à la Constitution par décision du Conseil constitutionnel en date du 20 janvier 1981)."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Article 70",
+      "content": "Toutes les références à la tutelle pénale dans les textes en vigueur sont supprimées."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Article 80",
+      "content": "A compter de la promulgation de la présente loi, les articles 316-5 à 316-7 du code des communes seront applicables dans les trois départements de la Moselle, du Bas-Rhin et du Haut-Rhin pour ce qui concerne les actions pénales appartenant à la commune et que celle-ci néglige d'exercer."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Article 92",
+      "content": "(Les dispositions de cet article ont été déclarées contraires à la Constitution par décision du Conseil constitutionnel en date du 20 janvier 1981)."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Article 94",
+      "content": "(Les dispositions de cet article ont été déclarées contraires à la Constitution par décision du Conseil constitutionnel en date du 20 janvier 1981)."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000030621128",
+  "type": "statute",
+  "title": "ORDONNANCE n°2015-558 du 21 mai 2015",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030621128",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les succursales d'établissements de crédit ayant leur siège social dans un Etat qui n'est ni membre de l'Union européenne, ni partie à l'accord sur l'Espace économique européen, qui ont été agréées avant la date de publication de la présente ordonnance, disposent d'un délai de dix-huit mois à compter de cette date pour produire l'engagement de l'établissement de crédit dont elles dépendent prévu au dernier alinéa du III de l'article L. 511-10 du code monétaire et financier dans sa rédaction issue de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le Premier ministre, le ministre des finances et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

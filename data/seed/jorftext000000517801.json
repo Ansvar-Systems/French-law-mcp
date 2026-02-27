@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000517801",
+  "type": "statute",
+  "title": "Loi n° 52-336 du 25 mars 1952",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000517801",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Dans le cas prévu au deuxième alinéa de l' article 6 de la loi du 29 juillet 1881, les dispositions de l'ordonnance du 26 août 1944 qui concernent le directeur de la publication, à l'exception de celles prévues à l'article 7 de ladite ordonnance, sont applicables au codirecteur de la publication.Le recouvrement des amendes et des dommages-intérêts auxquels le codirecteur de la publication peut être condamné en application de l'alinéa précédent peut être poursuivi sur l'actif de l'entreprise."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "En ce qui concerne les journaux ou écrits périodiques dont le directeur de la publication bénéficie, à la date de la promulgation de la présente loi, de l'immunité prévue par l'article 22 de la Constitution, le codirecteur de la publication devra être nommé dans le délai d'un mois à compter de ladite promulgation. Dans le même délai, une déclaration sera faite au Parquet à l'effet de compléter la déclaration prévue à l'article 7 de la loi du 29 juillet 1881 par la mention du nom et de la demeure du codirecteur de la publication."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "La présente loi est applicable aux territoires d'outre-mer."
+    }
+  ]
+}

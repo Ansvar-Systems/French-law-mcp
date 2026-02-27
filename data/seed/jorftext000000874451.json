@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000874451",
+  "type": "statute",
+  "title": "Loi n° 70-1265 du 23 décembre 1970",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000874451",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Sous réserve des accords amiables déjà intervenus et des décisions judiciaires passées en force de chose jugée, les dispositions de la présente loi sont applicables aux successions ouvertes et non encore liquidées à la date de son entrée en vigueur."
+    }
+  ]
+}

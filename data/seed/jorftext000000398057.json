@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000398057",
+  "type": "statute",
+  "title": "Loi n° 2002-1 du 2 janvier 2002",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000398057",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Lors d'un appel d'offres lancé par une société d'économie mixte locale, les entreprises présentant une candidature ou une offre ne peuvent être exclues du seul fait qu'elles sont actionnaires de la société d'économie mixte, sauf si le règlement de la consultation le prévoit expressément."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17",
+      "content": "Les dispositions des neuvième, dixième et quatorzième alinéas de l'article L. 1524-5 du code général des collectivités territoriales sont applicables aux élus locaux agissant en tant que mandataires des collectivités territoriales ou de leurs groupements au sein d'une société d'assurance mutuelle, créée avant la date de promulgation de la présente loi, à laquelle a adhéré la collectivité ou le groupement qui les a mandatés."
+    }
+  ]
+}

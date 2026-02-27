@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000043210190",
+  "type": "statute",
+  "title": "Ordonnance n°2021-235 du 3 mars 2021",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043210190",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "La présente ordonnance entre en vigueur le 1er juillet 2021."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Le Premier ministre, la ministre de la transition écologique et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

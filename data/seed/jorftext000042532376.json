@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000042532376",
+  "type": "statute",
+  "title": "Ordonnance n°2020-1395 du 18 novembre 2020",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042532376",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L'obligation de compatibilité avec les schémas régionaux des carrières prévue au II de l'article L. 515-3 du code de l'environnement ne s'applique pas aux autorisations et aux enregistrements délivrés par l'autorité administrative sur le fondement du titre VIII du livre Ier et du titre Ier du livre V du même code, lorsque ces décisions ont pour seul objet de permettre l'ouverture de nouvelles carrières ainsi que la réouverture ou l'extension de carrières existantes dont la production est nécessaire à l'approvisionnement du chantier de conservation et de restauration de la cathédrale Notre-Dame de Paris."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le Premier ministre, la ministre de la transition écologique et la ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

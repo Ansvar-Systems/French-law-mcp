@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000034150658",
+  "type": "statute",
+  "title": "LOI n°2017-285 du 6 mars 2017",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034150658",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Lorsqu'un acte notarié de notoriété porte sur un immeuble situé en Corse et constate une possession répondant aux conditions de la prescription acquisitive, il fait foi de la possession, sauf preuve contraire. Il ne peut être contesté que dans un délai de cinq ans à compter de la dernière des publications de cet acte par voie d'affichage, sur un site internet et au service de la publicité foncière.\n\nLe présent article s'applique aux actes de notoriété dressés et publiés avant le 31 décembre 2037. Lesdits actes sont exonérés de la taxe de publicité foncière.\n\nUn décret en Conseil d'Etat fixe les conditions d'application du présent article."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Pour les indivisions constatées par un acte notarié de notoriété établi dans les conditions prévues à l'article 1er de la présente loi à défaut de titre de propriété existant, le ou les indivisaires titulaires de plus de la moitié des droits indivis peuvent effectuer les actes prévus aux 1° à 4° de l'article 815-3 du code civil.\n\nToutefois, le consentement du ou des indivisaires titulaires d'au moins deux tiers des droits indivis est requis pour effectuer tout acte qui ne ressortit pas à l'exploitation normale des biens indivis et pour effectuer tout acte de disposition autre que ceux mentionnés au 3° du même article 815-3.\n\nLe ou les indivisaires sont tenus d'en informer les autres indivisaires."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "L'article 24 de la loi du 31 mars 1884 concernant le renouvellement du cadastre, la péréquation de l'impôt foncier et la conservation du cadastre des départements de la Moselle, du Bas-Rhin et du Haut-Rhin est ainsi modifié :\n\n1° Le troisième alinéa est ainsi rédigé :\n\n\" Les deux premiers alinéas ne font pas obstacle à l'application du titre XXI du livre III du code civil. \" ;\n\n2° Le dernier alinéa est supprimé."
+    }
+  ]
+}

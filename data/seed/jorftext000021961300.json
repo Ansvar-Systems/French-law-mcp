@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000021961300",
+  "type": "statute",
+  "title": "Ordonnance n° 2010-250 du 11 mars 2010",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021961300",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 21 mars 2010."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, et la ministre de la santé et des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

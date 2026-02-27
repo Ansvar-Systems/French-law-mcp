@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000886667",
+  "type": "statute",
+  "title": "Loi n° 79-1131 du 28 décembre 1979",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886667",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Dans tous les textes législatifs mentionnant des amendes encourues en matière de contraventions de police, les chiffres \"600 F\", \"1000 F\" et \"2000 F\" sont remplacés, respectivement, par les chiffres \"1200 F\", \"3000 F\" et \"6000 F\"."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Tous les trois ans, le Gouvernement fera rapport au Parlement sur l'évolution du taux des amendes contraventionnelles en tenant compte de la situation économique et notamment de l'évolution du coût de la vie."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "La présente loi entrera en vigueur à une date qui sera fixée par décret en Conseil d'Etat et qui ne pourra être postérieure au 1er octobre 1980.La présente loi sera exécutée comme loi de l'Etat."
+    }
+  ]
+}

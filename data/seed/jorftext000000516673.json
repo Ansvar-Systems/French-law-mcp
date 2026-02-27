@@ -1,0 +1,42 @@
+{
+  "id": "jorftext000000516673",
+  "type": "statute",
+  "title": "Ordonnance n° 62-918 du 8 août 1962",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000516673",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les dispositions de l'article 8 de l'ordonnance susvisée du 29 décembre 1958 concernant la représentation des activités économiques et sociales algériennes et sahariennes sont abrogées. Le mandat des conseillers nommés au titre de cette représentation prend fin à la date de publication de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "En vue d'assurer la représentation des intérêts économiques et sociaux français en Algérie et des activités se rapportant à la coopération économique entre la France et l'Algérie, le nombre des personnalités visées au 8° de l'article 7 de l'ordonnance du 29 décembre 1958 est porté à 25."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le bureau du Conseil économique, social et environnemental est habilité à prendre les dispositions nécessaires au règlement de la situation des conseillers qui cessent d'appartenir à cette assemblée en exécution des dispositions de l'article 1er ci-dessus."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le mandat des personnalités nommées en application des dispositions de l'article 2 de la présente ordonnance prend fin lors du renouvellement intégral du Conseil économique, social et environnemental."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le Premier ministre et le ministre d'Etat chargé des affaires algériennes sont chargés de l'exécution de la présente ordonnance qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

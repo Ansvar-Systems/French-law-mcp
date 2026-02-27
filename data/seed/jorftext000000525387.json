@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000525387",
+  "type": "statute",
+  "title": "Loi n° 90-1130 du 19 décembre 1990",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000525387",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "L'Agence pour la qualité de l'air, l'Agence française pour la maîtrise de l'énergie et l'Agence nationale pour la récupération et l'élimination des déchets sont dissoutes.Les biens, droits et obligations de ces trois établissements publics sont dévolus à l'Agence de l'environnement et de la maîtrise de l'énergie."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Il sera procédé à l'harmonisation des conditions d'emploi et de rémunération de tous les personnels de l'agence avant le 31 décembre 1991."
+    }
+  ]
+}

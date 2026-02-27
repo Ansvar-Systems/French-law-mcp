@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000209254",
+  "type": "statute",
+  "title": "Loi n° 2001-339 du 19 avril 2001",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000209254",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée la ratification du traité d'entraide judiciaire en matière pénale entre la France et les Etats-Unis d'Amérique (ensemble deux annexes), signé à Paris le 10 décembre 1998, et dont le texte est annexé à la présente loi (2).(2) Ce texte sera publié ultérieurement au Journal officiel de la République française."
+    }
+  ]
+}

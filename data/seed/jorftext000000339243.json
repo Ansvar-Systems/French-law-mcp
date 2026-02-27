@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000339243",
+  "type": "statute",
+  "title": "Loi n° 79-11 du 3 janvier 1979",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339243",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Les salariés involontairement privés d'emploi, qui bénéficient d'un revenu de remplacement et qui sont engagés par contrat à durée déterminée, retrouvent, à l'expiration du contrat, l'intégralité des droits auxquels ils auraient pu prétendre, sans préjudice des droits nouveaux que le contrat leur a fait acquérir.Les dispositions des articles L. 122-1 et L. 122-3 du code du travail ne peuvent avoir pour effet de supprimer ou de réduire les avantages conventionnels, en particulier en matière d'aide aux travailleurs involontairement privés d'emploi."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Les dispositions des articles 1er à 7 sont applicables aux contrats conclus après la date de promulgation de la présente loi.Les dispositions de l'article 8 sont applicables aux contrats venant à expiration après cette date."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000043535464",
+  "type": "statute",
+  "title": "Ordonnance n°2021-658 du 26 mai 2021",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043535464",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les dispositions de la présente ordonnance sont applicables aux agents affiliés au régime des pensions des ouvriers des établissements industriels de l'Etat, selon des modalités fixées par décret en Conseil d'Etat."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

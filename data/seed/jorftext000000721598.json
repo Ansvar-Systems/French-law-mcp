@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000721598",
+  "type": "statute",
+  "title": "Loi n° 91-1257 du 17 décembre 1991",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000721598",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le II de l'article précédent est applicable dans les territoires d'outre-mer et à Mayotte."
+    }
+  ]
+}

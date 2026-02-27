@@ -1,0 +1,42 @@
+{
+  "id": "jorftext000036915336",
+  "type": "statute",
+  "title": "Ordonnance n°2018-361 du 16 mai 2018",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036915336",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "I. - A modifié les dispositions suivantes :\n\nII.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.\n\n- Code des assurances"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.\n\n-Code de la mutualité"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.\n\n-Code de la sécurité sociale."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15",
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er octobre 2018, à l'exception des dispositions du II de l'article L. 511-2 du code des assurances, dans leur rédaction résultant de la présente ordonnance, qui entrent en vigueur le 23 février 2019."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "Le Premier ministre, la ministre des solidarités et de la santé et le ministre de l'économie et des finances sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

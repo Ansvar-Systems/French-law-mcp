@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000032371987",
+  "type": "statute",
+  "title": "Ordonnance n°2016-413 du 7 avril 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032371987",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er juillet 2016."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

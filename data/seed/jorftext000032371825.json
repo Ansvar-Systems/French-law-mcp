@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000032371825",
+  "type": "statute",
+  "title": "Ordonnance n°2016-411 du 7 avril 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032371825",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les dispositions de l'article 1er entrent en vigueur le 1er juillet 2016."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre et la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

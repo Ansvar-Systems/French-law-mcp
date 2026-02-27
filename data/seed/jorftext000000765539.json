@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000765539",
+  "type": "statute",
+  "title": "Loi n° 2000-627 du 6 juillet 2000",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000765539",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Article 54",
+      "content": "Le chapitre VII du titre Ier ainsi que les articles 30, 43-1 et le dernier alinéa de l'article 18-2 de la loi n° 84-610 du 16 juillet 1984 précitée sont abrogés."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Article 56",
+      "content": "Une association sportive, de jeunesse ou d'éducation populaire agréée peut constituer une commission composée de mineurs de plus de douze ans pour la conception d'un projet collectif ayant pour objet les activités physiques et sportives, leur promotion ou leur développement. La commission peut être chargée, sous le contrôle et la responsabilité de l'association dont elle dépend, de l'exécution du projet."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Article 61",
+      "content": "Sont applicables à la collectivité territoriales de Mayotte les dispositions :1° De la loi n° 93-1282 du 6 décembre 1993 relative à la sécurité des manifestations sportives ;2° De la loi n° 98-146 du 6 mars 1998 relative à la sécurité et à la promotion d'activités sportives ;3° De la loi n° 99-223 du 23 mars 1999 précitée ;4° De la loi n° 99-493 du 15 juin 1999 relative à la délivrance des grades dans les disciplines relevant des arts martiaux ;5° De la loi n° 99-1124 du 28 décembre 1999 portant diverses mesures relatives à l'organisation d'activités physiques et sportives ;6° De la présente loi."
+    }
+  ]
+}

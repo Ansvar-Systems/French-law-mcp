@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000705056",
+  "type": "statute",
+  "title": "Loi n° 79-1204 du 31 décembre 1979",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000705056",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Les articles 2 et 11 de la loi n° 75-17 du 17 janvier 1975 ainsi que les articles L. 161-1 et L. 650 du code de la santé publique sont abrogés."
+    }
+  ]
+}

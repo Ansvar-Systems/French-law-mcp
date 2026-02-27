@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000027805931",
+  "type": "statute",
+  "title": "Ordonnance n°2013-714\n du 5 août 2013",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027805931",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "La présente ordonnance entre en vigueur le 1er septembre 2013.Toutefois, les dispositions de ses articles 6 et 7 ne sont pas applicables aux décisions publiques prises en application des dispositions du code forestier et du code rural et de la pêche maritime mentionnées à ces articles pour lesquelles une consultation du public a été engagée avant cette date dans les conditions prévues par les dispositions législatives qui leur étaient applicables antérieurement à celle-ci."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Le Premier ministre et le ministre de l'écologie, du développement durable et de l'énergie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

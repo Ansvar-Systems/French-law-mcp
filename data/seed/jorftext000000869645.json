@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000869645",
+  "type": "statute",
+  "title": "Loi du 17 décembre 1941",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000869645",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Sauf pour les eaux-de-vie bénéficiant des appellations d'origine contrôlées Cognac ou Armagnac, les eaux-de-vie définies ou contrôlées par les décrets pris en exécution des articles 21 du décret-loi du 30 juillet 1935 et 1er de la loi du 13 janvier 1941 doivent, à la sortie des établissements producteurs, être expédiées sous couvert de titres de mouvement libellés sur papier blanc, certifiant leur origine et la substance dont elles proviennent.\n\nL'emploi de ces titres de mouvement est interdit pour toutes autres eaux-de-vie. Leur délivrance, à la sortie des lieux de production, entraîne la perception d'une taxe spéciale fixée à 10 fr. 80 par hectolitre d'alcool pur. Cette taxe est assise et recouvrée comme le droit de consommation et sous les sanctions édictées pour les enlèvements de spiritueux sans expédition. Son produit est attribué à raison d'un quart au Trésor, de moitié au Comité national des appellations d'origine institué par l'article 20 du décret-loi du 30 juillet 1935 et d'un quart au fonds de propagande créé par l'article 16 de la loi du 4 juillet 1931, à charge pour ce dernier de rétrocéder la part provenant des eaux-de-vie de cidre ou de poiré aux organisations s'occupant de la propagande en faveur des produits dérivés de la pomme."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les eaux-de-vie, possédées par les négociants en gros ou les producteurs lors de la publication des décrets visés à l'article précédent, et remplissant les conditions prévues par ces décrets, pourront circuler sous le couvert des titres de mouvement mentionnés au même article, moyennant le payement de la taxe spéciale, soit dans les trois mois suivant l'expertise prévue à l'alinéa 3 ci-après, soit à la demande des intéressés, au fur et à mesure des expéditions.\n\nPour être admis au bénéfice de ces dispositions, les négociants ou producteurs devront déclarer à la recette buraliste, dans les dix jours de la publication au Journal officiel des décrets visés à l'article précédent, les quantités d'eaux-de-vie pour lesquelles ils revendiquent le droit au titre de mouvement spécial.\n\nLe contrôle qualitatif des produits ainsi déclarés sera assuré par une commission d'experts constituée et fonctionnant dans les conditions prévues par le décret du 9 décembre 1937."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le présent décret sera publié au Journal officiel et exécuté comme loi de l'Etat."
+    }
+  ]
+}

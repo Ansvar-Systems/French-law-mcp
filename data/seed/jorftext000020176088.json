@@ -1,0 +1,36 @@
+{
+  "id": "jorftext000020176088",
+  "type": "statute",
+  "title": "Ordonnance n° 2009-104 du 30 janvier 2009",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020176088",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article 19",
+      "content": "Les personnes mentionnées à l'article L. 561-2 du code monétaire et financier appliquent à leur clientèle existante les nouvelles obligations de vigilance prévues aux articles L. 561-5 à L. 561-14 de ce code, dans les meilleurs délais appréciés en fonction des risques et au plus tard dans un délai d'un an à compter de la publication du dernier des décrets prévus pour l'application de ces articles et, pour les relations d'affaires inactives, à leur première réactivation."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20",
+      "content": "Les personnes exerçant l'activité mentionnée à l'article L. 123-11-2 du code de commerce disposent, pour se mettre en conformité avec ses dispositions, d'un délai d'un an à compter de la publication du décret prévu à l'article L. 123-11-7 de ce code."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "content": "Les personnes exerçant la profession de changeur manuel avant l'entrée en vigueur du régime d'autorisation prévu à l'article L. 520-3 du code monétaire et financier bénéficient d'un délai de deux ans à compter de la publication des textes d'application de la présente ordonnance pour obtenir l'autorisation prévue à ce même article.\n\nPendant ce délai, elles peuvent continuer à exercer légalement leur activité jusqu'à ce que l'autorisation sollicitée en application de l'article L. 520-3 précité leur soit accordée ou refusée, sous réserve qu'elles fournissent une attestation selon des modalités définies par arrêté du ministre chargé de l'économie dans les six mois qui suivent sa publication."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Article 22",
+      "content": "Le Premier ministre, la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, la ministre de l'économie, de l'industrie et de l'emploi et la garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

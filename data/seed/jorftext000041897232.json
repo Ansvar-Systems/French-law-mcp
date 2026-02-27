@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000041897232",
+  "type": "statute",
+  "title": "Ordonnance n°2020-595 du 20 mai 2020",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041897232",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "A l'exception des dispositions du 3° de son article 13 qui sont applicables à compter du 1er juin 2020, les dispositions de la présente ordonnance entrent en vigueur immédiatement. Elles sont applicables aux instances en cours à cette date.Les dispositions du premier alinéa sont applicables dans les îles Wallis et Futuna."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17",
+      "content": "Le Premier ministre et la garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française"
+    }
+  ]
+}

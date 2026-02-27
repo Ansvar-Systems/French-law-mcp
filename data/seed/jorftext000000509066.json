@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000509066",
+  "type": "statute",
+  "title": "Loi n° 88-1242 du 30 décembre 1988",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509066",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée la ratification de la convention internationale du travail n° 158 concernant la cessation de la relation de travail à l'initiative de l'employeur, adoptée à Genève le 22 juin 1982 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française)."
+    }
+  ]
+}

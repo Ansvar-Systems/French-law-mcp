@@ -1,0 +1,36 @@
+{
+  "id": "jorftext000034581861",
+  "type": "statute",
+  "title": "Ordonnance n°2017-762 du 4 mai 2017",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034581861",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le code du cinéma et de l'image animée est modifié conformément aux dispositions des articles 2 à 41 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Article 42",
+      "content": "Les formules d'accès au cinéma dont l'agrément arrive à échéance en 2017 sont prorogées de six mois à compter de leur date d'échéance.Les articles 15 à 17 s'appliquent pour l'instruction des demandes de renouvellement de ces formules."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Article 43",
+      "content": "Le 1° de l'article 2 et l'article 21 entrent en vigueur le 1er janvier 2018."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Article 44",
+      "content": "Le Premier ministre et la ministre de la culture et de la communication sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

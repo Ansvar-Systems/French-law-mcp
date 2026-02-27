@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000558895",
+  "type": "statute",
+  "title": "Loi n° 96-130 du 21 février 1996",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000558895",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée l'approbation de la convention relative au blanchiment, au dépistage, à la saisie et à la confiscation des produits du crime, faite à Strasbourg le 8 novembre 1990 et signée à Strasbourg le 5 juillet 1991, dont le texte est annexé à la présente loi (1).(1) Il sera publié ultérieurement au Journal officiel de la République française."
+    }
+  ]
+}

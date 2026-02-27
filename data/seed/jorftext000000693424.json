@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000693424",
+  "type": "statute",
+  "title": "Loi n° 70-1199 du 21 décembre 1970",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000693424",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Article 98",
+      "content": "La taxe sur l'électricité visée au 2e alinéa du paragraphe II de l'article 8 de la loi n° 69-1160 du 24 décembre 1969 créée en substitution de la surtaxe ou majoration de tarifs dont disposaient les collectivités ayant institué une distribution d'énergie électrique ou leurs groupements pour la couverture de leurs charges d'électrification, continuera à être établie et perçue directement par ceux-ci comme précédemment.Il en est de même en cas de recours aux paragraphes III et IV du même article 8.Le présent texte a un caractère interprétatif."
+    }
+  ]
+}

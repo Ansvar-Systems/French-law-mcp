@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000032251619",
+  "type": "statute",
+  "title": "Ordonnance n°2016-316 du 17 mars 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032251619",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le Premier ministre et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000038655728",
+  "type": "statute",
+  "title": "Ordonnance n°2019-610 du 19 juin 2019",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038655728",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La deuxième partie du code de la défense est modifiée conformément aux dispositions des articles 2 à 7 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le livre III du code de la sécurité intérieure est modifié conformément aux dispositions des articles 9 à 15 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, la ministre des armées, le ministre de l'intérieur et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

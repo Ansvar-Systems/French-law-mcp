@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000188957",
+  "type": "statute",
+  "title": "Loi n° 95-881 du 4 août 1995",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000188957",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Sous réserve des dispositions de l'article 5 modifiant l'article L. 832-2 du code du travail, les dispositions de la présente loi ne sont pas applicables dans les départements d'outre-mer ni dans la collectivité territoriale de Saint-Pierre-et-Miquelon."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Sont abrogées les dispositions de l'article 93 de la loi n° 95-116 du 4 février 1995 portant diverses dispositions d'ordre social."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Les dispositions de la présente loi sont applicables aux embauches réalisées à compter du 1er juillet 1995. Toutefois, les embauches faites entre le 1er et le 30 juin 1995 peuvent donner lieu, jusqu'à l'expiration du mois qui suit la date d'embauche, à la conclusion de conventions de contrat de retour à l'emploi en application de l'article L. 322-4-2 du code du travail dans sa rédaction en vigueur avant la publication de la présente loi.\n\nLes conventions de contrat de retour à l'emploi et les conventions conclues en application de l'article 93 de la loi n° 95-116 du 4 février 1995 précitée demeurent régies jusqu'à leur terme par les dispositions en vigueur à la date de leur conclusion.\n\nPar dérogation aux dispositions de l'article L. 322-4-2 du code du travail, dans sa rédaction issue de la présente loi, les employeurs ayant passé un contrat pour l'emploi des bénéficiaires du revenu minimum d'insertion peuvent, au terme de celui-ci, conclure avec les mêmes salariés un contrat initiative-emploi."
+    }
+  ]
+}

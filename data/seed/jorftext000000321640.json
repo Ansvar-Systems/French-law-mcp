@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000321640",
+  "type": "statute",
+  "title": "Loi n° 88-12 du 5 janvier 1988",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000321640",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La présente loi a pour objet de permettre :1° La restauration et la mise en valeur de monuments classés ou inscrits sur l'inventaire supplémentaire des monuments historiques, ainsi que des objets mobiliers qu'ils contiennent, dont l'état nécessite des travaux importants : édifices civils, militaires et religieux, en particulier les cathédrales, parcs et jardins historiques ;2° La mise en valeur de grands sites archéologiques classés ou inscrits.Elle doit également permettre d'engager et de poursuivre les programmes généraux de travaux sur les monuments classés ou inscrits et sur le patrimoine rural non protégé."
+    }
+  ]
+}

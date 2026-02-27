@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000031279415",
+  "type": "statute",
+  "title": "ORDONNANCE n°2015-1246 du 7 octobre 2015",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031279415",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le titre IV du livre VI du code rural et de la pêche maritime est modifié conformément aux articles 2 à 6."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le Premier ministre et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

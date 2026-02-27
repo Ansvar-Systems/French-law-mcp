@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000021796364",
+  "type": "statute",
+  "title": "Ordonnance du Roi du 20 décembre 1820",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021796364",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il sera établi à Paris, pour tout notre royaume, une Académie royale de médecine."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "content": "Notre Ministre secrétaire d'état au département de l'intérieur est chargé de l'exécution de la présente ordonnance, qui sera insérée au Bulletin des lois."
+    }
+  ]
+}

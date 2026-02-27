@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000019732692",
+  "type": "statute",
+  "title": "Ordonnance n° 2008-1145 du 6 novembre 2008",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019732692",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "L'article 1er entre en vigueur le 1er janvier 2009."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi et la garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

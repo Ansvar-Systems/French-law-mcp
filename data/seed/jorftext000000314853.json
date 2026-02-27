@@ -1,0 +1,36 @@
+{
+  "id": "jorftext000000314853",
+  "type": "statute",
+  "title": "Loi du 23 décembre 1901",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000314853",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Toute fraude commise dans les examens et les concours publics qui ont pour objet l'entrée dans une administration publique ou l'acquisition d'un diplôme délivré par l'Etat constitue un délit."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Quiconque se sera rendu coupable d'un délit de cette nature, notamment en livrant à un tiers ou en communiquant sciemment, avant l'examen ou le concours, à quelqu'une des parties intéressées, le texte ou le sujet de l'épreuve, ou bien en faisant usage de pièces fausses, telles que diplômes, certificats, extraits de naissance ou autres, ou bien en substituant une tierce personne au véritable candidat, sera condamné à un emprisonnement de trois ans et à une amende de 9 000 euros ou à l'une de ces peines seulement."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les mêmes peines seront prononcées contre les complices du délit."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "L'action publique ne fait pas obstacle à l'action disciplinaire dans tous les cas où la loi a prévu cette dernière."
+    }
+  ]
+}

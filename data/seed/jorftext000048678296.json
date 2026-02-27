@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000048678296",
+  "type": "statute",
+  "title": "LOI n°2023-1267 du 27 décembre 2023",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048678296",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "L'ordonnance n° 2022-1607 du 22 décembre 2022 relative à l'apprentissage transfrontalier est ratifiée."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les bourses et les aides financières destinées aux apprentis souhaitant effectuer une mobilité à l'étranger. Ce rapport examine également les perspectives en matière d'harmonisation des dispositifs de soutien financier et d'augmentation des aides financières pour la mobilité des apprentis à l'étranger."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur la bonne désignation d'un référent mobilité au sein de chaque centre de formation d'apprentis.La présente loi sera exécutée comme loi de l'Etat."
+    }
+  ]
+}

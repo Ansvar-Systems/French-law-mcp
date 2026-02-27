@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000501103",
+  "type": "statute",
+  "title": "Loi n° 68-703 du 31 juillet 1968",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000501103",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les médecins des armées assurent la direction et le fonctionnement du service de santé des armées et commandent les formations qui en dépendent.\n\nLes pharmaciens chimistes des armées, sous l'autorité des médecins titulaires des emplois de direction générale du service de santé :\n\na) Collaborent, au même titre que les médecins, à la direction et au fonctionnement du service de santé des armées dans les emplois correspondant à leur spécialisation ;\n\nb) Assurent le commandement et la gestion des établissements du service de santé à activité pharmaceutique.\n\nLes médecins des armées et les pharmaciens chimistes des armées peuvent également être mis à la disposition d'organismes publics nationaux ou internationaux ou d'Etats étrangers pour y remplir des fonctions de leur spécialité.\n\nIls sont assistés des officiers d'administration, des officiers techniciens, des sous-officiers et des personnels militaires féminins du service de santé des armées."
+    }
+  ]
+}

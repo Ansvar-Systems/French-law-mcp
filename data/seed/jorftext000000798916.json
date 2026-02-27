@@ -1,0 +1,36 @@
+{
+  "id": "jorftext000000798916",
+  "type": "statute",
+  "title": "Ordonnance n° 2003-1187 du 11 décembre 2003",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000798916",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les articles 731, 742 et 744 du code rural ancien sont abrogés."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "L'article 20 de la loi du 9 juillet 2001 susvisée est abrogé."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "I. - Les dispositions des II à VII de l'article 1er sont applicables à Mayotte.II. et III. - (paragraphes modificateurs)."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le Premier ministre et le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

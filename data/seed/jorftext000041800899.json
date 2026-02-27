@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000041800899",
+  "type": "statute",
+  "title": "Ordonnance n°2020-427 du 15 avril 2020",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041800899",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "A modifié les dispositions suivantes :\n\nCette modification de l'article 2 a un caractère interprétatif.\n\n- Ordonnance n°2020-306 du 25 mars 2020"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "I. ‒ La présente ordonnance est applicable en Nouvelle-Calédonie et en Polynésie française, à l'exception des articles 1er à 4 et de l'article 12 quater créé par l'article 8 en tant qu'ils s'appliquent à des matières relevant de la compétence de ces collectivités, ainsi que de l'article 12 ter créé par l'article 8. Les articles 5 à 7 ne sont applicables qu'en ce qui concerne les administrations de l'Etat et ses établissements publics.Elle est applicable dans les îles Wallis et Futuna, à l'exception du quatrième alinéa du 5° de l'article premier et des articles 12 ter et 12 quater créés par l'article 8.\n\nII. ‒ A modifié les dispositions suivantes :\n\n- Ordonnance n°2020-306 du 25 mars 2020"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'intérieur, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

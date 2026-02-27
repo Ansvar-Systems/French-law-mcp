@@ -1,0 +1,36 @@
+{
+  "id": "jorftext000000368950",
+  "type": "statute",
+  "title": "Loi n° 97-1019 du 28 octobre 1997",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000368950",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978.Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de recensement.Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont considérés comme dispensés de leurs obligations du service national."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "VII. 3° Les articles L. 12 et L. 13 sont abrogés ;VIII. - L'article L. 30 est abrogé.XII. - 1° L'article L. 66 est abrogé ;"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Une loi ultérieure définira les conditions d'exécution des volontariats civils mentionnés à l'article L. 111-3 du code du service national."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Les dispositions de la présente loi, à l'exception de son article 4, sont applicables aux territoires d'outre-mer et à Mayotte."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000036375729",
+  "type": "statute",
+  "title": "Ordonnance n° 2018-4 du 3 janvier 2018",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036375729",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "I. - Les dispositions du troisième alinéa de l'article L. 6122-9 du code de la santé publique, dans sa rédaction issue du a du 4° de l'article 1er de la présente ordonnance, entrent en vigueur après la publication du décret prévu par l'article L. 6122-20 du même code, et au plus tard le 1er mai 2018.II. - Les dispositions du a du 1° de l'article 1er de la présente ordonnance sont applicables aux autorisations ou renouvellements accordés à compter d'une date, fixée par décret, qui ne peut être postérieure au 1er janvier 2019."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre et la ministre des solidarités et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000367689",
+  "type": "statute",
+  "title": "Loi n° 96-647 du 22 juillet 1996",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000367689",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "(Les paragraphes 1° à 3° et 5° sont modificateurs) ;"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Article 27",
+      "content": "La présente loi est applicable dans les territoires d'outre-mer. Elle est également applicable à Mayotte où elle entrera en vigueur le 1er mai 1997."
+    }
+  ]
+}

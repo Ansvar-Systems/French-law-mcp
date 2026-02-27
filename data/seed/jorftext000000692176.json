@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000692176",
+  "type": "statute",
+  "title": "Loi du 3 juillet 1934",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000692176",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est ratifiée et rendue exécutoire sur le territoire français la convention internationale sur la signalisation routière, signée à Genève le 30 mars 1931, dont le texte est annexé à la présente loi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le ministre chargé des travaux publics, des transports et du tourisme et le ministre de l'intérieur arrêtent, suivant les règles posées par les actes internationaux relatifs à la signalisation routière auxquels la France est partie, les types (formes, dimensions, couleur) des signaux réglementaires.Il sera procédé à la mise en service de ces signaux, ainsi qu'à la suppression de tous panneaux, indications, signaux non conformes aux dispositions de la présente loi et des actes susvisés dans les délais prévus par ceux-ci."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le droit de placer en vue du public, par tous les moyens appropriés, des indications ou signaux concernant, à un titre quelconque, la circulation n'appartient qu'aux administrations nationales, départementales ou communales chargées des services de la voirie.Tous panneaux, indications, signaux ou affiches non conformes aux dispositions du présent article devront être supprimés à l'expiration des contrats intervenus avec les annonceurs et au plus tard dans un délai de deux ans à compter de la promulgation de la présente loi."
+    }
+  ]
+}

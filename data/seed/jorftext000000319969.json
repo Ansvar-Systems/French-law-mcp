@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000319969",
+  "type": "statute",
+  "title": "Loi n° 82-596 du 10 juillet 1982",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000319969",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "I (Paragraphe modificateur).II Un décret fixe les conditions dans lesquelles le conjoint survivant, ou en zone de montagne un enfant héritier copropriétaire, qui a obtenu l'attribution préférentielle d'une entreprise commerciale, artisanale, industrielle ou hôtelière à caractère familial en application du quatrième alinéa de l'article 832 du Code civil bénéficie de prêts à taux bonifiés pour le paiement de la soulte."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20",
+      "content": "Lorsque les parts ont été souscrites ou acquises par un époux avant la date d'entrée en vigueur de la présente loi, la notification faite par le conjoint d'un associé en application de l'article 1832-2 du code civil est soumise aux mêmes conditions d'agrément que celles qui régissent à la date de l'entrée en vigueur de la présente loi la transmission de parts d'un associé à son conjoint."
+    }
+  ]
+}

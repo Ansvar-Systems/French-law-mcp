@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000692960",
+  "type": "statute",
+  "title": "Loi n° 84-604 du 13 juillet 1984",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000692960",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "La caisse des Français de l'étranger disposera, lors de sa création, d'un fonds de trésorerie qui sera constitué par les excédents dégagés par les assurances volontaires du régime des expatriés couvrant les risques maladie, maternité, invalidité, accidents du travail et maladies professionnelles depuis leur mise en place."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "content": "Les dispositions de la présente loi entreront en vigueur le 1er janvier 1985.Toutefois jusqu'à la mise en place de la caisse des Français de l'étranger, la caisse primaire d'assurance maladie de Seine-et-Marne exerce l'ensemble de la gestion qui lui était dévolue par les articles L. 778, L. 778-6 et L. 778-12 du code de la sécurité sociale, ainsi que la gestion des risques mentionnés à l'article 14 de la présente loi.Une convention établit les règles de la mise à disposition de la caisse des Français de l'étranger des locaux et du personnel de la caisse primaire d'assurance maladie de Seine-et-Marne."
+    }
+  ]
+}

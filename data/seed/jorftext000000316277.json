@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000316277",
+  "type": "statute",
+  "title": "Loi n° 47-2395 du 30 décembre 1947",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000316277",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "artunique",
+      "section": "unique",
+      "title": "Article unique",
+      "content": "Le titre de \"Député\" est réservé aux membres de l'Assemblée nationale."
+    }
+  ]
+}

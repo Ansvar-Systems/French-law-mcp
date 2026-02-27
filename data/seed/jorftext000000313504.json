@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000313504",
+  "type": "statute",
+  "title": "Loi n° 56-1180 du 22 novembre 1956",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000313504",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "artunique",
+      "section": "unique",
+      "title": "Article unique",
+      "content": "La présente loi sera exécutée comme loi de l'Etat."
+    }
+  ]
+}

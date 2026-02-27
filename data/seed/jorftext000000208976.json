@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000208976",
+  "type": "statute",
+  "title": "Loi n° 98-1166 du 18 décembre 1998",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000208976",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée la ratification de la convention européenne sur la reconnaissance de la personnalité juridique des organisations internationales non gouvernementales, faite à Strasbourg le 24 avril 1986 et signée par la France le 4 juillet 1996, et dont le texte est annexé à la présente loi."
+    }
+  ]
+}

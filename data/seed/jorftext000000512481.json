@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000512481",
+  "type": "statute",
+  "title": "Loi n° 87-517 du 10 juillet 1987",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000512481",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "L'appellation de \"débile mental\", utilisée dans les textes officiels et administratifs, est supprimée.Elle est remplacée par celle de \"déficient intellectuel\"."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "A l'exception des dispositions des articles 3, 4 et 5 qui prennent effet à la date de sa publication, les dispositions de la présente loi sont applicables à compter du 1er janvier 1988.\n\nPendant une période transitoire fixée à trois années à compter de cette date, l'obligation d'emploi instituée par l'article L. 323-1 du code du travail est fixée à 3 % pour la première année, 4 % pour la deuxième année et 5 % pour la troisième année.\n\nPendant la période transitoire, le ministre chargé de l'emploi adresse au Parlement un rapport annuel sur l'exécution de la présente loi, notamment par les employeurs mentionnés à l'article L. 323-2 du code du travail."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000159832",
+  "type": "statute",
+  "title": "Loi n° 89-1016 du 31 décembre 1989",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000159832",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée l'approbation de l'avenant modifiant la convention entre la République française et la République fédérale d'Allemagne en vue d'éviter les doubles impositions et d'établir des règles d'assistance administrative et juridique réciproque en matière d'impôts sur le revenu et sur la fortune, ainsi qu'en matière de contribution des patentes et de contributions foncières du 21 juillet 1959, modifiée par l'avenant du 9 juin 1969, signé à Bonn le 28 septembre 1989 et dont le texte est annexé à la présente loi (1).(1) Il sera publié ultérieurement au Journal officiel."
+    }
+  ]
+}

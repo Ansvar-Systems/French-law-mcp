@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000747110",
+  "type": "statute",
+  "title": "Loi n° 96-1239 du 30 décembre 1996",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000747110",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée la ratification du traité entre la République française et le Royaume d'Espagne relatif à la coopération transfrontalière entre collectivités territoriales, signé à Bayonne le 10 mars 1995, et dont le texte est annexé à la présente loi (1)."
+    }
+  ]
+}

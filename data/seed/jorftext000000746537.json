@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000746537",
+  "type": "statute",
+  "title": "Loi n° 96-1076 du 11 décembre 1996",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000746537",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Avant le 31 décembre 2000, le Gouvernement présente au Parlement un rapport relatif à la prise en charge des personnes atteintes du syndrome autistique et des troubles qui lui sont apparentés, et à la création de places en établissements pour celles-ci. Ce rapport présente également une évaluation du nombre des personnes, mineures ou adultes, atteintes de ce syndrome."
+    }
+  ]
+}

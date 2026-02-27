@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000317296",
+  "type": "statute",
+  "title": "Loi n° 85-690 du 10 juillet 1985",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000317296",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article 18",
+      "content": "L'ordonnance n° 58-945 du 13 octobre 1958 relative à l'élection des députés à l'Assemblée nationale est abrogée.Ses dispositions contenues dans le code électoral (partie Législative), telles que modifiées et complétées par les textes subséquents, ont force de loi."
+    }
+  ]
+}

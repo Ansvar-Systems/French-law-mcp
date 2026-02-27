@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000889071",
+  "type": "statute",
+  "title": "Ordonnance n° 81-295 du 1 avril 1981",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000889071",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Sont étendues à Mayotte dans la limite prévue à l'article 10 de la loi n° 76-1212 du 24 décembre 1976, les dispositions législatives du décret du 5 novembre 1870 et celles de la loi du 19 avril 1930 relatives à la promulgation des lois et décrets."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Dans les dispositions visées à l'article 1er, les termes \" arrondissement \" et \" préfet \" sont remplacés respectivement par les termes \" collectivité territoriale de Mayotte \" et \" représentant du Gouvernement \"."
+    }
+  ]
+}

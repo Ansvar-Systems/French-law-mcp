@@ -1,0 +1,54 @@
+{
+  "id": "jorftext000000339241",
+  "type": "statute",
+  "title": "Loi n° 78-753 du 17 juillet 1978",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339241",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Article 35",
+      "content": "L'article 1546 du code des assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle est complété par les dispositions suivantes :\" Sauf en cas de fraude ou de fausse déclaration, l'action intentée par un organisme payeur en recouvrement des prestations indûment versées se prescrit également par deux ans à compter du paiement desdites prestations entre les mains du bénéficiaire.\""
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Article 36",
+      "content": "L'article 29 du code des assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle est abrogé."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Article 39",
+      "content": "I. - A modifié les dispositions suivantes :\n\nArt. L351-2 du code de la sécurité sociale\n\nII. - Un décret en Conseil d'Etat déteremine les modalités d'application du présent article."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Article 44",
+      "content": "Les dispositions des articles 38 à 43 ne sont applicables qu'aux pensions de réversion qui ont pris effet postérieurement à la date de publication de la présente loi."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Article 47",
+      "content": "I. Paragraphe modificateurII. Les dispositions des articles L. 320 à L. 324 bis du code des pensions militaires d'invalidité et des victimes de guerre sont applicables aux Français résidant à l'étranger."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Article 56",
+      "content": "I - (paragraphe modificateur).II - Les dispositions du paragraphe I de cet article (article 55 de l'ancien code pénal) sont immédiatement applicables quelle que soit la date des faits délictueux. Les interdictions en cours à la date d'application de la présente loi cessent de s'appliquer au terme d'une période de dix ans à compter de la date de la condamnation définitive les ayant entraînées.III - Un décret en Conseil d'Etat déterminera, en tant que de besoin, les modalités d'application du présent article."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Article 57",
+      "content": "Lorsque le délai-congé se répartit sur plus d'une année civile, l'indemnité compensatrice due en application du code du travail peut, pour l'établissement de l'impôt sur le revenu, être déclarée par le contribuable en plusieurs fractions correspondant respectivement à la part de l'indemnité afférente à chacune des années considérées."
+    }
+  ]
+}

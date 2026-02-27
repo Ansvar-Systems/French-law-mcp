@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000047561943",
+  "type": "statute",
+  "title": "LOI n°2023-378 du 19 mai 2023",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047561943",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les centres de santé autorisés à dispenser des soins avant l'entrée en vigueur de la présente loi effectuent une demande d'agrément auprès du directeur général de l'agence régionale de santé pour leurs seules activités dentaires, ophtalmologiques et orthoptiques. A cette fin, le dossier mentionné au III de l'article L. 6323-1-11 du code de la santé publique est déposé dans un délai de six mois à compter de la promulgation de la présente loi. L'examen du dossier de demande d'agrément est effectué dans les conditions prévues aux III et IV de l'article L. 6323-1-11 du code de la santé publique.A l'expiration du délai de six mois mentionné au premier alinéa du présent article, aucun centre de santé autorisé à dispenser des soins avant l'entrée en vigueur de la présente loi n'est autorisé à dispenser des soins dentaires, ophtalmologiques ou orthoptiques s'il n'a pas effectué le dépôt exigé du dossier de demande d'agrément.A l'expiration d'un délai de trente mois à compter de la promulgation de la présente loi, aucun centre de santé n'est autorisé à dispenser des soins dentaires, ophtalmologiques ou orthoptiques s'il ne dispose pas d'un agrément pour ces activités."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les moyens à allouer aux agences régionales de santé afin de leur permettre de remplir les missions qui leur sont dévolues au titre de la présente loi.La présente loi sera exécutée comme loi de l'Etat."
+    }
+  ]
+}

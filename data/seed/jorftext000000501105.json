@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000000501105",
+  "type": "statute",
+  "title": "Loi n° 68-943 du 30 octobre 1968",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000501105",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le montant maximum de la responsabilité de l'exploitant est fixé à 91 469 410,34 euros pour un même accident nucléaire.Toutefois, le montant ci-dessus est réduit à 22 867 352,59 euros pour un même accident nucléaire lorsque ne sont exploitées sur un site déterminé que des installations à risque réduit. Les caractéristiques de ces installations sont définies par décret pris après avis rendu public de la commission interministérielle des installations nucléaires de base."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Le ministre de l'économie et des finances, sur proposition du ministre chargé de l'énergie automique, est habilité à donner aux exploitants d'installations nucléaires la garantie de l'Etat, qui se substituera en tout ou en partie à une assurance ou à une autre garantie financière."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Si les victime d'un accident nucléaire ne peuvent obtenir de l'assureur, du garant financier ou de l'exploitant, réparation de leurs dommages, la charge de celle-ci est subsidiairement supportée par l'Etat à concurrence du montant fixé à l'article 4 ci-dessus et sans préjudice de l'application de l'article 5."
+    }
+  ]
+}

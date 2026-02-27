@@ -1,0 +1,36 @@
+{
+  "id": "jorftext000000632642",
+  "type": "statute",
+  "title": "Ordonnance n° 2005-895 du 2 août 2005",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000632642",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "I., II. - Paragraphes modificateursIII. - Les dispositions du II s'appliquent à la participation des employeurs au développement de la formation professionnelle continue due au titre des rémunérations versées à compter du 1er janvier 2005."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "L'organisme mentionné à l'article L. 313-17 du code de la construction et de l'habitation et les organismes bénéficiant des versements et contributions mentionnés à l'article L. 813-4 du code de la construction et de l'habitation perçoivent de l'Etat, dans des conditions déterminées en loi de finances, une compensation de la diminution éventuelle de ces ressources résultant de l'application des articles 1er, 2 et 3 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "I. - Paragraphe modificateurII. - La délivrance irrégulière par l'employeur d'attestations permettant à un contribuable d'obtenir le crédit d'impôt mentionné à l'article 200 decies du code général des impôts entraîne l'application d'une amende égale à 25 % des sommes indûment mentionnées sur ces documents."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Le Premier ministre, le ministre de l'emploi, de la cohésion sociale et du logement et le ministre de l'économie, des finances et de l'industrie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "jorftext000000540003",
+  "type": "statute",
+  "title": "Loi n° 92-666 du 16 juillet 1992",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000540003",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "1. Alinéa abrogé.2. Les produits et plus-values que procurent les placements effectués dans le plan ne sont pas soumis à l'impôt sur le revenu.3. Lorsque le plan se dénoue après huit ans par le versement d'une rente viagère, celle-ci est exonérée d'impôt sur le revenu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "1. Abrogé2. Abrogé3. Premier alinéa : abrogéSi le retrait ou le rachat intervient avant l'expiration de la deuxième année, le gain net réalisé sur le plan est imposé, dans les mêmes conditions, au taux de 22,5 p. 100."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Si l'une des conditions prévues pour l'application de la présente loi n'est pas remplie, le plan est clos, dans les conditions définies à l'article 4, à la date où le manquement a été commis.Les cotisations d'impôt résultant de cette clôture sont immédiatement exigibles et assorties de l'intérêt de retard visé à l'article 1727 et, lorsque la mauvaise foi du contribuable est établie, de la majoration mentionnée à l'article 1729 du code général des impôts."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Un décret précise les modalités d'application de la présente loi, ainsi que les obligations déclaratives des contribuables et des intermédiaires."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Les plans d'épargne en actions peuvent être ouverts dans les conditions prévues à l'article 1er à compter du 14 septembre 1992."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "A compter du 3 juin 1992, la répartition par annuités prévue par l'article 238 septies B du code général des impôts cesse de s'appliquer aux titres détenus par les personnes physiques et non inscrits à un actif professionnel."
+    }
+  ]
+}

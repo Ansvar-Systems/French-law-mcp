@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000047007968",
+  "type": "statute",
+  "title": "Ordonnance n°2023-15 du 18 janvier 2023",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047007968",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les articles 515-11 et 515-13 du code civil sont applicables en Polynésie française et dans les îles Wallis et Futuna dans leur rédaction résultant de la loi n° 2022-52 du 24 janvier 2022."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer, le garde des sceaux, ministre de la justice, et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

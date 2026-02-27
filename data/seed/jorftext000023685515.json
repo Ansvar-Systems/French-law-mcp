@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000023685515",
+  "type": "statute",
+  "title": "Ordonnance n° 2011-253 du 10 mars 2011",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023685515",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable, des transports et du logement sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

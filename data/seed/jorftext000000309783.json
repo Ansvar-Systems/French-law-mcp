@@ -1,0 +1,42 @@
+{
+  "id": "jorftext000000309783",
+  "type": "statute",
+  "title": "Loi du 8 mars 1935",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000309783",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il est interdit de mettre en vente et de vendre des objets d'art sous la dénomination de \"bronzes\" avec ou sans qualificatif, et composés d'un autre produit industriel que celui résultant d'un alliage métallique dans lequel le cuivre entre dans une proportion qui ne peut être inférieure à 65 % du poids total de l'objet manufacturé, le complément étant constitué par l'adjonction d'autres métaux."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les objets d'art en bronze dont la composition répondra aux prescriptions de l'article 1er de la présente loi devront, lors de leur mise en vente, porter obligatoirement le mot \"bronze\" gravé ou incrusté visiblement dans le métal."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "L'emploi du mot \"bronze\", même précédé ou suivi d'une autre appellation et servant à désigner une matière ne correspondant pas à la composition spécifiée à l'article 1er, de même que l'incorporation du mot \"bronze\" dans une appellation quelconque et l'emploi de toutes indications ou signes susceptibles de tromper l'acheteur sur la nature et la qualité substantielle de la matière mise en vente, est interdit en toutes circonstances et sous quelque forme que ce soit, notamment sur les emballages, étiquettes, papiers de commerce, factures, catalogues, prospectus, prix courant en tout autre moyen de publicité en général."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les infractions à la présente loi seront punies des peines prévues par les articles L. 213-1 à L. 214-3 du code de la consommation sur la répression des fraudes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "La loi du 26 mars 1891 et celle du 24 janvier 1923 sur l'atténuation et l'aggravation des peines et l'inscription au casier judiciaire seront applicables aux peines édictées par la présente loi."
+    }
+  ]
+}

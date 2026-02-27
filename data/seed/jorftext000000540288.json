@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000540288",
+  "type": "statute",
+  "title": "Loi n° 92-684 du 22 juillet 1992",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000540288",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les dispositions du code pénal relatives à la répression des crimes et des délits contre les personnes sont fixées par le livre II annexé à la présente loi.Ces dispositions entreront en vigueur à la date qui sera fixée par la loi relative à l'entrée en vigueur du nouveau code pénal et à la modification de certaines dispositions de droit pénal et de procédure pénale rendue nécessaire par cette entrée en vigueur."
+    }
+  ]
+}

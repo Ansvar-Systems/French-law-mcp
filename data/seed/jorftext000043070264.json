@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000043070264",
+  "type": "statute",
+  "title": "Ordonnance n°2021-77 du 27 janvier 2021",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043070264",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "I.-L'article L. 5533-3 entre en vigueur le 1er juillet 2021.\n\nII.-A modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nIII.-Le III de l'article L. 5546-1-1 du code des transports dans sa rédaction résultant de l'article 4 entre en vigueur le 1er janvier 2022.IV.-L'article L. 5546-1-5 du code des transports dans sa rédaction résultant de l'article 4 entre en vigueur le 1er juillet 2021.\n\n-Code des transports\n\n-Code des transports"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le Premier ministre et la ministre de la mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

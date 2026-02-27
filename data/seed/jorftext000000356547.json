@@ -1,0 +1,24 @@
+{
+  "id": "jorftext000000356547",
+  "type": "statute",
+  "title": "Loi n° 91-1383 du 31 décembre 1991",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000356547",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Les services départementaux des inspections du travail ainsi que les autres services qui ont compétence pour constater les infractions relatives au travail clandestin reçoivent les moyens nécessaires à l'exercice de leurs missions."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20",
+      "content": "Pour l'exercice de ses attributions, le ministre chargé du travail collecte les documents des services de contrôle constatant les faits susceptibles de constituer les infractions de travail clandestin et trafics de main-d'oeuvre en vue de réaliser des statistiques et des études sur ces matières.A cette fin, il fait procéder à leur traitement automatisé sans enregistrer aucune donnée à caractère directement nominatif."
+    }
+  ]
+}

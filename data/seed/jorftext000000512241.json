@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000512241",
+  "type": "statute",
+  "title": "Loi n° 87-1157 du 31 décembre 1987",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000512241",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "L'application des dispositions de l'article L. 630-3 du code de la santé publique ne peut préjudicier aux personnes reconnues coupables de faits constitutifs d'un crime ou de l'un des délits prévus par les articles L. 627, L. 627-2 ou L. 630 du même code qui ont tous été commis avant l'entrée en vigueur de la présente loi."
+    }
+  ]
+}

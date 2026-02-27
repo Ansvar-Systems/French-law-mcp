@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000878037",
+  "type": "statute",
+  "title": "Loi n° 84-422 du 6 juin 1984",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000878037",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les mineurs immatriculés pupilles de l'Etat dans le cadre des dispositions antérieurement en vigueur bénéficient du régime de la tutelle instituée par la présente loi."
+    }
+  ]
+}

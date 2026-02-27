@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000376920",
+  "type": "statute",
+  "title": "Loi n° 96-296 du 9 avril 1996",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000376920",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le 20 novembre, jour anniversaire de l'adoption par l'Organisation des Nations unies de la Convention internationale des droits de l'enfant, est reconnu Journée nationale des droits de l'enfant."
+    }
+  ]
+}

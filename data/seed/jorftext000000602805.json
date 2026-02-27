@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000602805",
+  "type": "statute",
+  "title": "Loi n° 2003-340 du 14 avril 2003",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000602805",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie."
+    }
+  ]
+}

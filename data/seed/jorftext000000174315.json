@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000174315",
+  "type": "statute",
+  "title": "Loi n° 91-1289 du 21 décembre 1991",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000174315",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisée l'approbation de l'amendement au protocole de Montréal du 16 septembre 1987 relatif à des substances qui appauvrissent la couche d'ozone, adopté à Londres le 29 juin 1990 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+    }
+  ]
+}

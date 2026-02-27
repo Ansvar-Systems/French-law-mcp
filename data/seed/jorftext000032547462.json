@@ -1,0 +1,30 @@
+{
+  "id": "jorftext000032547462",
+  "type": "statute",
+  "title": "Ordonnance n°2016-623 du 19 mai 2016",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032547462",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "A modifié les dispositions suivantes :"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "I. - Les dossiers de déclaration et de notification  mentionné aux articles L. 3512-17 et L. 3513-10 du code de la santé publique sont transmis au plus tard le 20 novembre 2016 pour les produits commercialisés avant le 20 mai 2016.Toute première déclaration annuelle mentionnée à l'article L. 3512-18 du code de la santé publique porte sur les données à partir du 1er janvier 2015.II. - Excepté les cigares, les produits non conformes aux dispositions de la présente ordonnance peuvent être mis à la consommation jusqu'au 20 novembre 2016 et commercialisés jusqu'au 1er janvier 2017.Pour les cigares, les produits non conformes aux dispositions de la présente ordonnance peuvent être commercialisés jusqu'au 20 mai 2017.III. - Les dispositions mentionnées aux articles L. 3512-23 à L. 3512-25 sont applicables à partir du 20 mai 2019 pour les cigarettes et le tabac à rouler, et à partir du 20 mai 2024 pour les autres produits du tabac."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Le Premier ministre, le ministre des finances et des comptes publics, la ministre des affaires sociales et de la santé et le garde des sceaux, ministre de la justice sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+    }
+  ]
+}

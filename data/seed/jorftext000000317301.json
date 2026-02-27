@@ -1,0 +1,18 @@
+{
+  "id": "jorftext000000317301",
+  "type": "statute",
+  "title": "Loi n° 86-1025 du 9 septembre 1986",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000317301",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17",
+      "content": "Les mineurs étrangers entrés en France avant le 7 décembre 1984, alors qu'ils n'avaient pas atteint l'âge de seize ans, et justifiant d'une scolarité régulière en France depuis cette date, reçoivent de plein droit un titre de séjour de même nature que celui de leur père ou mère autorisé à séjourner en France."
+    }
+  ]
+}
