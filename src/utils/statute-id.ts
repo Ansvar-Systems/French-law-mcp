@@ -1,8 +1,13 @@
 /**
  * French statute identifier handling.
  *
- * French statutes are identified by short title + year, e.g. "data-protection-act-2018".
- * The ID in the database is a slug derived from the short title.
+ * Document IDs use the DILA LEGI identifier (LEGITEXT/JORFTEXT number)
+ * lowercased, e.g. "legitext000006070721". A small set of well-known
+ * codes keep human-readable slugs (e.g. "code-civil", "code-penal").
+ *
+ * The LEGI identifier is guaranteed unique across the entire DILA corpus,
+ * unlike title-derived slugs which collide heavily (e.g. 226 arretes
+ * sharing the same date-based title).
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
@@ -40,6 +45,15 @@ export function resolveExistingStatuteId(
   ).get(inputId) as { id: string } | undefined;
 
   if (exact) return exact.id;
+
+  // Try lowercased (handles LEGITEXT000006070721 -> legitext000006070721)
+  const lower = inputId.trim().toLowerCase();
+  if (lower !== inputId) {
+    const byLower = db.prepare(
+      "SELECT id FROM legal_documents WHERE id = ? LIMIT 1"
+    ).get(lower) as { id: string } | undefined;
+    if (byLower) return byLower.id;
+  }
 
   // Try LIKE match on title
   const byTitle = db.prepare(

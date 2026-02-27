@@ -256,21 +256,14 @@ const WELL_KNOWN_IDS: Record<string, string> = {
   'JORFTEXT000000886460': 'loi-informatique-libertes',
 };
 
-function textIdToDocumentId(textId: string, title: string): string {
-  // Use well-known mapping if available
+function textIdToDocumentId(textId: string, _title: string): string {
+  // Use well-known mapping if available (established codes referenced by EU data)
   if (WELL_KNOWN_IDS[textId]) return WELL_KNOWN_IDS[textId];
 
-  // Build a kebab-case ID from the title
-  const id = title
-    .toLowerCase()
-    .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // remove diacritics
-    .replace(/[^a-z0-9\s-]/g, ' ')
-    .replace(/\s+/g, '-')
-    .replace(/-+/g, '-')
-    .replace(/^-|-$/g, '')
-    .slice(0, 80);
-
-  return id || textId.toLowerCase();
+  // Use the LEGI identifier (LEGITEXT/JORFTEXT number) as the document ID.
+  // These are guaranteed unique across the entire DILA corpus.
+  // Title-derived slugs cause massive collisions (e.g. 226 "arrete-du-6-octobre-2021").
+  return textId.toLowerCase();
 }
 
 function categorizeText(nature: string | undefined, title: string): string {
