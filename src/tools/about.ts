@@ -44,7 +44,7 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       {
         name: 'Legifrance',
         url: 'https://www.legifrance.gouv.fr',
-        authority: 'Direction de l'information legale et administrative',
+        authority: 'Direction de l\'information legale et administrative',
       },
     ],
     freshness: {
